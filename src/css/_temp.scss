@@ -9,7 +9,7 @@ body {
 
 .cont {
   width: 100vw;
-  height: 100vh;
+  min-height: 60vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -21,13 +21,21 @@ body {
   display: flex;
   flex-direction: column;
   gap: var(--space-m);
-  padding-block-end: var(--space-3xl);
+}
+
+.hero {
+  padding-block: var(--space-l) var(--space-2xl-3xl);
 }
 
 .inner h1 {
   font-size: var(--step-6-8);
+  max-width: 10ch;
 }
 
 .inner p {
   font-size: var(--step-1);
+}
+
+.smol {
+  font-size: var(--step-0);
 }
