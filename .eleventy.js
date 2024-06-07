@@ -16,9 +16,31 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addTransform("asset-hash", async function (content) {
     const document = dom(content);
     const linksToHash = [...document.querySelectorAll("#asset-hash")];
-    if (linksToHash.length == 0) return content; // no changes made.
-    linksToHash.forEach((el) => console.log(el.src, el.href));
-    return content;
+    if (linksToHash.length == 0) {
+      // no changes to make.
+      return content;
+    } else {
+      const outputDir = this.page.outputPath.split("/")[0];
+      console.log(outputDir);
+      linksToHash.forEach((el) => {
+        switch (el.tagName) {
+          case "LINK":
+            console.log("LINKINKINKNINKNIK");
+            console.log(el.href);
+            el.href = el.href + `?${Date.now()}`;
+            break;
+
+          case "SCRIPT":
+            console.log("SCRIPTTTTTT");
+            console.log(el.src);
+            el.src = el.src + `?${Date.now()}`;
+            break;
+          default:
+            break;
+        }
+      });
+      return document.documentElement.outerHTML;
+    }
   });
 
   return {
