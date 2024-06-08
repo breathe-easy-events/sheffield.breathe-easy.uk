@@ -16,6 +16,14 @@ const hashEl = async (el, attr, outputDir) => {
     // need to do some link sanatizing
     // this fails if the plugin that processes my scss -> css doesn't beat it to this point
     //  it's also not getting consistant hashs on the content??? which means it's not very usefull
+    //
+    // A bit of digging and there's a second config phase for plugins so all the personal config stuff will run first
+    // https://www.11ty.dev/docs/transforms/#plugins
+    //
+    // So I guess the next step is to move this into a plugin and pop it at the bottom of the config
+    // I was thinking a plugin would be easier for testing but I also need to test the interaction with
+    // a project, hmmmm
+
     .getHashedName(__dirname + outputDir + el[attr])
     .then((name) => {
       console.log("🧡 HASH - " + name);
