@@ -11,6 +11,8 @@ const dom = (content) => {
   return document;
 };
 
+const content = (dom) => dom.documentElement.outerHTML;
+
 const hashEl = async (el, attr, outputDir) => {
   console.log("💜 attrubite name - " + el[attr]);
   return await assetHash
@@ -27,6 +29,7 @@ const hashEl = async (el, attr, outputDir) => {
 
     .getHashedName(__dirname + outputDir + el[attr])
     .then((name) => {
+      // TODO can I check if eleventy set to --quiet ? and not log
       console.log("🧡 HASH - " + name);
       const filePath = el[attr];
       const link = filePath.split("/").slice(0, -1).concat(name).join("/");
@@ -47,8 +50,53 @@ const hashEl = async (el, attr, outputDir) => {
 };
 
 module.exports = function (eleventyConfig, pluginOptions = {}) {
+  eleventyConfig.on(
+    "eleventy.after",
+    async ({ dir, results, runMode, outputMode }) => {
+      // Run me after the build ends
+      // console.log({ dir, results, runMode, outputMode });
+
+      /**
+				{
+					"dir": {
+						"input": "src",
+						"includes": "_includes",
+						"data": "_data",
+						"output": "dist"
+					},
+					"results": [
+						{
+							"inputPath": "./src/css/styles.scss",
+							"outputPath": "dist/css/styles.css",
+							"url": "/css/styles.css",
+							"content": "String or Buffer"
+						}
+					],
+					"runMode": "serve",
+					"outputMode": "fs"
+				}
+			 */
+
+      // TODO
+      // grab the results
+      // filter for html files
+      // filter for links to hash
+      // get all links to hash in each result obj
+      //   maybe make a cache of already processed assets so I can just update the link
+      // copy asset to file with hash in name
+      // update link in dom
+      // replace content with stringified dom
+      // overwrite html file with new content
+      results
+        .filter(({ outputPath }) => outputPath.includes("html"))
+        .map((res) => ({ ...res, dom: dom(res.content) }))
+        .forEach((res) => {
+          console.log(Object.keys(res));
+        });
+    },
+  );
   console.log(pluginOptions);
-  const SELECTOR = pluginOptions.selector || "#asset-hash";
+  const SELECTOR = pluginOptions.selector || "[data-asset-hash]";
   // just going to dump this in config, consider extracting to seperate file or making a plugin if it works well
   eleventyConfig.addTransform("asset-hash", async function (content) {
     const document = dom(content);
