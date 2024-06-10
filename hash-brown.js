@@ -43,7 +43,7 @@ const hashEl = async (el, attr, outputDir) => {
     .catch((err) => console.log(err));
 };
 
-module.exports = function (eleventyConfig, pluginOptions = {}) {
+module.exports = (eleventyConfig, pluginOptions = {}) => {
   const SELECTOR = pluginOptions.selector || "[data-asset-hash]";
 
   /**
