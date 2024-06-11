@@ -13,6 +13,24 @@ const dom = (content) => {
 
 const content = (dom) => dom.documentElement.outerHTML;
 
+/**
+ * effectful function that takes a filePath
+ * hashes the file and copies it to a file with the hash in the name
+ * it then returns the name.
+ *
+ * If this has already been performed by another request it should just
+ * return the filename
+ */
+const getHash = async (filePath, cache) => {
+  if (filePath in cache) {
+    return cache[filePath];
+  } else {
+    return await assetHash
+      .getHashedName(filePath)
+      .catch((err) => console.log(err));
+  }
+};
+
 const hashEl = async (el, attr, outputDir) => {
   console.log("💜 attrubite name - " + el[attr]);
   console.log("💚 filepath - ", __dirname + "/" + outputDir + el[attr]);
@@ -80,51 +98,58 @@ module.exports = (eleventyConfig, pluginOptions = {}) => {
 
       // TODO
       // grab the results
-      results
-        .reduce((acc, resultObj) => {
-          if (resultObj.outputPath.includes("html")) {
-            const hdom = dom(resultObj.content);
-            const assetLinks = hdom.querySelectorAll(SELECTOR);
-            console.log({ SELECTOR });
-            console.log(assetLinks.length);
-            return assetLinks.length > 0
-              ? [...acc, { ...resultObj, dom: hdom, assetLinks }]
-              : acc;
-          } else {
-            return acc;
-          }
-        }, [])
-        .forEach(async (res) => {
-          // copy asset to file with hash in name
-          // update link in dom
-          // replace content with stringified dom
-          // overwrite html file with new content
-          console.log(Object.keys(res));
+      const pagesWithAssets = results.reduce((acc, resultObj) => {
+        if (resultObj.outputPath.includes("html")) {
+          const hdom = dom(resultObj.content);
+          const assetLinks = hdom.querySelectorAll(SELECTOR);
+          console.log({ SELECTOR });
+          console.log(assetLinks.length);
+          return assetLinks.length > 0
+            ? [...acc, { ...resultObj, dom: hdom, assetLinks }]
+            : acc;
+        } else {
+          return acc;
+        }
+      }, []);
 
-          const outputDir = dir.output;
-          for (let el of res.assetLinks) {
-            switch (el.tagName) {
-              case "LINK":
-                await hashEl(el, "href", outputDir);
-                break;
+      pagesWithAssets.forEach(async (res) => {
+        const fullPath = (link) => __dirname + "/" + dir.output + link;
 
-              case "SCRIPT":
-                await hashEl(el, "src", outputDir);
-                break;
-              default:
-                break;
-            }
+        // copy asset to file with hash in name
+        // update link in dom
+        // replace content with stringified dom
+        // overwrite html file with new content
+        console.log(Object.keys(res));
+
+        console.log("HASHEL can access hashcache - ", preHashed);
+        const outputDir = dir.output;
+        for (let el of res.assetLinks) {
+          switch (el.tagName) {
+            case "LINK":
+              console.log(
+                "🔥🔥🔥🔥🔥",
+                await getHash(fullPath(el["href"]), preHashed),
+              );
+              await hashEl(el, "href", outputDir);
+              break;
+
+            case "SCRIPT":
+              await hashEl(el, "src", outputDir);
+              break;
+            default:
+              break;
           }
-          // write new content to file
-          // return document.documentElement.outerHTML;
-          fs.writeFile(res.outputPath, content(res.dom), (err) => {
-            if (err) throw err;
-            console.log("The file has been saved!");
-          });
-          console.log(
-            "🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌",
-          );
+        }
+        // write new content to file
+        // return document.documentElement.outerHTML;
+        fs.writeFile(res.outputPath, content(res.dom), (err) => {
+          if (err) throw err;
+          console.log("The file has been saved!");
         });
+        console.log(
+          "🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌",
+        );
+      });
     },
   );
 };
