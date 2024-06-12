@@ -36,17 +36,18 @@ module.exports = (eleventyConfig, pluginOptions = {}) => {
     async ({ dir, results, runMode, outputMode }) => {
       const getHashedName = memoize(getHash);
 
-      // assuming that assets are relative paths referncing the root dir
-      // eg
-      //    /assets/css/styles.css
-      // if they are absolute paths this will break
-      // eg
-      //    https://dome.tld/assets/css/styles.css
-      // if they are relative paths not referencing the root this will break
-      // eg
-      //    on page https://dome.tld/posts/post-one.html
-      //    assets/css/styles.css
-
+      /**
+        assuming that assets are relative paths referncing the root dir
+        eg
+           /assets/css/styles.css
+        if they are absolute paths this will break
+        eg
+           https://dome.tld/assets/css/styles.css
+        if they are relative paths not referencing the root this will break
+        eg
+           on page https://dome.tld/posts/post-one.html
+           assets/css/styles.css
+			 */
       const fullPath = (link) => __dirname + "/" + dir.output + link;
 
       const hashedFileLink = (hashName, noneHashedPath) => {
