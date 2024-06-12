@@ -9,7 +9,7 @@ const memoize = (func) => {
     if (cache[key]) {
       return cache[key];
     } else {
-      const val = func.apply(null, args);
+      const val = func(...args);
       cache[key] = val;
       return val;
     }
