@@ -35,7 +35,7 @@ module.exports = (eleventyConfig, pluginOptions = {}) => {
   eleventyConfig.on(
     "eleventy.after",
     async ({ dir, results, runMode, outputMode }) => {
-      // return early if we're writing to the filesystem as this doesn't cover JSON yet
+      // return early if we're not writing to the filesystem as this doesn't cover JSON yet
       if (outputMode !== "fs") return;
       const getHashedName = memoize(getHash);
 
