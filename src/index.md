@@ -3,8 +3,6 @@ title: Breathe Easy Sheffield
 layout: base.html
 ---
 
-link to new [page](/posts/post-one/)
-
 💃 Do you enjoy going out and socialising, but feel cautious since the
 covid-19 pandemic? Are you avoiding crowded and indoor venues? You are
 not alone!

@@ -30,6 +30,7 @@ const getHash = async (filePath) =>
 
 module.exports = (eleventyConfig, pluginOptions = {}) => {
   const SELECTOR = pluginOptions.selector || "[data-asset-hash]";
+  const DIRNAME = pluginOptions.dirname || __dirname;
 
   eleventyConfig.on(
     "eleventy.after",
@@ -50,7 +51,7 @@ module.exports = (eleventyConfig, pluginOptions = {}) => {
            on page https://dome.tld/posts/post-one.html
            assets/css/styles.css
 			 */
-      const fullPath = (link) => __dirname + "/" + dir.output + link;
+      const fullPath = (link) => DIRNAME + "/" + dir.output + link;
 
       const hashedFileLink = (hashName, noneHashedPath) => {
         const link = noneHashedPath
@@ -99,7 +100,7 @@ module.exports = (eleventyConfig, pluginOptions = {}) => {
           }
         }
 
-        fs.writeFileSync(__dirname + "/" + page.outputPath, content(page.dom));
+        fs.writeFileSync(DIRNAME + "/" + page.outputPath, content(page.dom));
       }
     },
   );

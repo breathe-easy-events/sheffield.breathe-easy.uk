@@ -1,9 +1,9 @@
 const eleventySass = require("@11tyrocks/eleventy-plugin-sass-lightningcss");
-const hashBrown = require("./hash-brown");
+const hashAssets = require("./src/_config/hash-assets");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(eleventySass);
-  eleventyConfig.addPlugin(hashBrown);
+  eleventyConfig.addPlugin(hashAssets, { dirname: __dirname });
 
   return {
     dir: {
