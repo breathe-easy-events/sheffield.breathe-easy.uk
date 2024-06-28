@@ -1,12 +1,20 @@
 const esbuild = require("esbuild");
 
+const defaults = {
+  entryPoint: "./src/js/index.js",
+  ts: false,
+};
+
 module.exports = (eleventyConfig, pluginOptions = {}) => {
-  const DIRNAME = pluginOptions.dirname || __dirname;
-  console.log(DIRNAME);
-  eleventyConfig.addExtension("js", {
+  const opts = { ...defaults, ...pluginOptions };
+  const ft = opts.ts ? "ts" : "js";
+
+  eleventyConfig.addTemplateFormats(ft);
+
+  eleventyConfig.addExtension(ft, {
     outputFileExtension: "js",
     compile: async (_, path) => {
-      if (path !== DIRNAME + "/src/scripts/index.js") {
+      if (path !== opts.entryPoint) {
         return;
       }
 
