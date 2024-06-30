@@ -1,7 +1,11 @@
+*:focus-visible {
+  outline: 10px solid var(--color-yellow);
+  outline-offset: 0.25rem;
+  border-radius: 0.125rem;
+}
+
 body {
   --color-fg: var(--color-teal);
-  // --color-bg: var(--color-teal);
-  // --color-bg: var(--color-blue);
   color: var(--color-fg);
   background-color: var(--color-bg);
   overflow-wrap: anywhere;
