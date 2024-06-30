@@ -24,7 +24,8 @@ button {
 
 button:focus,
 button:hover {
-  filter: brightness(1.25);
+  background-color: var(--color-teal-light);
+  border-color: var(--color-teal-light);
 }
 
 footer {
