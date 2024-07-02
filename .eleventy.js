@@ -1,8 +1,7 @@
 const eleventySass = require("@11tyrocks/eleventy-plugin-sass-lightningcss");
 const hashAssets = require("./src/_config/hash-assets");
-const absoluteUrl = require("./src/_config/filter/absoluteUrl");
-const withDefault = require("./src/_config/shortcode/withDefault");
-const titleMeta = require("./src/_config/shortcode/titleMeta");
+const filters = require("./src/_config/filter/filters");
+const shortcodes = require("./src/_config/shortcode/shortcodes");
 
 module.exports = function (eleventyConfig) {
   // templates and processing files
@@ -13,11 +12,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addGlobalData("baseUrl", process.env.BASE_URL || "");
 
   // filters
-  eleventyConfig.addPlugin(absoluteUrl);
+  eleventyConfig.addPlugin(filters);
 
   // shortcodes
-  eleventyConfig.addPlugin(withDefault);
-  eleventyConfig.addPlugin(titleMeta);
+  eleventyConfig.addPlugin(shortcodes);
 
   return {
     dir: {
