@@ -31,7 +31,11 @@
       property="og:description"
       content="{% withDefault description, defaultMeta.description  %}"
     />
-    <!-- <meta property="og:image" content="{{ $image }}" /> -->
+    <!-- can I pass a shortcode through a filter to get the absolute url? -->
+    <meta
+      property="og:image"
+      content="{{  defaultMeta.image | absoluteUrl  }}"
+    />
     <link data-asset-hash href="/css/styles.css" rel="stylesheet" />
   </head>
   <body>

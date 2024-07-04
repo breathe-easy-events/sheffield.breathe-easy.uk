@@ -4,6 +4,7 @@ const filters = require("./src/_config/filter/filters");
 const shortcodes = require("./src/_config/shortcode/shortcodes");
 
 module.exports = function (eleventyConfig) {
+  eleventyConfig.addPassthroughCopy("src/static");
   // templates and processing files
   eleventyConfig.addPlugin(eleventySass);
   eleventyConfig.addPlugin(hashAssets, { dirname: __dirname });
