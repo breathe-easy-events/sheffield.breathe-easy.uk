@@ -31,13 +31,15 @@
       property="og:description"
       content="{% withDefault description, defaultMeta.description  %}"
     />
-    {% if socialImage %}
+    {% if socialImage and socialImageAlt %}
     <meta property="og:image" content="{{  socialImage | absoluteUrl  }}" />
+    <meta property="og:image:alt" content="{{  socialImageAlt }}" />
     {% else %}
     <meta
       property="og:image"
       content="{{  defaultMeta.image | absoluteUrl  }}"
     />
+    <meta property="og:image:alt" content="{{  defaultMeta.imageAlt }}" />
     {% endif %}
     <meta name="twitter:card" content="summary_large_image" />
     <meta property="og:image:width" content="1200" />

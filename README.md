@@ -14,6 +14,7 @@ layout: "which template to use"
 emoji: "[optional] for insertion to favicon"
 description: "[optional] for opengraph metadata"
 socialImage: "[optional] for opengraph metadata (external link or path to file)"
+socialImageAlt: "[optional] alt text describing social preview image, if you do not include this then it will fallback to the default image / alt"
 ```
 
 ### cache busting
