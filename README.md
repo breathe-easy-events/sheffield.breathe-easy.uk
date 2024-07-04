@@ -1,6 +1,6 @@
 ## breathe-easy.uk
 
-Website under construction
+Website under construction.
 
 ## notes
 
