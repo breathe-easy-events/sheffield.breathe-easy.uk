@@ -2,7 +2,7 @@ module.exports = (eleventyConfig, _) => {
   eleventyConfig.addFilter(
     "absoluteUrl",
     function (url, base = eleventyConfig.globalData.baseUrl) {
-      if (base && !url.startsWith("http")) {
+      if (base) {
         try {
           return new URL(url, base).href;
         } catch (err) {
