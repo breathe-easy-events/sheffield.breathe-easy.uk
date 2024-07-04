@@ -24,3 +24,14 @@ Generated assets like CSS / JS can be hashed by adding a `data-asset-hash` attri
 <link data-asset-hash href="/css/styles.css" rel="stylesheet" />
 ```
 
+### baseURL
+
+Absolute urls can be generated with the `absoluteUrl` filter when the `BASE_URL` environment variable is set.
+
+```sh
+BASE_URL="https://breathe-easy.uk" npm start
+```
+
+```html
+<meta property="og:url" content="{{ page.url | absoluteUrl }}" />
+```
