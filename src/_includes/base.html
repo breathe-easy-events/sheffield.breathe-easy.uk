@@ -3,6 +3,42 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>{% withDefault emoji, '🌞'  %}</text></svg>"
+    />
+
+    <!--generic metadata -->
+    <title>{% titleMeta title, page, defaultMeta.title %}</title>
+    <meta
+      name="title"
+      content="{% titleMeta title, page, defaultMeta.title %}"
+    />
+    <link rel="canonical" href="{{ page.url | absoluteUrl }}" />
+    <meta
+      name="description"
+      content="{% withDefault description, defaultMeta.description  %}"
+    />
+
+    <!-- open graph -->
+    <meta property="og:url" content="{{ page.url | absoluteUrl }}" />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:title"
+      content="{% titleMeta title, page, defaultMeta.title %}"
+    />
+    <meta
+      property="og:description"
+      content="{% withDefault description, defaultMeta.description  %}"
+    />
+    {% if socialImage %}
+    <meta property="og:image" content="{{  socialImage | absoluteUrl  }}" />
+    {% else %}
+    <meta
+      property="og:image"
+      content="{{  defaultMeta.image | absoluteUrl  }}"
+    />
+    {% endif %}
     <meta name="theme-color" content="#044156" />
     <title>{{ title }}</title>
     <link data-asset-hash href="/css/styles.css" rel="stylesheet" />
