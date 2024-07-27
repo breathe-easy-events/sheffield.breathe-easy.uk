@@ -1,12 +1,17 @@
+const bundleJavascript = require("./src/_config/bundle-javascript");
 const eleventySass = require("@11tyrocks/eleventy-plugin-sass-lightningcss");
-const hashAssets = require("./src/_config/hash-assets");
 const filters = require("./src/_config/filter/filters");
+const hashAssets = require("./src/_config/hash-assets");
 const shortcodes = require("./src/_config/shortcode/shortcodes");
 
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addPassthroughCopy("src/static");
   // templates and processing files
+  eleventyConfig.addPassthroughCopy("src/static");
   eleventyConfig.addPlugin(eleventySass);
+  eleventyConfig.addPlugin(bundleJavascript, {
+    entryPoint: "./src/js/index.ts",
+    ts: true,
+  });
   eleventyConfig.addPlugin(hashAssets, { dirname: __dirname });
 
   // data

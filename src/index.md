@@ -15,6 +15,7 @@ covid-19 and other infectious diseases.
 cultural events, designed with enhanced safety measures in place to
 reduce transmission risk. Launching autumn 2024.
 
-👉 Want to find out more? [Register your interest](https://docs.google.com/forms/d/e/1FAIpQLSePEhuU3I7c76Ow1zfLu_Os_1bC85zPfZ7Cjm2TY7QFPzMgow/viewform?pli=1)
+👉 Want to find out more? [Register your interest](http://eepurl.com/iQfyS2)
 
 *This site is under construction as of June 2024*
+
