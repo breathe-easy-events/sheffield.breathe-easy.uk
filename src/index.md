@@ -14,3 +14,8 @@ covid-19 and other infectious diseases.
 🌤️ Breathe Easy Sheffield is a new eclectic series of social and
 cultural events, designed with enhanced safety measures in place to
 reduce transmission risk. Launching autumn 2024.
+
+👉 Want to find out more? [Register your interest](http://eepurl.com/iQfyS2)
+
+*This site is under construction as of June 2024*
+
