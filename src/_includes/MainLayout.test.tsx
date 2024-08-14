@@ -8,6 +8,8 @@ test("render MainLayout", async () => {
   const viewProps: ViewProps = {
     content: "<p>This is the <em>BODY</em></p>",
     title: "My site",
+    page: { url: "/" },
+    baseUrl: "",
   };
 
   const result = MainLayout(viewProps);

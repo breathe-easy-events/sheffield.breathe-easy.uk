@@ -6,6 +6,13 @@ import * as url from "url";
 const __dirname = url.fileURLToPath(new URL(".", import.meta.url));
 
 export default function (eleventyConfig: any) {
+  // data
+  eleventyConfig.addGlobalData("baseUrl", process.env.BASE_URL || "");
+
+  // static files
+  eleventyConfig.addPassthroughCopy("src/static");
+
+  // process css
   eleventyConfig.addPlugin(eleventySass);
 
   // eleventy typescript / TSX support
