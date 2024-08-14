@@ -1,14 +1,10 @@
 import { ViewProps } from "../../eleventy";
 import { Heading } from "../_components/Heading";
+import { Head } from "../_components/Head";
 
 export const MainLayout = ({ content, title }: ViewProps): JSX.Element => (
   <html lang="en">
-    <head>
-      <meta charset="UTF-8" />
-      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <title>{title}</title>
-      <link data-asset-hash rel="stylesheet" href="/css/styles.css"></link>
-    </head>
+    <Head title={title}></Head>
     <body>
       <Heading title={title}></Heading>
       {content}
