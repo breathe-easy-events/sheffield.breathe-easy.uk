@@ -23,7 +23,8 @@ const dom = (content) => {
   return document;
 };
 
-const content = (dom) => dom.documentElement.outerHTML;
+// reverse the DOM wrapping above before writing the file
+const content = (dom) => dom.body.innerHTML;
 
 const getHash = async (filePath) =>
   await assetHash.getHashedName(filePath).catch((err) => console.log(err));
