@@ -1,8 +1,8 @@
 export type HeadProps = {
-  title?: string;
+  title: string;
 };
 
-export const Head = ({ title = "World" }: HeadProps): JSX.Element => (
+export const Head = ({ title }: HeadProps): JSX.Element => (
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />

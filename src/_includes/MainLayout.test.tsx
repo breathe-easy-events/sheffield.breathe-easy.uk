@@ -12,6 +12,6 @@ test("render MainLayout", async () => {
 
   const result = MainLayout(viewProps);
   document.body.innerHTML = await jsxToString(result);
-  expect(screen.getByText("Hello My site")).to.exist;
+  expect(screen.getAllByText(viewProps.title)).to.exist;
   expect(screen.getByText("BODY")).to.exist;
 });
