@@ -9,8 +9,10 @@ export const MainLayout = ({ content, title }: ViewProps): JSX.Element => (
       <title>{title}</title>
       <link data-asset-hash rel="stylesheet" href="/css/styles.css"></link>
     </head>
-    <Heading name={title}></Heading>
-    <body>{content}</body>
+    <body>
+      <Heading name={title}></Heading>
+      {content}
+    </body>
     <script data-asset-hash src="/js/index.js"></script>
   </html>
 );
