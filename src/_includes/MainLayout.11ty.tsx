@@ -10,7 +10,7 @@ export const MainLayout = ({ content, title }: ViewProps): JSX.Element => (
       <link data-asset-hash rel="stylesheet" href="/css/styles.css"></link>
     </head>
     <body>
-      <Heading name={title}></Heading>
+      <Heading title={title}></Heading>
       {content}
     </body>
     <script data-asset-hash src="/js/index.js"></script>

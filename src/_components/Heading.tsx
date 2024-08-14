@@ -1,7 +1,7 @@
 export type HeadingProps = {
-  name?: string;
+  title: string;
 };
 
-export const Heading = ({ name = "World" }: HeadingProps): JSX.Element => (
-  <h1>Hello {name}</h1>
+export const Heading = ({ title }: HeadingProps): JSX.Element => (
+  <h1>{title}</h1>
 );
