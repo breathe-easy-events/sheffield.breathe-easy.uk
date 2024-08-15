@@ -4,10 +4,27 @@ import { Head } from "../_components/Head";
 import { Section } from "../_components/Section";
 
 export const MainLayout = (data: ViewProps): JSX.Element => {
-  const { content, title, baseUrl, page } = data;
+  const {
+    baseUrl,
+    content,
+    description,
+    emoji,
+    page,
+    socialImage,
+    socialImageAlt,
+    title,
+  } = data;
   return (
     <html lang="en">
-      <Head title={title} url={page.url} baseUrl={baseUrl}></Head>
+      {Head({
+        baseUrl,
+        description,
+        emoji,
+        socialImage,
+        socialImageAlt,
+        title,
+        url: page.url,
+      })}
       <body>
         <main id="main">
           <Section>
