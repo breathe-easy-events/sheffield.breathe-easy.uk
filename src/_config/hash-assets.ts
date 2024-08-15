@@ -1,6 +1,8 @@
-const assetHash = require("asset-hash");
-const { Window } = require("happy-dom");
-const fs = require("fs");
+import { Window } from "happy-dom";
+import * as fs from "fs";
+import { getHashedName } from "asset-hash";
+import * as url from "url";
+const __dirname = url.fileURLToPath(new URL(".", import.meta.url));
 
 const memoize = (func) => {
   const cache = {};
@@ -24,12 +26,12 @@ const dom = (content) => {
 };
 
 // reverse the DOM wrapping above before writing the file
-const content = (dom) => dom.body.innerHTML;
+const content = (dom: Document) => dom.body.innerHTML;
 
 const getHash = async (filePath) =>
-  await assetHash.getHashedName(filePath).catch((err) => console.log(err));
+  await getHashedName(filePath).catch((err) => console.log(err));
 
-module.exports = (eleventyConfig, pluginOptions = {}) => {
+export const hashAssets = (eleventyConfig: any, pluginOptions = {}) => {
   const SELECTOR = pluginOptions.selector || "[data-asset-hash]";
   const DIRNAME = pluginOptions.dirname || __dirname;
 

@@ -1,11 +1,19 @@
-const esbuild = require("esbuild");
+import { build } from "esbuild";
+
+export type PluginOpts = {
+  entryPoint?: string;
+  ts?: boolean;
+};
 
 const defaults = {
   entryPoint: "./src/js/index.js",
   ts: false,
 };
 
-module.exports = (eleventyConfig, pluginOptions = {}) => {
+export const bundleJavascript = (
+  eleventyConfig: any,
+  pluginOptions: PluginOpts = {},
+) => {
   const opts = { ...defaults, ...pluginOptions };
   const ft = opts.ts ? "ts" : "js";
 
@@ -13,13 +21,13 @@ module.exports = (eleventyConfig, pluginOptions = {}) => {
 
   eleventyConfig.addExtension(ft, {
     outputFileExtension: "js",
-    compile: async (_, path) => {
+    compile: async (_, path: string) => {
       if (path !== opts.entryPoint) {
         return;
       }
 
       return async () => {
-        let { outputFiles } = await esbuild.build({
+        let { outputFiles } = await build({
           target: "es2020",
           entryPoints: [path],
           minify: true,
