@@ -1,13 +1,13 @@
-# An Eleventy starter
+# breathe-easy.uk
 
-Develop static sites with [Eleventy](https://www.11ty.dev/docs/), [Typescript](https://www.typescriptlang.org/), [JSX](https://react.dev/learn/writing-markup-with-jsx), [SCSS](https://sass-lang.com/), [Lightning CSS](https://lightningcss.dev/), [vitest](https://vitest.dev/) and [Testing Library](https://testing-library.com/docs/dom-testing-library/intro). Based on [Better 11ty Development with Tooling](https://www.jetbrains.com/guide/javascript/tutorials/eleventy-tsx/).
-
+Based on [`11tsy-starter`](https://github.com/aaaaargZombies/11tsy-starter/)
 
 ## Development
 
 The approach with this starter is to treat Eleventy layouts as wrappers for stateless UI components so they can be easily tested and reasoned about. The contract between these components and Eleventy can be expressed as types in `eleventy.ts`.
 
 Although JSX is used for the templates there is no connection to react and these components will be rendered to static HTML in the build process with no hydration.
+
 
 ### Prerequisites
 
@@ -48,16 +48,16 @@ As static sites are often hosted on CDNs it is a good idea to hash assets so you
 ```
 
 
-### Code & configs
+## Code & configs
 
-#### This site is built with `Elm` and bundled by `Vite`
+### This site is built with `Elm` and bundled by `Vite`
 
 - [Elm's official homepage](https://elm-lang.org/).
 - [Elm Package docs](https://package.elm-lang.org/)
 - [Vite's official documentation.](https://vitejs.dev/)
 - [Vite static asset handling](https://package.elm-lang.org/packages/hmsk/elm-vite-plugin-helper/latest/)
 
-#### What it's for
+### What it's for
 
 - `eleventy.config.ts` configure the Eleventy build
 - `eleventy.ts` a place to add types that describe the data you expect to consume from Eleventy
@@ -71,7 +71,30 @@ As static sites are often hosted on CDNs it is a good idea to hash assets so you
 - `./src/js/index.ts` entrypoint for compiling *client side* JS. Bundling options are set in `src/_config/bundle-javascript.ts`
 - `./src/css/styles.scss` entrypoint for compiling CSS add a `browserlist` entry to `package.json` or `.browserslistrc` to change lightningcss default targets
 
-#### Content
+### baseURL
+
+the `BASE_URL` environment variable is set by doing.
+
+```sh
+BASE_URL="https://breathe-easy.uk" npm start
+```
+
+This will then be accessed as `globalData` in templates under `data.baseURL`
+
+
+## Content
 
 Currently the only content is `./src/index.md` but Eleventy's documentation on [templates](https://www.11ty.dev/docs/templates/) and [data](https://www.11ty.dev/docs/data/) give many interesting examples of how to source and organize content. If you'd like a quick intro to get the feel for this check out this [Build an 11ty Site in 3 Minutes video](https://www.youtube.com/watch?v=BKdQEXqfFA0).
 
+### pages
+
+Pages accept the following front-matter
+
+```yaml
+layout: "which template to use"
+title: "for pages h1 and opengraph metadata"
+description: "[optional] for opengraph metadata"
+emoji: "[optional] for insertion to favicon"
+socialImage: "[optional] for opengraph metadata (external link or path to file)"
+socialImageAlt: "[optional] alt text describing social preview image, if you do not include this then it will fallback to the default image / alt"
+```
