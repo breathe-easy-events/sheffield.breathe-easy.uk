@@ -1,4 +1,9 @@
+.hero {
+  // --color-bg: var(--color-green);
+}
+
 .hero h1 {
+  background-color: var(--color-bg);
   font-size: var(--step-6-8);
   max-width: 10ch;
   margin-block-end: var(--space-s);

@@ -56,9 +56,27 @@ label {
 }
 
 main {
-  padding-block: var(--space-l);
+  padding-block-end: var(--space-l);
 }
 
-p {
+a,
+p,
+li {
   font-size: var(--step-1);
+}
+
+blockquote {
+  background-color: var(--color-teal-light);
+  padding: var(--space-s);
+  border-inline-start: 4px var(--color-fg) solid;
+}
+blockquote > * {
+  font-size: var(--step-2);
+  line-height: var(--line-height-2);
+  font-weight: 300;
+}
+
+ul,
+ol {
+  padding-inline-start: var(--space-s-0);
 }

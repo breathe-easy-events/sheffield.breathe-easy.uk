@@ -1,9 +1,10 @@
-import { ViewProps } from "../../eleventy";
-import { Hero } from "../_components/Hero";
 import { Head } from "../_components/Head";
+import { Header } from "../_components/Header";
+import { Hero } from "../_components/Hero";
 import { Section } from "../_components/Section";
+import { ViewProps } from "../../eleventy";
 
-export const MainLayout = (data: ViewProps): JSX.Element => {
+export const IndexLayout = (data: ViewProps): JSX.Element => {
   const {
     baseUrl,
     content,
@@ -14,6 +15,12 @@ export const MainLayout = (data: ViewProps): JSX.Element => {
     socialImageAlt,
     title,
   } = data;
+
+  const links = data.collections["menu"].map((entry) => [
+    entry.data.title,
+    entry.url,
+  ]);
+
   return (
     <html lang="en">
       {Head({
@@ -26,6 +33,10 @@ export const MainLayout = (data: ViewProps): JSX.Element => {
         url: page.url,
       })}
       <body>
+        <a href="#main" class="screen-reader-only">
+          skip to content
+        </a>
+        {Header({ links, currentPage: data.page.url, bottomEl: false })}
         <main id="main">
           <Section>
             <Hero title={title}></Hero>
@@ -38,4 +49,4 @@ export const MainLayout = (data: ViewProps): JSX.Element => {
   );
 };
 
-export const render = MainLayout;
+export const render = IndexLayout;

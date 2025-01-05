@@ -1,0 +1,33 @@
+.header nav {
+  background-color: var(--color-bg);
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: var(--space-m);
+}
+
+.header nav ul {
+  display: flex;
+  margin: 0;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.header a {
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.2s ease-out;
+  padding-inline: var(--space-s);
+  padding-block: var(--space-3xs);
+  border-radius: var(--space-3xs);
+}
+
+.header a:hover {
+  color: var(--color-bg);
+  background-color: var(--color-fg);
+}
+
+.header a[aria-current] {
+  // indicate visually which page?
+}
