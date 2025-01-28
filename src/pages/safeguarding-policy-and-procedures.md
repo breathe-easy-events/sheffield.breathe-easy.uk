@@ -5,17 +5,18 @@ menu: false
 **Breathe Easy Sheffield Safeguarding Policy and Procedures** 
 
 **Contents**   
-1\. Key Contacts   
-2\. Introduction   
-3\. Laying the Groundwork (Prevention of Safeguarding Issues)   
-4\. Procedures (Responding to Safeguarding Issues)   
-5\. Managing Allegations Made Against a Volunteer   
-6\. Recording and Managing Confidential Information   
-7\. Designated Safeguarding Lead Roles and Responsibilities 
-8\. Disseminating and Reviewing 
+1. Key Contacts   
+2. Introduction   
+3. Laying the Groundwork (Prevention of Safeguarding Issues)   
+4. Procedures (Responding to Safeguarding Issues)   
+5. Managing Allegations Made Against a Volunteer   
+6. Recording and Managing Confidential Information   
+7. Designated Safeguarding Lead Roles and Responsibilities 
+8. Disseminating and Reviewing 
 
 
 **1\. Key Contacts**   
+
 Designated Safeguarding Lead (DSL):   
 Jade Brown 
 
