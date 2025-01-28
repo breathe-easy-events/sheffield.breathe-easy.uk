@@ -12,7 +12,6 @@ menu: false
 5\. Managing Allegations Made Against a Volunteer   
 6\. Recording and Managing Confidential Information   
 7\. Designated Safeguarding Lead Roles and Responsibilities 
-
 8\. Disseminating and Reviewing 
 
 
