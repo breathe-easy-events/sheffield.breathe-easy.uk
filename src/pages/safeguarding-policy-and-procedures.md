@@ -51,9 +51,7 @@ Our aim is to create a community where everyone is respected and where all contr
 
 ### Partner Organisations 
 
-Sometimes, when operating alongside other organisations, we may not be able to override the decision of a partner in how they deal with potential safeguarding situations. One of the ways we can avoid this is by sharing our Safeguarding Policy and Procedure with partners 
-
-and asking that they read it and share their own policies with us before agreeing to the activity, preferably in writing. This way we hope to both advocate for a more care-led approach and foster a collaborative relationship so that we can jointly address challenging situations. 
+Sometimes, when operating alongside other organisations, we may not be able to override the decision of a partner in how they deal with potential safeguarding situations. One of the ways we can avoid this is by sharing our Safeguarding Policy and Procedure with partners and asking that they read it and share their own policies with us before agreeing to the activity, preferably in writing. This way we hope to both advocate for a more care-led approach and foster a collaborative relationship so that we can jointly address challenging situations. 
 
 ## 4. Procedures (Responding to Safeguarding Issues)
 
@@ -74,7 +72,6 @@ If the danger is immediate, this is an emergency situation. We acknowledge the p
 ### Non-Emergency 
 
 If the danger is not immediate, this is a non-emergency situation. 
-
 If an allegation is disclosed to you or you witness an incident the priorities will be: 
 
 * To keep everyone involved safe, which may involve moving to another location. 
@@ -87,7 +84,7 @@ If an allegation is disclosed to you or you witness an incident the priorities w
 * Do not promise to keep it a secret.   
 * Record the incident on the Safeguarding Reporting Form as soon as possible, using factual unbiased language. 
 
-All incidents or alleged incidents will be discussed with the DSL/DDS. If you feel unable to raise it with the DSL/DDSL, you can directly contact the Sheffield Adult Safeguarding Partnership or the Sheffield Safeguarding Hub, though this may lead to an institutional response to the situation, which could cause more harm than good. The full scope of the best interests of the person concerned should always be taken into account before decisions are made. 
+All incidents or alleged incidents will be discussed with the DSL/DDSL. If you feel unable to raise it with the DSL/DDSL, you can directly contact the Sheffield Adult Safeguarding Partnership or the Sheffield Safeguarding Hub, though this may lead to an institutional response to the situation, which could cause more harm than good. The full scope of the best interests of the person concerned should always be taken into account before decisions are made. 
 
 In order to implement this Policy, Breathe Easy Sheffield will seek:   
 
@@ -148,8 +145,7 @@ The Safeguarding Policy and Procedures will be reviewed annually by the Committe
 
 Last reviewed: January 2025\
 Reviewed by: DSL Jade Brown\
-Approved by Breathe Easy Committee:\
-22.01.2025  
+Approved by Breathe Easy Committee: 22.01.2025  
 
 ### License
 
