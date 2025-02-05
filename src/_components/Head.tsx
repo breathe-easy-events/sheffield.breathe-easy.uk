@@ -1,3 +1,5 @@
+import { z } from "zod";
+
 export type HeadProps = {
   baseUrl?: string;
   description?: string; // "[optional] for opengraph metadata"
@@ -16,7 +18,37 @@ const defaultProps = {
   socialImageAlt: "Breath Easy's logo",
 };
 
-const absoluteUrl = (base, url) => {
+const propsSchema = z
+  .object({
+    baseUrl: z.string().default(defaultProps.baseUrl),
+    description: z.string().default(defaultProps.description),
+    socialImage: z.string().default(defaultProps.socialImage),
+    socialImageAlt: z.string().default(defaultProps.socialImageAlt),
+    title: z.string(),
+    url: z.string(),
+  })
+  .transform((props) => {
+    return {
+      ...props,
+      socialImage:
+        // if no alt description for image is provided fallback to default
+        props.socialImageAlt === defaultProps.socialImageAlt
+          ? absoluteUrl(props.baseUrl, defaultProps.socialImage)
+          : absoluteUrl(props.baseUrl, props.socialImage),
+      socialImageAlt:
+        // prevent alt description being overridden when custom social image not in use
+        props.socialImage === defaultProps.socialImage
+          ? defaultProps.socialImageAlt
+          : props.socialImageAlt,
+      title:
+        props.url === "/"
+          ? props.title
+          : `${defaultProps.title} | ${props.title}`,
+      url: absoluteUrl(props.baseUrl, props.url),
+    };
+  });
+
+const absoluteUrl = (base: string, url: string): string | URL => {
   if (base) {
     try {
       return new URL(url, base).href;
@@ -29,40 +61,25 @@ const absoluteUrl = (base, url) => {
   }
 };
 
-export const Head = ({
-  baseUrl = defaultProps.baseUrl,
-  description = defaultProps.description,
-  socialImage = defaultProps.socialImage,
-  socialImageAlt = defaultProps.socialImageAlt,
-  title,
-  url,
-}: HeadProps): JSX.Element => {
-  const title_ = url === "/" ? title : `${defaultProps.title} | ${title}`;
-  const url_ = absoluteUrl(baseUrl, url);
-  const socialImage_ =
-    socialImageAlt === defaultProps.socialImageAlt
-      ? absoluteUrl(baseUrl, defaultProps.socialImage)
-      : absoluteUrl(baseUrl, socialImage);
-  const socialImageAlt_ =
-    socialImageAlt === defaultProps.socialImageAlt ||
-    socialImage === defaultProps.socialImage
-      ? defaultProps.socialImageAlt
-      : socialImageAlt;
+export const Head = (props: HeadProps): JSX.Element => {
+  const { title, description, socialImage, socialImageAlt, url } =
+    propsSchema.parse(props);
+
   return (
     <head>
       <meta charset="UTF-8" />
       <meta property="og:type" content="website" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <link rel="icon" type="image/png" href="/static/img/favicon.png" />
-      <title>{title_}</title>
-      <meta name="title" content={title_} />
-      <meta property="og:title" content={title_} />
-      <link rel="canonical" href={url_} />
-      <meta property="og:url" content={url_} />
+      <title>{title}</title>
+      <meta name="title" content={title} />
+      <meta property="og:title" content={title} />
+      <link rel="canonical" href={url} />
+      <meta property="og:url" content={url} />
       <meta name="description" content={description} />
       <meta property="og:description" content={description} />
-      <meta property="og:image" content={socialImage_} />
-      <meta property="og:image:alt" content={socialImageAlt_} />
+      <meta property="og:image" content={socialImage} />
+      <meta property="og:image:alt" content={socialImageAlt} />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="theme-color" content="#044156" />
       <link data-asset-hash href="/css/styles.css" rel="stylesheet" />
