@@ -1,74 +1,58 @@
 import { expect, test } from "vitest";
-import { HeadSchema, headDefaultProps, ViewProps } from "./eleventy";
+import { HeadSchema, headDefaultProps, ViewSchema } from "./eleventy";
 
 // ViewSchema Tests
-import { z } from "zod";
 
-// const { content, title } = data;
+const viewData = {
+  content: `<p>😷 Many people are still worried about the risks of attending
+in-person events, especially people who are clinically vulnerable to
+covid-19 and other infectious diseases.</p>
+<p>🌤️ Breathe Easy Sheffield is a new eclectic series of social and
+cultural events, designed with enhanced safety measures in place to
+reduce transmission risk.</p>
+<p>👉 Want to find out more? <a href="http://eepurl.com/iQfyS2">Register your interest</a></p>
+<p><em>This site is under construction as of June 2024</em></p>`,
+  page: {
+    url: "/",
+  },
+  title: "snazzy website",
+};
 
-// const links = data.collections["menu"].map((entry) => [
-//   entry.data.title,
-//   entry.url,
-// ]);
-
-const MenuSchema = z
-  .object({
-    data: z.object({ title: z.string() }),
-    url: z.string(),
-  })
-  .transform((entry) => ({
-    title: entry.data.title,
-    url: entry.url,
-  }))
-  .array()
-  .default([]);
-
-export const ViewSchema = z
-  .object({
-    collections: MenuSchema,
-    content: z.string().nonempty(),
-    title: z.string().nonempty(),
-  })
-  .transform((data) => ({
-    content: data.content,
-    links: data.collections,
-    title: data.title,
-  }));
-
-type ViewPropsType = z.infer<typeof ViewSchema>;
-
-test("ViewSchema has title and content", async () => {
-  const data = {
-    title: "snazzy website",
-    content: `welcome to the content
-
-		## this is a some markdown 
-
-
-		[here](www.example.com) is a link
-		`,
-  };
+test("ViewSchema has title, content, currentPage", async () => {
+  const data = viewData;
 
   const result = ViewSchema.parse(data);
 
+  expect(result.content).toEqual(data.content);
+  expect(result.currentUrl).toEqual(data.page.url);
   expect(result.title).toEqual(data.title);
 });
 
 test("ViewSchema has an empty link array by default", async () => {
-  const data = {
-    title: "snazzy website",
-    content: `welcome to the content
-
-		## this is a some markdown 
-
-
-		[here](www.example.com) is a link
-		`,
-  };
+  const data = viewData;
 
   const result = ViewSchema.parse(data);
 
   expect(result.links).toEqual([]);
+});
+
+test("ViewSchema converts menu collection to useful link objects array", async () => {
+  const data = {
+    ...viewData,
+    collections: {
+      menu: [
+        { data: { title: "home" }, url: "/" },
+        { data: { title: "about" }, url: "/about" },
+      ],
+    },
+  };
+
+  const result = ViewSchema.parse(data);
+
+  expect(result.links).toEqual([
+    { title: "home", url: "/" },
+    { title: "about", url: "/about" },
+  ]);
 });
 
 // HeadSchema Tests

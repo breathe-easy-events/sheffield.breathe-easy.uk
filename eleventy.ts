@@ -1,61 +1,32 @@
 import { z } from "zod";
 
-/** @module eleventy
- * Eleventy passes a lot of data around with no types so we're going to define
- * some expectations here that our code knows what the contract is.
- *
- * I'm experimenting with making everything optional as much of it seems ot be
- * in 11ty. This means I can run tests with very minimal object deffinitions and
- * still get clues about what shape the data should be in the application.
- *
- * Unfortunately it does not provide and real type safety.
- */
+const MenuSchema = z
+  .object({
+    data: z.object({ title: z.string() }),
+    url: z.string(),
+  })
+  .transform((entry) => ({
+    title: entry.data.title,
+    url: entry.url,
+  }))
+  .array();
 
-type CollectionItem = {
-  content?: any[];
-  data?: any[];
-  date?: string;
-  filePathStem?: string;
-  fileSlug?: string;
-  groupNumber?: number;
-  inputPath?: string;
-  outputPath?: string;
-  page?: any[];
-  rawInput?: string;
-  template?: any;
-  templateContent?: any[];
-  url?: string;
-};
+export const ViewSchema = z
+  .object({
+    collections: z.object({ menu: MenuSchema }).default({ menu: [] }),
+    page: z.object({ url: z.string() }),
+    content: z.string().nonempty(),
+    title: z.string().nonempty(),
+  })
+  .transform((data) => ({
+    content: data.content,
+    currentUrl: data.page.url,
+    links: data.collections.menu,
+    title: data.title,
+  }));
 
-type Page = {
-  date?: Date;
-  filePathStem?: string;
-  fileSlug?: string;
-  inputPath?: string;
-  outputFileExtension?: string;
-  outputPath?: string;
-  rawInput?: string;
-  templateSyntax?: string;
-  url?: string;
-};
-
-export type ViewProps = {
-  baseUrl?: string;
-  content?: string;
-  description?: string; // " for opengraph metadata"
-  page?: Page;
-  socialImage?: string; // " for opengraph metadata (external link or path to file)"
-  socialImageAlt?: string; // " alt text describing social preview image, if you do not include this then it will fallback to the default image / alt"
-  title?: string;
-  collections?: { [k: string]: CollectionItem[] };
-};
-
-// const { content, title } = data;
-
-// const links = data.collections["menu"].map((entry) => [
-//   entry.data.title,
-//   entry.url,
-// ]);
+export type ViewProps = z.infer<typeof ViewSchema>;
+export type Links = z.infer<typeof MenuSchema>;
 
 const absoluteUrl = (base: string, url: string): string | URL => {
   if (base) {
@@ -110,3 +81,48 @@ export const HeadSchema = z
   });
 
 export type HeadProps = z.infer<typeof HeadSchema>;
+
+/**
+ * These are really just notes to for myself to keep track of the shape of data incomming to an 11ty page.
+ *
+ * We rely on the zod parsers to ensure the data we want is there at build time and produce reliable types.
+ */
+
+type CollectionItem = {
+  content?: any[];
+  data?: any[];
+  date?: string;
+  filePathStem?: string;
+  fileSlug?: string;
+  groupNumber?: number;
+  inputPath?: string;
+  outputPath?: string;
+  page?: any[];
+  rawInput?: string;
+  template?: any;
+  templateContent?: any[];
+  url?: string;
+};
+
+type Page = {
+  date?: Date;
+  filePathStem?: string;
+  fileSlug?: string;
+  inputPath?: string;
+  outputFileExtension?: string;
+  outputPath?: string;
+  rawInput?: string;
+  templateSyntax?: string;
+  url?: string;
+};
+
+export type ViewInput = {
+  baseUrl?: string;
+  content?: string;
+  description?: string; // " for opengraph metadata"
+  page?: Page;
+  socialImage?: string; // " for opengraph metadata (external link or path to file)"
+  socialImageAlt?: string; // " alt text describing social preview image, if you do not include this then it will fallback to the default image / alt"
+  title?: string;
+  collections?: { [k: string]: CollectionItem[] };
+};
