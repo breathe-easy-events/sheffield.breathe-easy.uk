@@ -10,7 +10,7 @@ test("home page title is the same as title prop", async () => {
 
   const result = HeadSchema.parse(data);
 
-  expect(result.title).to.equal(data.title);
+  expect(result.title).toEqual(data.title);
 });
 
 test("pages other than home have a default valye prepended to the title prop", async () => {
@@ -22,7 +22,7 @@ test("pages other than home have a default valye prepended to the title prop", a
 
   const result = HeadSchema.parse(data);
 
-  expect(result.title).to.equal(`Breathe Easy Sheffield | ${data.title}`);
+  expect(result.title).toEqual(`Breathe Easy Sheffield | ${data.title}`);
 });
 
 test("default social image is present", async () => {
@@ -34,10 +34,10 @@ test("default social image is present", async () => {
 
   const result = HeadSchema.parse(data);
 
-  expect(result.socialImage).to.equal(
+  expect(result.socialImage).toEqual(
     data.baseUrl + headDefaultProps.socialImage,
   );
-  expect(result.socialImageAlt).to.equal(headDefaultProps.socialImageAlt);
+  expect(result.socialImageAlt).toEqual(headDefaultProps.socialImageAlt);
 });
 
 test("social image with no alt text uses default values", async () => {
@@ -50,10 +50,10 @@ test("social image with no alt text uses default values", async () => {
 
   const result = HeadSchema.parse(data);
 
-  expect(result.socialImage).to.equal(
+  expect(result.socialImage).toEqual(
     data.baseUrl + headDefaultProps.socialImage,
   );
-  expect(result.socialImageAlt).to.equal(headDefaultProps.socialImageAlt);
+  expect(result.socialImageAlt).toEqual(headDefaultProps.socialImageAlt);
 });
 
 test("social image with alt text uses a custom image", async () => {
@@ -67,8 +67,8 @@ test("social image with alt text uses a custom image", async () => {
 
   const result = HeadSchema.parse(data);
 
-  expect(result.socialImage).to.equal(data.socialImage);
-  expect(result.socialImageAlt).to.equal(data.socialImageAlt);
+  expect(result.socialImage).toEqual(data.socialImage);
+  expect(result.socialImageAlt).toEqual(data.socialImageAlt);
 });
 
 test("social image alt text doesn't overwrite default alt text if no image supplied", async () => {
@@ -81,10 +81,10 @@ test("social image alt text doesn't overwrite default alt text if no image suppl
 
   const result = HeadSchema.parse(data);
 
-  expect(result.socialImage).to.equal(
+  expect(result.socialImage).toEqual(
     data.baseUrl + headDefaultProps.socialImage,
   );
-  expect(result.socialImageAlt).to.equal(headDefaultProps.socialImageAlt);
+  expect(result.socialImageAlt).toEqual(headDefaultProps.socialImageAlt);
 });
 
 test("missing baseUrl is safe", async () => {
@@ -95,7 +95,7 @@ test("missing baseUrl is safe", async () => {
 
   const result = HeadSchema.parse(data);
 
-  expect(result.url).to.equal(data.page.url);
+  expect(result.url).toEqual(data.page.url);
 });
 
 test("providing a baseUrl creates a complete url", async () => {
@@ -107,7 +107,7 @@ test("providing a baseUrl creates a complete url", async () => {
 
   const result = HeadSchema.parse(data);
 
-  expect(result.url).to.equal(data.baseUrl + data.page.url);
+  expect(result.url).toEqual(data.baseUrl + data.page.url);
 });
 
 test("default description is used if none provided", async () => {
@@ -119,7 +119,7 @@ test("default description is used if none provided", async () => {
 
   const result = HeadSchema.parse(data);
 
-  expect(result.description).to.equal(headDefaultProps.description);
+  expect(result.description).toEqual(headDefaultProps.description);
 });
 
 test("provided description is used if provided", async () => {
@@ -132,5 +132,5 @@ test("provided description is used if provided", async () => {
 
   const result = HeadSchema.parse(data);
 
-  expect(result.description).to.equal(data.description);
+  expect(result.description).toEqual(data.description);
 });
