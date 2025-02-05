@@ -6,7 +6,7 @@
  * in 11ty. This means I can run tests with very minimal object deffinitions and
  * still get clues about what shape the data should be in the application.
  *
- * Unfurtently it does not provide and real type safety.
+ * Unfortunately it does not provide and real type safety.
  */
 
 type CollectionItem = {
