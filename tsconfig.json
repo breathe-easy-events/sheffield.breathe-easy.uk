@@ -5,7 +5,8 @@
     "module": "ESNext",
     "moduleResolution": "Node",
     "skipLibCheck": true,
-    "target": "ESNext"
+    "target": "ESNext",
+    "strict": true
   },
   "include": ["src"],
   "exclude": ["node_modules", "dist"]
