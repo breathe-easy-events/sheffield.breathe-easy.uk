@@ -4,7 +4,7 @@ Based on [`11tsy-starter`](https://github.com/aaaaargZombies/11tsy-starter/)
 
 ## Development
 
-The approach with this starter is to treat Eleventy layouts as wrappers for stateless UI components so they can be easily tested and reasoned about. The contract between these components and Eleventy can be expressed as types in `eleventy.ts`.
+The approach with this starter is to treat Eleventy layouts as wrappers for stateless UI components so they can be easily tested and reasoned about. The contract between these components and Eleventy can be expressed as types in `eleventy.ts`. [`zod`](https://zod.dev/) is used to parse incoming date from Eleventy to the views so builds should fail if the contract is not maintained.
 
 Although JSX is used for the templates there is no connection to react and these components will be rendered to static HTML in the build process with no hydration.
 
@@ -50,13 +50,6 @@ As static sites are often hosted on CDNs it is a good idea to hash assets so you
 
 ## Code & configs
 
-### This site is built with `Elm` and bundled by `Vite`
-
-- [Elm's official homepage](https://elm-lang.org/).
-- [Elm Package docs](https://package.elm-lang.org/)
-- [Vite's official documentation.](https://vitejs.dev/)
-- [Vite static asset handling](https://package.elm-lang.org/packages/hmsk/elm-vite-plugin-helper/latest/)
-
 ### What it's for
 
 - `eleventy.config.ts` configure the Eleventy build
@@ -70,6 +63,7 @@ As static sites are often hosted on CDNs it is a good idea to hash assets so you
 - `src/_components` components to be used by layouts or shortcodes
 - `./src/js/index.ts` entrypoint for compiling *client side* JS. Bundling options are set in `src/_config/bundle-javascript.ts`
 - `./src/css/styles.scss` entrypoint for compiling CSS add a `browserlist` entry to `package.json` or `.browserslistrc` to change lightningcss default targets
+- `./src/css/_vars.scss` collection of css variables used to build our styles, they include fluid units that can be visualized here; [colors](https://abc.useallfive.com/?colors[]=000000,FFFFFF,044156,4F81BD,65B891,F6F183,B48C87), [type scale]( https://utopia.fyi/type/calculator?c=320,18,1.2,1240,20,1.25,9,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12) and [spacing scale](https://utopia.fyi/space/calculator?c=320,18,1.2,1240,20,1.25,6,3,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-3xl|m-xl&g=s,l,xl,12)
 
 ### baseURL
 
