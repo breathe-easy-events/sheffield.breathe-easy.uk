@@ -1,5 +1,77 @@
 import { expect, test } from "vitest";
-import { HeadSchema, headDefaultProps } from "./eleventy";
+import { HeadSchema, headDefaultProps, ViewProps } from "./eleventy";
+
+// ViewSchema Tests
+import { z } from "zod";
+
+// const { content, title } = data;
+
+// const links = data.collections["menu"].map((entry) => [
+//   entry.data.title,
+//   entry.url,
+// ]);
+
+const MenuSchema = z
+  .object({
+    data: z.object({ title: z.string() }),
+    url: z.string(),
+  })
+  .transform((entry) => ({
+    title: entry.data.title,
+    url: entry.url,
+  }))
+  .array()
+  .default([]);
+
+export const ViewSchema = z
+  .object({
+    collections: MenuSchema,
+    content: z.string().nonempty(),
+    title: z.string().nonempty(),
+  })
+  .transform((data) => ({
+    content: data.content,
+    links: data.collections,
+    title: data.title,
+  }));
+
+type ViewPropsType = z.infer<typeof ViewSchema>;
+
+test("ViewSchema has title and content", async () => {
+  const data = {
+    title: "snazzy website",
+    content: `welcome to the content
+
+		## this is a some markdown 
+
+
+		[here](www.example.com) is a link
+		`,
+  };
+
+  const result = ViewSchema.parse(data);
+
+  expect(result.title).toEqual(data.title);
+});
+
+test("ViewSchema has an empty link array by default", async () => {
+  const data = {
+    title: "snazzy website",
+    content: `welcome to the content
+
+		## this is a some markdown 
+
+
+		[here](www.example.com) is a link
+		`,
+  };
+
+  const result = ViewSchema.parse(data);
+
+  expect(result.links).toEqual([]);
+});
+
+// HeadSchema Tests
 
 test("home page title is the same as title prop", async () => {
   const data = {

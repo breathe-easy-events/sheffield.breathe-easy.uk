@@ -5,15 +5,7 @@ import { Section } from "../_components/Section";
 import { ViewProps, HeadSchema } from "../../eleventy";
 
 export const IndexLayout = (data: ViewProps): JSX.Element => {
-  const {
-    baseUrl,
-    content,
-    description,
-    page,
-    socialImage,
-    socialImageAlt,
-    title,
-  } = data;
+  const { content, title } = data;
 
   const links = data.collections["menu"].map((entry) => [
     entry.data.title,

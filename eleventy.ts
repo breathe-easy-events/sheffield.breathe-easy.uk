@@ -50,6 +50,13 @@ export type ViewProps = {
   collections?: { [k: string]: CollectionItem[] };
 };
 
+// const { content, title } = data;
+
+// const links = data.collections["menu"].map((entry) => [
+//   entry.data.title,
+//   entry.url,
+// ]);
+
 const absoluteUrl = (base: string, url: string): string | URL => {
   if (base) {
     try {
