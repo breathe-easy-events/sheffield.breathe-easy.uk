@@ -1,18 +1,10 @@
-import { ViewProps } from "../../eleventy";
+import { ViewProps, HeadSchema } from "../../eleventy";
 import { Head } from "../_components/Head";
 import { Header } from "../_components/Header";
 import { Section } from "../_components/Section";
 
 export const PageLayout = (data: ViewProps): JSX.Element => {
-  const {
-    baseUrl,
-    content,
-    description,
-    page,
-    socialImage,
-    socialImageAlt,
-    title,
-  } = data;
+  const { content, title } = data;
 
   const links = data.collections["menu"].map((entry) => [
     entry.data.title,
@@ -21,14 +13,7 @@ export const PageLayout = (data: ViewProps): JSX.Element => {
 
   return (
     <html lang="en">
-      {Head({
-        baseUrl,
-        description,
-        socialImage,
-        socialImageAlt,
-        title,
-        url: page.url,
-      })}
+      {Head(HeadSchema.parse(data))}
       <body>
         <a href="#main" class="screen-reader-only">
           skip to content

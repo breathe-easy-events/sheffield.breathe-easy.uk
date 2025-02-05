@@ -1,70 +1,12 @@
-import { z } from "zod";
+import { HeadProps } from "../../eleventy";
 
-export type HeadProps = {
-  baseUrl?: string;
-  description?: string; // "[optional] for opengraph metadata"
-  socialImage?: string; // "[optional] for opengraph metadata (external link or path to file)"
-  socialImageAlt?: string; // "[optional] alt text describing social preview image, if you do not include this then it will fallback to the default image / alt"
-  title: string;
-  url: string;
-};
-
-const defaultProps = {
-  baseUrl: "",
-  title: "Breathe Easy Sheffield",
-  description:
-    "An eclectic series of Covid safer social & cultural events, designed with enhanced safety measures in place to reduce transmission risk. Launching autumn 2024.",
-  socialImage: "/static/img/ogimage-default.png",
-  socialImageAlt: "Breath Easy's logo",
-};
-
-const propsSchema = z
-  .object({
-    baseUrl: z.string().default(defaultProps.baseUrl),
-    description: z.string().default(defaultProps.description),
-    socialImage: z.string().default(defaultProps.socialImage),
-    socialImageAlt: z.string().default(defaultProps.socialImageAlt),
-    title: z.string(),
-    url: z.string(),
-  })
-  .transform((props) => {
-    return {
-      ...props,
-      socialImage:
-        // if no alt description for image is provided fallback to default
-        props.socialImageAlt === defaultProps.socialImageAlt
-          ? absoluteUrl(props.baseUrl, defaultProps.socialImage)
-          : absoluteUrl(props.baseUrl, props.socialImage),
-      socialImageAlt:
-        // prevent alt description being overridden when custom social image not in use
-        props.socialImage === defaultProps.socialImage
-          ? defaultProps.socialImageAlt
-          : props.socialImageAlt,
-      title:
-        props.url === "/"
-          ? props.title
-          : `${defaultProps.title} | ${props.title}`,
-      url: absoluteUrl(props.baseUrl, props.url),
-    };
-  });
-
-const absoluteUrl = (base: string, url: string): string | URL => {
-  if (base) {
-    try {
-      return new URL(url, base).href;
-    } catch (err) {
-      console.error(err);
-      return url;
-    }
-  } else {
-    return url;
-  }
-};
-
-export const Head = (props: HeadProps): JSX.Element => {
-  const { title, description, socialImage, socialImageAlt, url } =
-    propsSchema.parse(props);
-
+export const Head = ({
+  title,
+  description,
+  socialImage,
+  socialImageAlt,
+  url,
+}: HeadProps): JSX.Element => {
   return (
     <head>
       <meta charset="UTF-8" />

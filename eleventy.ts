@@ -1,3 +1,5 @@
+import { z } from "zod";
+
 /** @module eleventy
  * Eleventy passes a lot of data around with no types so we're going to define
  * some expectations here that our code knows what the contract is.
@@ -47,3 +49,57 @@ export type ViewProps = {
   title?: string;
   collections?: { [k: string]: CollectionItem[] };
 };
+
+const absoluteUrl = (base: string, url: string): string | URL => {
+  if (base) {
+    try {
+      return new URL(url, base).href;
+    } catch (err) {
+      console.error(err);
+      return url;
+    }
+  } else {
+    return url;
+  }
+};
+
+export const headDefaultProps = {
+  baseUrl: "",
+  title: "Breathe Easy Sheffield",
+  description:
+    "An eclectic series of Covid safer social & cultural events, designed with enhanced safety measures in place to reduce transmission risk. Launching autumn 2024.",
+  socialImage: "/static/img/ogimage-default.png",
+  socialImageAlt: "Breath Easy's logo",
+};
+
+export const HeadSchema = z
+  .object({
+    baseUrl: z.string().default(headDefaultProps.baseUrl),
+    description: z.string().default(headDefaultProps.description),
+    socialImage: z.string().default(headDefaultProps.socialImage),
+    socialImageAlt: z.string().default(headDefaultProps.socialImageAlt),
+    title: z.string(),
+    page: z.object({ url: z.string() }),
+  })
+  .transform((props) => {
+    return {
+      description: props.description,
+      socialImage:
+        // if no alt description for image is provided fallback to default
+        props.socialImageAlt === headDefaultProps.socialImageAlt
+          ? absoluteUrl(props.baseUrl, headDefaultProps.socialImage)
+          : absoluteUrl(props.baseUrl, props.socialImage),
+      socialImageAlt:
+        // prevent alt description being overridden when custom social image not in use
+        props.socialImage === headDefaultProps.socialImage
+          ? headDefaultProps.socialImageAlt
+          : props.socialImageAlt,
+      title:
+        props.page.url === "/"
+          ? props.title
+          : `${headDefaultProps.title} | ${props.title}`,
+      url: absoluteUrl(props.baseUrl, props.page.url),
+    };
+  });
+
+export type HeadProps = z.infer<typeof HeadSchema>;

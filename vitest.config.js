@@ -9,6 +9,10 @@ export default defineConfig({
   },
   test: {
     environment: "happy-dom",
-    include: ["./components/**/*.test.tsx", "./src/**/*.test.tsx"],
+    include: [
+      "./eleventy.test.ts",
+      "./components/**/*.test.tsx",
+      "./src/**/*.test.tsx",
+    ],
   },
 });
