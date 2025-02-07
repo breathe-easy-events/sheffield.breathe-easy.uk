@@ -2,10 +2,10 @@ import { expect, test } from "vitest";
 import { jsxToString } from "jsx-async-runtime";
 import { IndexLayout } from "./IndexLayout.11ty";
 import { screen } from "@testing-library/dom";
-import { ViewProps } from "../../eleventy";
+import { ViewInput } from "../../eleventy";
 
 test("render IndexLayout", async () => {
-  const viewProps: ViewProps = {
+  const viewProps: ViewInput = {
     content: "<p>This is the <em>BODY</em></p>",
     title: "My site",
     page: { url: "/" },

@@ -1,22 +1,22 @@
-type Link = [string, string];
+import { Links } from "../../eleventy";
 
 export type HeaderProps = {
-  links: Link[];
-  currentPage: string;
-  bottomEl: boolean;
+  links: Links;
+  currentUrl: string;
+  bottomEl: boolean; // wtf was this meant to be
 };
 
-export const Header = ({ links, currentPage }: HeaderProps): JSX.Element => {
+export const Header = ({ links, currentUrl }: HeaderProps): JSX.Element => {
   return (
     <header class="header">
       <nav>
-        <a aria-current={currentPage === "/" ? "page" : null} href="/">
+        <a aria-current={currentUrl === "/" ? "page" : null} href="/">
           Home
         </a>
         <ul role="list">
-          {links.map(([title, url]) => (
+          {links.map(({ title, url }) => (
             <li>
-              <a aria-current={currentPage === url ? "page" : null} href={url}>
+              <a aria-current={currentUrl === url ? "page" : null} href={url}>
                 {title}
               </a>
             </li>
