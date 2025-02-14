@@ -16,4 +16,4 @@ reduce transmission risk.
 
 👉 Want to find out more? [Join our mailing list](http://eepurl.com/iQfyS2)
 
-*Last updated: January 2025*
+*Last updated: February 2025*
