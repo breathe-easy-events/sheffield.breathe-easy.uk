@@ -1,4 +1,4 @@
-# breathe-easy.uk
+# sheffield.breathe-easy.uk
 
 Based on [`11tsy-starter`](https://github.com/aaaaargZombies/11tsy-starter/)
 
@@ -70,7 +70,7 @@ As static sites are often hosted on CDNs it is a good idea to hash assets so you
 the `BASE_URL` environment variable is set by doing.
 
 ```sh
-BASE_URL="https://breathe-easy.uk" npm start
+BASE_URL="https://sheffield.breathe-easy.uk" npm start
 ```
 
 This will then be accessed as `globalData` in templates under `data.baseURL`
@@ -78,7 +78,7 @@ This will then be accessed as `globalData` in templates under `data.baseURL`
 
 ## Content
 
-New pages can be added and edited through the Decap CMS available at [breathe-easy.uk/admin](https://breathe-easy.uk/admin). You can mess about in the [demo environment](https://demo.decapcms.org/) without effecting the site.
+New pages can be added and edited through the Decap CMS available at [sheffield.breathe-easy.uk/admin](https://sheffield.breathe-easy.uk/admin). You can mess about in the [demo environment](https://demo.decapcms.org/) without effecting the site.
 
 ### pages
 

@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: breathe-easy-events/breathe-easy.uk
+  repo: breathe-easy-events/sheffield.breathe-easy.uk
   branch: main
 media_folder: "src/static/img"
 public_folder: "/static/img"
