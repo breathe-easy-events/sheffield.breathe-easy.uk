@@ -4,7 +4,7 @@ backend:
   branch: main
 media_folder: "src/static/img"
 public_folder: "/static/img"
-publish_mode: simple
+publish_mode: editorial_workflow
 collections:
   - label: "Home"
     name: "home"
