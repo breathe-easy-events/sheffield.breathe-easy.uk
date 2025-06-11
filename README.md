@@ -52,6 +52,7 @@ As static sites are often hosted on CDNs it is a good idea to hash assets so you
 
 ### What it's for
 
+- `.tool-versions` node version
 - `eleventy.config.ts` configure the Eleventy build
 - `eleventy.ts` a place to add types that describe the data you expect to consume from Eleventy
 - `package.json` node dependencies and scripts
