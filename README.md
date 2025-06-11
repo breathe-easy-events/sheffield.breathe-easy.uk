@@ -1,6 +1,6 @@
 # sheffield.breathe-easy.uk
 
-Based on [`11tsy-starter`](https://github.com/aaaaargZombies/11tsy-starter/).
+Based on [`11tsy-starter`](https://github.com/aaaaargZombies/11tsy-starter/)
 
 ## Development
 
@@ -52,6 +52,7 @@ As static sites are often hosted on CDNs it is a good idea to hash assets so you
 
 ### What it's for
 
+- `.tool-versions` node version
 - `eleventy.config.ts` configure the Eleventy build
 - `eleventy.ts` a place to add types that describe the data you expect to consume from Eleventy
 - `package.json` node dependencies and scripts
@@ -82,7 +83,7 @@ New pages can be added and edited through the Decap CMS available at [sheffield.
 
 ### pages
 
-Pages accept the following front-matter
+Pages accept the following front-matter.
 
 ```yaml
 layout: "which template to use"
