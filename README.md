@@ -1,6 +1,6 @@
 # sheffield.breathe-easy.uk
 
-Based on [`11tsy-starter`](https://github.com/aaaaargZombies/11tsy-starter/).
+Based on [`11tsy-starter`](https://github.com/aaaaargZombies/11tsy-starter/)
 
 ## Development
 
