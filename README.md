@@ -82,7 +82,7 @@ New pages can be added and edited through the Decap CMS available at [sheffield.
 
 ### pages
 
-Pages accept the following front-matter
+Pages accept the following front-matter.
 
 ```yaml
 layout: "which template to use"
