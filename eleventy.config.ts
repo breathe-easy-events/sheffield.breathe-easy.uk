@@ -3,6 +3,8 @@ import { jsxToString } from "jsx-async-runtime";
 import { bundleJavascript } from "./src/_config/bundle-javascript";
 import { hashAssets } from "./src/_config/hash-assets";
 import { collections } from "./src/_config/collections.ts";
+import { markdownLibrary } from "./src/_config/markdown-library.ts";
+import { toc } from "./src/_config/table-of-contents.ts";
 import * as url from "url";
 const __dirname = url.fileURLToPath(new URL(".", import.meta.url));
 
@@ -43,6 +45,12 @@ export default function (eleventyConfig: any) {
 
   // add custom collections
   eleventyConfig.addPlugin(collections);
+
+  // markdown rendering options
+  eleventyConfig.setLibrary("md", markdownLibrary);
+
+  // add table of contents
+  eleventyConfig.addPlugin(toc);
 
   return {
     dir: {

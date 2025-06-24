@@ -3,9 +3,8 @@ import { Header } from "../_components/Header";
 import { Section } from "../_components/Section";
 import { ViewInput, ViewSchema, HeadSchema } from "../../eleventy";
 
-export const PageLayout = (data: ViewInput): JSX.Element => {
+export function PageLayout(data: ViewInput): JSX.Element {
   const { content, title, links, currentUrl } = ViewSchema.parse(data);
-
   return (
     <html lang="en">
       {Head(HeadSchema.parse(data))}
@@ -17,6 +16,10 @@ export const PageLayout = (data: ViewInput): JSX.Element => {
         <main id="main">
           <Section>
             <h1>{title}</h1>
+            <details>
+              <summary>Table of Contnets</summary>
+              <aside>{this.toc(content)}</aside>
+            </details>
             {content}
           </Section>
         </main>
@@ -24,6 +27,6 @@ export const PageLayout = (data: ViewInput): JSX.Element => {
       <script data-asset-hash src="/js/index.js"></script>
     </html>
   );
-};
+}
 
 export const render = PageLayout;
