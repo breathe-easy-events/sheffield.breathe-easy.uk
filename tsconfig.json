@@ -1,13 +1,18 @@
 {
-  "compilerOptions": {
-    "jsx": "react-jsx",
-    "jsxImportSource": "jsx-async-runtime",
-    "module": "ESNext",
-    "moduleResolution": "Node",
-    "skipLibCheck": true,
-    "target": "ESNext",
-    "strict": true
-  },
-  "include": ["src"],
-  "exclude": ["node_modules", "dist"]
+	"compilerOptions": {
+		"jsx": "react-jsx",
+		"jsxImportSource": "react",
+		"module": "ESNext",
+		"moduleResolution": "Node",
+		"skipLibCheck": true,
+		"target": "ESNext",
+		"strict": true
+	},
+	"include": [
+		"src"
+	],
+	"exclude": [
+		"node_modules",
+		"dist"
+	]
 }

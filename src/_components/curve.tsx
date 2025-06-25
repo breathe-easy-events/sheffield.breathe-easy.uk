@@ -1,6 +1,6 @@
 export const CurveL = () => (
   <svg
-    class="curve"
+    className="curve"
     preserveAspectRatio="none"
     viewBox="0 0 1433 60.923"
     xmlns="http://www.w3.org/2000/svg"
@@ -11,7 +11,7 @@ export const CurveL = () => (
 
 export const CurveR = () => (
   <svg
-    class="curve"
+    className="curve"
     preserveAspectRatio="none"
     viewBox="0 0 1433 60.923"
     xmlns="http://www.w3.org/2000/svg"

@@ -10,7 +10,7 @@ export const PageLayout = (data: ViewInput): JSX.Element => {
     <html lang="en">
       {Head(HeadSchema.parse(data))}
       <body>
-        <a href="#main" class="screen-reader-only">
+        <a href="#main" className="screen-reader-only">
           skip to content
         </a>
         {Header({ links, currentUrl, bottomEl: false })}

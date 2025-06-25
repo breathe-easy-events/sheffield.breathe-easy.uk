@@ -8,7 +8,7 @@ export type HeaderProps = {
 
 export const Header = ({ links, currentUrl }: HeaderProps): JSX.Element => {
   return (
-    <header class="header">
+    <header className="header">
       <nav>
         <a aria-current={currentUrl === "/" ? "page" : null} href="/">
           Home
