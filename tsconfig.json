@@ -1,14 +1,12 @@
 {
 	"compilerOptions": {
 		"jsx": "react-jsx",
-		"jsxImportSource": "jsx-async-runtime",
+		"jsxImportSource": "react",
 		"module": "ESNext",
 		"moduleResolution": "Node",
 		"skipLibCheck": true,
 		"target": "ESNext",
-		"strict": true,
-		"esModuleInterop": true,
-		"allowSyntheticDefaultImports": true
+		"strict": true
 	},
 	"include": [
 		"src"

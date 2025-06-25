@@ -3,7 +3,7 @@ export type HeroProps = {
 };
 
 export const Hero = ({ title }: HeroProps): JSX.Element => (
-  <div class="hero">
+  <div className="hero">
     <h1>{title}</h1>
   </div>
 );
