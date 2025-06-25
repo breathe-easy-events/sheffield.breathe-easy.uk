@@ -95,6 +95,10 @@ export const hashAssets = (eleventyConfig: any, pluginOptions = {}) => {
               await updateElement(el, "href");
               break;
 
+            case "META":
+              await updateElement(el, "content");
+              break;
+
             case "SCRIPT":
               await updateElement(el, "src");
               break;
