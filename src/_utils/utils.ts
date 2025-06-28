@@ -1,7 +1,28 @@
+import { Window } from "happy-dom";
+
 export namespace TS {
   export const assertUnreachable = (x: never) => {
     throw new Error("This shouldn't happen: " + JSON.stringify(x));
   };
+
+  export const inspect =
+    <A>(message: string) =>
+    (a: A): A => {
+      console.log(message, JSON.stringify(a, null, 2));
+      return a;
+    };
+}
+
+export namespace HappyDom {
+  export const dom = (content: string) => {
+    const window = new Window();
+    const document = window.document;
+    document.body.innerHTML = content;
+    return document;
+  };
+
+  // reverse the DOM wrapping above before writing the file
+  export const content = (dom: Document): string => dom.body.innerHTML;
 }
 
 export namespace Tree {

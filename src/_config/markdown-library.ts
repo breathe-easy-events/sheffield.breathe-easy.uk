@@ -8,7 +8,7 @@ const linkAfterHeader = markdownItAnchor.permalink.linkAfterHeader({
   style: "aria-labelledby",
 });
 const markdownItAnchorOptions = {
-  level: [1, 2, 3],
+  level: [1, 2, 3, 4, 5, 6],
   slugify: (str) =>
     slugify(str, {
       lower: true,

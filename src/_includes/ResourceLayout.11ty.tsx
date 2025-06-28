@@ -18,7 +18,7 @@ export function ResourceLayout(data: ViewInput): JSX.Element {
         <main id="main">
           <Section>
             <h1>{title}</h1>
-            <TableOfContents content={content}></TableOfContents>
+            <TableOfContents>{content}</TableOfContents>
             {content}
           </Section>
         </main>

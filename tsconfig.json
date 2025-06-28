@@ -6,7 +6,8 @@
 		"moduleResolution": "Node",
 		"skipLibCheck": true,
 		"target": "ESNext",
-		"strict": true
+		"strict": true,
+		"strictNullChecks": true,
 	},
 	"include": [
 		"src"
