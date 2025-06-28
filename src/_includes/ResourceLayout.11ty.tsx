@@ -1,13 +1,12 @@
 import { JSX } from "react/jsx-runtime";
 import { Head } from "../_components/Head";
 import { Header } from "../_components/Header";
-import { Hero } from "../_components/Hero";
 import { Section } from "../_components/Section";
+import { TableOfContents } from "../_components/TableOfContents";
 import { ViewInput, ViewSchema, HeadSchema } from "../../eleventy";
 
-export const IndexLayout = (data: ViewInput): JSX.Element => {
+export function ResourceLayout(data: ViewInput): JSX.Element {
   const { content, title, links, currentUrl } = ViewSchema.parse(data);
-
   return (
     <html lang="en">
       {Head(HeadSchema.parse(data))}
@@ -18,7 +17,8 @@ export const IndexLayout = (data: ViewInput): JSX.Element => {
         {Header({ links, currentUrl, bottomEl: false })}
         <main id="main">
           <Section>
-            <Hero title={title}></Hero>
+            <h1>{title}</h1>
+            <TableOfContents content={content}></TableOfContents>
             {content}
           </Section>
         </main>
@@ -26,6 +26,6 @@ export const IndexLayout = (data: ViewInput): JSX.Element => {
       <script data-asset-hash src="/js/index.js"></script>
     </html>
   );
-};
+}
 
-export const render = IndexLayout;
+export const render = ResourceLayout;

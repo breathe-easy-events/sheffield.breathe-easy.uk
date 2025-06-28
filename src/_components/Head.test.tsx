@@ -1,5 +1,6 @@
 import { expect, test } from "vitest";
-import { jsxToString } from "jsx-async-runtime";
+import { decodeHTML } from "entities";
+import { renderToStaticMarkup } from "react-dom/server";
 import { Head } from "./Head";
 import { HeadSchema } from "../../eleventy";
 
@@ -19,7 +20,7 @@ test("Head produces title metadata", async () => {
   };
 
   const result = Head(HeadSchema.parse(data));
-  document.head.innerHTML = await jsxToString(result);
+  document.body.innerHTML = decodeHTML(renderToStaticMarkup(result));
 
   expect(document.querySelector("title").textContent).toEqual(data.title);
   expect(document.querySelector("meta[name='title']").content).toEqual(
@@ -38,7 +39,7 @@ test("social image is present and has alt text", async () => {
   };
 
   const result = Head(HeadSchema.parse(data));
-  document.head.innerHTML = await jsxToString(result);
+  document.body.innerHTML = decodeHTML(renderToStaticMarkup(result));
 
   expect(document.querySelector("meta[property='og:image']").content).toEqual(
     data.baseUrl + defaultProps.socialImage,
@@ -55,7 +56,7 @@ test("link metadata exists", async () => {
   };
 
   const result = Head(HeadSchema.parse(data));
-  document.head.innerHTML = await jsxToString(result);
+  document.body.innerHTML = decodeHTML(renderToStaticMarkup(result));
 
   expect(document.querySelector("meta[property='og:url']")?.content).toEqual(
     "/",
@@ -73,7 +74,7 @@ test("description metadata exists", async () => {
   };
 
   const result = Head(HeadSchema.parse(data));
-  document.head.innerHTML = await jsxToString(result);
+  document.body.innerHTML = decodeHTML(renderToStaticMarkup(result));
   expect(document.querySelector("meta[name='description']").content).toEqual(
     defaultProps.description,
   );

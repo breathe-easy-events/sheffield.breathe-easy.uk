@@ -60,8 +60,9 @@ main {
 }
 
 a,
+li,
 p,
-li {
+summary {
   font-size: var(--step-1);
 }
 
@@ -79,4 +80,8 @@ blockquote > * {
 ul,
 ol {
   padding-inline-start: var(--space-s-0);
+}
+
+summary {
+  cursor: pointer;
 }

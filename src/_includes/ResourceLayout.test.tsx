@@ -1,10 +1,11 @@
 import { expect, test } from "vitest";
 import { decodeHTML } from "entities";
 import { renderToStaticMarkup } from "react-dom/server";
-import { IndexLayout } from "./IndexLayout.11ty";
+import { ResourceLayout } from "./ResourceLayout.11ty";
 import { screen } from "@testing-library/dom";
+import { ViewProps } from "../../eleventy";
 
-test("render IndexLayout", async () => {
+test("render  PageLayout", async () => {
   const viewProps = {
     content: "<p>This is the <em>BODY</em></p>",
     title: "My site",
@@ -20,7 +21,7 @@ test("render IndexLayout", async () => {
     },
   };
 
-  const result = IndexLayout(viewProps);
+  const result = ResourceLayout(viewProps);
   document.body.innerHTML = decodeHTML(renderToStaticMarkup(result));
   expect(screen.getAllByText(viewProps.title)).to.exist;
   expect(screen.getByText("BODY")).to.exist;

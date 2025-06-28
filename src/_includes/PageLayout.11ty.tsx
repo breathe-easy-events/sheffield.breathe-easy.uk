@@ -1,3 +1,4 @@
+import { JSX } from "react/jsx-runtime";
 import { Head } from "../_components/Head";
 import { Header } from "../_components/Header";
 import { Section } from "../_components/Section";
@@ -16,10 +17,6 @@ export function PageLayout(data: ViewInput): JSX.Element {
         <main id="main">
           <Section>
             <h1>{title}</h1>
-            <details>
-              <summary>Table of Contnets</summary>
-              <aside>{this.toc(content)}</aside>
-            </details>
             {content}
           </Section>
         </main>

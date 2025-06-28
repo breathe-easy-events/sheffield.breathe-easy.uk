@@ -1,3 +1,4 @@
+import { JSX } from "react/jsx-runtime";
 import { Links } from "../../eleventy";
 
 export type HeaderProps = {
