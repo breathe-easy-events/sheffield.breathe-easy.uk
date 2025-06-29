@@ -86,3 +86,19 @@ test("description metadata exists", async () => {
     document.querySelector("meta[property='og:description']").content,
   ).toEqual(defaultProps.description);
 });
+
+test("Head produces generator metadata", async () => {
+  const data = {
+    baseUrl: "https://example.com",
+    title: "snazzy website",
+    page: { url: "/" },
+    eleventy: { generator: "elventy" },
+  };
+
+  const result = Head(HeadSchema.parse(data));
+  document.body.innerHTML = decodeHTML(renderToStaticMarkup(result));
+
+  expect(document.querySelector("meta[name='generator']").content).toEqual(
+    data.eleventy.generator,
+  );
+});

@@ -7,6 +7,7 @@ export const Head = ({
   socialImage,
   socialImageAlt,
   url,
+  generator,
 }: HeadProps): JSX.Element => {
   return (
     <head>
