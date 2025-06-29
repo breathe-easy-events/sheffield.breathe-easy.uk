@@ -1,5 +1,7 @@
 import { z } from "zod";
 
+// https://www.11ty.dev/docs/data/
+
 const MenuSchema = z
   .object({
     data: z.object({ title: z.string() }),

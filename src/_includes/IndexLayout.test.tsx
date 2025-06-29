@@ -7,6 +7,7 @@ import { screen } from "@testing-library/dom";
 test("render IndexLayout", async () => {
   const viewProps = {
     content: "<p>This is the <em>BODY</em></p>",
+    eleventy: { generator: "elventy" },
     title: "My site",
     page: { url: "/" },
     baseUrl: "",

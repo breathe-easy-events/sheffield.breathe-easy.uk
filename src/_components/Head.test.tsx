@@ -17,6 +17,7 @@ test("Head produces title metadata", async () => {
     baseUrl: "https://example.com",
     title: "snazzy website",
     page: { url: "/" },
+    eleventy: { generator: "elventy" },
   };
 
   const result = Head(HeadSchema.parse(data));
@@ -36,6 +37,7 @@ test("social image is present and has alt text", async () => {
     baseUrl: "https://example.com",
     title: "snazzy website",
     page: { url: "/" },
+    eleventy: { generator: "elventy" },
   };
 
   const result = Head(HeadSchema.parse(data));
@@ -53,6 +55,7 @@ test("link metadata exists", async () => {
   const data = {
     title: "snazzy website",
     page: { url: "/" },
+    eleventy: { generator: "elventy" },
   };
 
   const result = Head(HeadSchema.parse(data));
@@ -71,6 +74,7 @@ test("description metadata exists", async () => {
     baseUrl: "https://example.com",
     title: "snazzy website",
     page: { url: "/" },
+    eleventy: { generator: "elventy" },
   };
 
   const result = Head(HeadSchema.parse(data));

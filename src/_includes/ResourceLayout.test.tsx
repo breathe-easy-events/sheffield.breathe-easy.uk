@@ -31,6 +31,7 @@ test("render  PageLayout", async () => {
 	`;
   const viewProps = {
     content,
+    eleventy: { generator: "elventy" },
     title: "My site",
     page: { url: "/" },
     baseUrl: "",
