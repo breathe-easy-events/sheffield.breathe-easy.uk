@@ -25,6 +25,7 @@ export const Head = ({
       <meta property="og:image:alt" content={socialImageAlt} />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="theme-color" content="#044156" />
+      <meta name="generator" content={generator} />
       <link data-asset-hash href="/css/styles.css" rel="stylesheet" />
     </head>
   );
