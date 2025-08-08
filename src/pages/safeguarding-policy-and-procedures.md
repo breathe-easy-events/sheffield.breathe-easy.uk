@@ -1,6 +1,7 @@
 ---
 title: Safeguarding Policy and Procedures
 menu: false
+layout: ResourceLayout.11ty.tsx
 ---
 ## Contents
 
