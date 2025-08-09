@@ -1,0 +1,35 @@
+.stack {
+  display: flex;
+  flex-direction: column;
+  gap: var(--stack-gap, var(--space-m));
+}
+
+// add util classes here as needed
+
+.stack-gap-3xs {
+  --stack-gap: var(--space-3xs);
+}
+.stack-gap-2xs {
+  --stack-gap: var(--space-2xs);
+}
+.stack-gap-xs {
+  --stack-gap: var(--space-xs);
+}
+.stack-gap-s {
+  --stack-gap: var(--space-s);
+}
+.stack-gap-m {
+  --stack-gap: var(--space-m);
+}
+.stack-gap-l {
+  --stack-gap: var(--space-l);
+}
+.stack-gap-xl {
+  --stack-gap: var(--space-xl);
+}
+.stack-gap-2xl {
+  --stack-gap: var(--space-2xl);
+}
+.stack-gap-3xl {
+  --stack-gap: var(--space-3xl);
+}

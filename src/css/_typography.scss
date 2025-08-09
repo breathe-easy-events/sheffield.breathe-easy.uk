@@ -23,7 +23,9 @@ h3 {
   line-height: var(--line-height-2);
 }
 
-h4 {
+h4,
+h5,
+h6 {
   font-size: var(--step-1);
   line-height: var(--line-height-1);
 }

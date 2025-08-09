@@ -1,0 +1,41 @@
+.center-outer {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-inline: var(--center-padding, var(--space-m-l));
+}
+.center-inner {
+  width: 100%;
+  max-width: var(--center-width, 75ch);
+}
+
+// add util classes here as needed
+
+.center-padding-3xs {
+  --stach-gap: var(--space-3xs);
+}
+.center-padding-2xs {
+  --stach-gap: var(--space-2xs);
+}
+.center-padding-xs {
+  --stach-gap: var(--space-xs);
+}
+.center-padding-s {
+  --stach-gap: var(--space-s);
+}
+.center-padding-m {
+  --stach-gap: var(--space-m);
+}
+.center-padding-l {
+  --stach-gap: var(--space-l);
+}
+.center-padding-xl {
+  --stach-gap: var(--space-xl);
+}
+.center-padding-2xl {
+  --stach-gap: var(--space-2xl);
+}
+.center-padding-3xl {
+  --stach-gap: var(--space-3xl);
+}

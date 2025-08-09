@@ -2,6 +2,7 @@ import { JSX } from "react/jsx-runtime";
 import { Head } from "../_components/Head";
 import { Header } from "../_components/Header";
 import { Section } from "../_components/Section";
+import { WithSidebar } from "../_components/WithSidebar";
 import { TableOfContents } from "../_components/TableOfContents";
 import { ViewInput, ViewSchema, HeadSchema } from "../../eleventy";
 
@@ -15,12 +16,21 @@ export function ResourceLayout(data: ViewInput): JSX.Element {
           skip to content
         </a>
         {Header({ links, currentUrl, bottomEl: false })}
-        <main id="main">
-          <Section>
-            <h1>{title}</h1>
-            <TableOfContents>{content}</TableOfContents>
-            {content}
-          </Section>
+        <main id="main" className="resource-page">
+          <div className="stack stack-gap-l">
+            <WithSidebar
+              sidebar={<div />}
+              notSidebar={<Section>{<h1>{title}</h1>}</Section>}
+            />
+            <WithSidebar
+              sidebar={
+                <Section>
+                  <TableOfContents>{content}</TableOfContents>
+                </Section>
+              }
+              notSidebar={<Section>{content}</Section>}
+            />
+          </div>
         </main>
       </body>
       <script data-asset-hash src="/js/index.js"></script>

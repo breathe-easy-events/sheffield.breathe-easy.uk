@@ -33,6 +33,16 @@ collections:
           hint: "Should this page be linked to from the navigation at the top of every page?",
         }
       - {
+          label: "Layout",
+          name: "layout",
+          widget: "select",
+          options:
+            [
+              { label: "Defualt", value: "PageLayout.11ty.tsx" },
+              { label: "With index", value: "ResourceLayout.11ty.tsx" },
+            ],
+        }
+      - {
           label: "Discription",
           name: "discription",
           widget: "text",

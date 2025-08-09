@@ -8,6 +8,7 @@
 		"target": "ESNext",
 		"strict": true,
 		"strictNullChecks": true,
+		"allowImportingTsExtensions": true,
 	},
 	"include": [
 		"src"

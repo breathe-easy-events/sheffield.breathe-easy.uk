@@ -1,5 +1,5 @@
 import { JSX } from "react/jsx-runtime";
-import { toc } from "./toc";
+import { TOC } from "./TOC.tsx";
 
 type TableOfContentsProps = { children: string };
 
@@ -7,9 +7,9 @@ export const TableOfContents = ({
   children,
 }: TableOfContentsProps): JSX.Element => {
   return (
-    <details open={true}>
+    <details open>
       <summary>Table of Contnets</summary>
-      {toc(children)}
+      {TOC(children)}
     </details>
   );
 };

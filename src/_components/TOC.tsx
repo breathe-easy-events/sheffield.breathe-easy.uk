@@ -1,7 +1,7 @@
 // const cheerio = require('cheerio');
 // import { Window } from "happy-dom";
 import { JSX } from "react/jsx-runtime";
-import { Tree, HappyDom, TS } from "../_utils/utils";
+import { Tree, HappyDom } from "../_utils/utils";
 import * as Belt from "@mobily/ts-belt";
 
 /** Attribute which if found on a heading means the heading is excluded */
@@ -50,9 +50,8 @@ const doToc = (aom: Tree.Tree<Element>): JSX.Element => {
   }
 };
 
-export const toc = (content: string): JSX.Element => {
+export const TOC = (content: string): JSX.Element => {
   const hdom = HappyDom.dom(content);
-  console.log("✨✨✨✨✨✨✨✨✨✨✨");
   const result = Belt.pipe(
     defaults.tags,
     (ts) => ts.map((s) => `${s}[id]`).join(","),
@@ -60,6 +59,5 @@ export const toc = (content: string): JSX.Element => {
     (hs) => Tree.fromArray(shouldBeChild)(hs),
     (tree) => doToc(tree),
   );
-  console.log("✨✨✨✨✨✨✨✨✨✨✨");
   return result;
 };
