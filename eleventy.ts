@@ -1,5 +1,7 @@
 import { z } from "zod";
 
+// https://www.11ty.dev/docs/data/
+
 const MenuSchema = z
   .object({
     data: z.object({ title: z.string() }),
@@ -58,6 +60,7 @@ export const HeadSchema = z
     socialImageAlt: z.string().default(headDefaultProps.socialImageAlt),
     title: z.string(),
     page: z.object({ url: z.string() }),
+    eleventy: z.object({ generator: z.string() }),
   })
   .transform((props) => {
     return {
@@ -77,6 +80,7 @@ export const HeadSchema = z
           ? props.title
           : `${headDefaultProps.title} | ${props.title}`,
       url: absoluteUrl(props.baseUrl, props.page.url),
+      generator: props.eleventy.generator,
     };
   });
 

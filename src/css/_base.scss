@@ -2,6 +2,8 @@
   outline: 10px solid var(--color-yellow);
   outline-offset: 0.25rem;
   border-radius: 0.125rem;
+  transition: all 0.2s ease-out;
+  opacity: 1;
 }
 
 body {
@@ -60,8 +62,9 @@ main {
 }
 
 a,
+li,
 p,
-li {
+summary {
   font-size: var(--step-1);
 }
 
@@ -78,5 +81,9 @@ blockquote > * {
 
 ul,
 ol {
-  padding-inline-start: var(--space-s-0);
+  // padding-inline-start: var(--space-s-0);
+}
+
+summary {
+  cursor: pointer;
 }

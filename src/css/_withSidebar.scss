@@ -1,0 +1,26 @@
+.with-sidebar {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: var(--sidebar-direction, row-reverse);
+}
+
+.sidebar {
+  flex-basis: var(--sidebar-width, 30rem);
+  flex-grow: 1;
+}
+
+.not-sidebar {
+  flex-basis: 0;
+  flex-grow: 999;
+  min-inline-size: var(--not-sidebar-width, 55%);
+}
+
+// config
+
+.sidebar-left {
+  --sidebar-direction: row;
+}
+
+.sidebar-right {
+  --sidebar-direction: row-reverse;
+}

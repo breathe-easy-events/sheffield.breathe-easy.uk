@@ -1,3 +1,4 @@
+import { JSX } from "react/jsx-runtime";
 import { Head } from "../_components/Head";
 import { Header } from "../_components/Header";
 import { Hero } from "../_components/Hero";
@@ -11,7 +12,7 @@ export const IndexLayout = (data: ViewInput): JSX.Element => {
     <html lang="en">
       {Head(HeadSchema.parse(data))}
       <body>
-        <a href="#main" class="screen-reader-only">
+        <a href="#main" className="screen-reader-only">
           skip to content
         </a>
         {Header({ links, currentUrl, bottomEl: false })}

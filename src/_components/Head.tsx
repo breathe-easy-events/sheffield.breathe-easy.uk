@@ -1,3 +1,4 @@
+import { JSX } from "react/jsx-runtime";
 import { HeadProps } from "../../eleventy";
 
 export const Head = ({
@@ -6,10 +7,11 @@ export const Head = ({
   socialImage,
   socialImageAlt,
   url,
+  generator,
 }: HeadProps): JSX.Element => {
   return (
     <head>
-      <meta charset="UTF-8" />
+      <meta charSet="UTF-8" />
       <meta property="og:type" content="website" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <link rel="icon" type="image/png" href="/static/img/favicon.png" />
@@ -20,10 +22,11 @@ export const Head = ({
       <meta property="og:url" content={url} />
       <meta name="description" content={description} />
       <meta property="og:description" content={description} />
-      <meta property="og:image" content={socialImage} />
+      <meta data-asset-hash property="og:image" content={socialImage} />
       <meta property="og:image:alt" content={socialImageAlt} />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="theme-color" content="#044156" />
+      <meta name="generator" content={generator} />
       <link data-asset-hash href="/css/styles.css" rel="stylesheet" />
     </head>
   );

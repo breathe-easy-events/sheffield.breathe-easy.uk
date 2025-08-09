@@ -1,3 +1,4 @@
+import { JSX } from "react/jsx-runtime";
 import { Links } from "../../eleventy";
 
 export type HeaderProps = {
@@ -8,7 +9,7 @@ export type HeaderProps = {
 
 export const Header = ({ links, currentUrl }: HeaderProps): JSX.Element => {
   return (
-    <header class="header">
+    <header className="header">
       <nav>
         <a aria-current={currentUrl === "/" ? "page" : null} href="/">
           Home

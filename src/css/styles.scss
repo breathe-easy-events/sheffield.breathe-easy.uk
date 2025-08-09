@@ -3,7 +3,10 @@
 @use "typography";
 @use "utils";
 @use "base";
+@use "headingLinks";
 // component-like things
 @use "header";
 @use "hero";
-@use "section";
+@use "withSidebar";
+@use "center";
+@use "stack";
