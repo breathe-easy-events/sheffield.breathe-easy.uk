@@ -1,7 +1,7 @@
 ---
 title: My new Resource page
 menu: true
-layout: ResourceLayout.11ty.tsx
+layout: PageLayout.11ty.tsx
 discription: This is just a test it will not be published
 ---
 
