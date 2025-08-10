@@ -71,7 +71,7 @@ Offering options for people to join your event remotely means that if someone is
 
 👣 Step-by-step guide: [Remote access: how can I put this measure in place?](#2-remote-access-1)
 
-🧪 The Science: [Remote access: why is this measure helpful?](#1-sickness-policy-2-remote-access-the-science-why-is-this-measure-helpful
+🧪 The Science: [Remote access: why is this measure helpful?](#1-sickness-policy-2-remote-access-the-science-why-is-this-measure-helpful)
 
 ---
 
