@@ -337,7 +337,7 @@ Use your common sense to plan adequate ventilation for the size of your space an
 
 #### Check your ventilation. 
 
-You can use [a CO2 monitor](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.ds7gxws87vmo) to check how well ventilated your space is. You might be surprised that your space is better naturally/mechanically ventilated than you think!
+You can use [a CO2 monitor](#6-co2-monitoring-1) to check how well ventilated your space is. You might be surprised that your space is better naturally/mechanically ventilated than you think!
 
   
 
@@ -387,7 +387,7 @@ Let your attendees know in advance that you will be taking measures to keep the 
 
 #### Check your ventilation. 
 
-Use a [CO2 monitor](#6-co2-monitoring-1) to measure how well your event space is ventilated during the event. Keep it in a central location in your event space. 
+Use a CO2 monitor to measure how well your event space is ventilated during the event. Keep it in a central location in your event space. 
 
 #### Make a plan to respond. 
 
