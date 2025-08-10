@@ -507,7 +507,7 @@ This is a live evidence list. We will seek to keep it updated with robust recent
 - Study: [When and Why People Conceal Infectious Disease](https://journals.sagepub.com/doi/abs/10.1177/09567976231221990) 
     
 
-> [Back to sickness policy](#1-sickness-policy)
+[Back to sickness policy](#1-sickness-policy)
 
   
 
