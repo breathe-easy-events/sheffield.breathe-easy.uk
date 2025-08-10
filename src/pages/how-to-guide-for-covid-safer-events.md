@@ -487,3 +487,182 @@ If you want people to feel safer wearing a mask at your event:
 
 > [Back to masking](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.i2xuxb5oviue)
 
+---
+
+## 🕵🏾 Evidence
+
+This is a non-exhaustive list of scientific evidence for each of the Covid-19 safety measures that Breathe Easy recommends for events. 
+
+This is a live evidence list. We will seek to keep it updated with robust recent evidence.
+
+#### 1. Sickness policy  + 2. Remote Access: The Science: Why is this measure helpful?
+
+- Article: [Clinical presentation of Covid-19](https://www.cdc.gov/covid/hcp/clinical-care/covid19-presentation.html) 
+    
+- Article: [Symptoms of Covid-19](https://www.cdc.gov/covid/signs-symptoms/index.html)
+    
+- Review: [Comprehensive Insights Into the Multi-faceted Manifestations of COVID-19: A Narrative Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11287236/) 
+    
+- Review: [Asymptomatic SARS-CoV-2 Infection by Age: A Global Systematic Review and Meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC9935239/)
+    
+- Study: [When and Why People Conceal Infectious Disease](https://journals.sagepub.com/doi/abs/10.1177/09567976231221990) 
+    
+
+> [Back to sickness policy](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.igmy6pcnk47)
+
+  
+
+#### 3. Testing: The Science: Why is this measure helpful?
+
+- Study: [Performance of Rapid Antigen Tests to Detect Symptomatic and Asymptomatic SARS-CoV-2 Infection](https://www.medrxiv.org/content/10.1101/2022.08.05.22278466v2.full-text)
+    
+- Study: [A comparison of SARS-CoV-2 rapid antigen testing with realtime RT-PCR among symptomatic and asymptomatic individuals](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-022-07969-0) 
+    
+- Study:  [Head-to-head comparison of four antigen-based rapid detection tests for the diagnosis of SARS-CoV-2 in respiratory samples](https://www.biorxiv.org/content/10.1101/2020.05.27.119255v1.full) 
+    
+- Study: [SARS-CoV-2 antigen lateral flow tests for detecting infectious people: linked data analysis.](https://europepmc.org/article/MED/35197270) 
+    
+- Study: [Comparison of the diagnostic accuracy of the Pluslife Mini Dock RHAM technology with Abbott ID Now and Cepheid GenXpert: A retrospective evaluation study](https://www.nature.com/articles/s41598-024-64406-9)
+    
+
+> [Back to testing](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.e85ju4nzr6x0)
+
+  
+
+#### 4. Ventilation: The Science: Why is this measure helpful?
+
+- Study: [Mandating indoor air quality for public buildings](https://www.science.org/doi/10.1126/science.adl0677) (paywall) [PDF of article](https://drive.google.com/file/d/16l_IH47cQtC7fFuafvHca7ORNVGITxx8/view) or  [news article about study](https://www.leeds.ac.uk/news-science/news/article/5544/mandating-indoor-air-quality-for-public-buildings) 
+    
+- Article: [Ventilation Can Absentuce Exposure to Respiratory Viruses in Indoor Spaces](https://www.cdc.gov/ncird/whats-new/ventilation-respiratory-viruses.html) 
+    
+- Article: [United States Environmental Protection Agency: Ventilation and Respiratory Viruses](https://www.epa.gov/indoor-air-quality-iaq/ventilation-and-respiratory-viruses) 
+    
+- Article: [Italian study shows ventilation can cut school COVID cases by 82%](https://www.reuters.com/world/europe/italian-study-shows-ventilation-can-cut-school-covid-cases-by-82-2022-03-22/) 
+    
+- Guide: [Improving Ventilation in Business Venues](https://iv4bv.sites.sheffield.ac.uk/home) 
+    
+
+> [Back to ventilation](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.3qmqzl1cm086)
+
+  
+
+#### 5. Air purification: The Science: Why is this measure helpful?
+
+- Study: [SARS-CoV-2 aerosol transmission in schools: the effectiveness of different interventions](https://t.co/GGHrbVUc6j) 
+    
+- Study: [Effectiveness of commercial portable air cleaners and a do-it-yourself minimum efficiency reporting value (MERV)-13 filter box fan air cleaner in reducing aerosolized bacteriophage MS2](https://www.cambridge.org/core/journals/infection-control-and-hospital-epidemiology/article/effectiveness-of-commercial-portable-air-cleaners-and-a-doityourself-minimum-efficiency-reporting-value-merv13-filter-box-fan-air-cleaner-in-reducing-aerosolized-bacteriophage-ms2/A9F120459EFED7572840C8700C3B7DCB)
+    
+- Study: [Effectiveness of HEPA Filters at Removing Infectious SARS-CoV-2 from the Air](https://journals.asm.org/doi/10.1128/msphere.00086-22)
+    
+- Report: [Efficacy of Portable Air Cleaners and Masking for Absentucing Indoor Exposure to Simulated Exhaled SARS-CoV-2 Aerosols](https://www.cdc.gov/mmwr/volumes/70/wr/mm7027e1.htm) 
+    
+
+> [Back to air purification](https://docs.google.com/document/d/1B9SKrfLxStrqNe0zl4BcZYti6VT-KDOSZgMULVlMGBw/edit?pli=1&tab=t.0#heading=h.5ye0w4ktf16a)
+
+  
+
+#### 6. CO2 monitoring: The Science: Why is this measure helpful?
+
+- Expert consensus: [Mandating indoor air quality for public buildings](https://www.science.org/doi/10.1126/science.adl0677) (paywall) [PDF of article](https://drive.google.com/file/d/16l_IH47cQtC7fFuafvHca7ORNVGITxx8/view) or [news article](https://www.leeds.ac.uk/news-science/news/article/5544/mandating-indoor-air-quality-for-public-buildings) 
+    
+- Study: [Ambient carbon dioxide concentration correlates with SARS-CoV-2 aerostability and infection risk](https://www.nature.com/articles/s41467-024-47777-5) or [article on the study](https://www.bristol.ac.uk/news/2024/april/carbon-dioxide-aerosol-study.html)
+    
+- Study: [A post-occupancy study of ventilation effectiveness from high-resolution CO2 monitoring at live theatre events to mitigate airborne transmission of SARS-CoV-2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9339161/#sec5) 
+    
+- Guide: [Unite Covid-19 Guide on Ventilation and CO2 monitoring](https://www.unitetheunion.org/media/4065/2021-09-08-covid19guideventilationetco2monitoring2.pdf) 
+    
+
+> [Back to CO2 monitoring](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.s8o3l52u6574)
+
+  
+
+#### 7. Wearing masks: The Science: Why is this measure helpful?
+
+- Study: [Masks and respirators for prevention of respiratory infections: a state of the science review](https://journals.asm.org/doi/10.1128/cmr.00124-23) or [article on the study](https://www.phc.ox.ac.uk/news/comprehensive-review-confirms-masks-reduce-covid-19-transmission)
+    
+- Study: [An upper bound on one-to-one exposure to infectious human respiratory particles](https://www.pnas.org/doi/full/10.1073/pnas.2110117118) 
+    
+- Study: [Efficacy of FFP3 respirators for prevention of SARS-CoV-2 infection in healthcare workers](https://pmc.ncbi.nlm.nih.gov/articles/PMC8635983/) 
+    
+- Article: [Upgrading PPE for staff working on COVID-19 wards cut hospital-acquired infections dramatically](https://www.cam.ac.uk/research/news/upgrading-ppe-for-staff-working-on-covid-19-wards-cut-hospital-acquired-infections-dramatically) 
+    
+
+> [Back to masking](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.i2xuxb5oviue)
+
+  
+
+#### The Science about Covid and hand-washing
+
+[Airborne transmission](https://www.gov.uk/government/publications/covid-19-and-occupational-impacts/covid-19-and-occupational-impacts#transmission-of-and-exposure-to-sars-cov-2) means airborne prevention measures like air purification, ventilation and masks are needed to prevent people breathing in the virus.
+
+Hand sanitisers do not kill all viruses. For example, alcohol-based sanitizers are [not effective](https://www.northerncarealliance.nhs.uk/patient-information/patient-leaflets/infection-prevention-control-norovirus-your-questions-answered) against Norovirus (thorough hand washing with soap and water is required). 
+
+Like hand washing, [cleaning surfaces](https://whn.global/guidelines/cleaning-and-disinfecting/) can be helpful to prevent disease transmission in general but, for illnesses that are spread through the air, like Covid-19, measures like those listed above are more effective. 
+
+- Report: [COVID-19 and Occupational Impacts: Transmission of and Exposure to SARS-CoV-2](https://www.gov.uk/government/publications/covid-19-and-occupational-impacts/covid-19-and-occupational-impacts#transmission-of-and-exposure-to-sars-cov-2) 
+    
+- Article: [The Great Pandemic Hand-Washing Blooper](https://www.theatlantic.com/health/archive/2022/10/covid-pandemic-airborne-virus-transmission-hand-washing/671831/) 
+    
+- Study: [An exploration of the political, social, economic and cultural factors affecting how different global regions initially reacted to the COVID-19 pandemic](https://royalsocietypublishing.org/doi/10.1098/rsfs.2021.0079#:~:text=The%20lack%20of,%E2%80%93228%5D.)
+
+---
+
+## ⭐ Case studies and examples
+
+Watershed, Bristol - [socially distanced cinema screenings](https://visitbristol.co.uk/event/masked-and-socially-distanced-screenings-at-watershed/319066301/)
+
+Site Gallery, Sheffield - [masked visiting hour](https://www.sitegallery.org/plan-your-visit/)
+
+Vagina Museum, London - [access mornings](https://www.vaginamuseum.co.uk/accessmornings)**
+
+---
+
+## 💭 FAQs
+
+### Why bother to take Covid-19 safety measures?
+
+It is still important to stop the spread of Covid-19. 
+
+- This virus still causes death and infections can do serious internal damage even if symptoms seem mild, causing [serious illness](https://www.degruyterbrill.com/document/doi/10.1515/mr-2024-0030/html) and disability ([6%](https://www.who.int/news-room/fact-sheets/detail/post-covid-19-condition-\(long-covid\)) of infections lead to Long Covid).
+    
+- Covid [is not seasonal](https://www.cdc.gov/ncird/whats-new/covid-19-can-surge-throughout-the-year.html), it spreads throughout the year. The continued impact puts pressure on our healthcare systems, the economy, and our bodies.
+    
+- Covid safety measures make events more accessible for disabled, immunocompromised and at-risk people.
+    
+- Most Covid safety measures reduce the spread of all airborne illnesses such as flu and RSV.
+    
+- Catching Covid-19 repeatedly isn't good for your [immune system](https://www.nature.com/articles/s41590-021-01113-x). The risk of long-term health problems [increases](https://patientresearchcovid19.com/storage/2025/03/Long-COVID-Awareness-Day_-2025-Fact-Sheet.pdf#page=2) with each reinfection.
+    
+
+### How do you know the safety measures work?
+
+Our suggested measures are based on those recommended by the World Health Organisation and used in their [ARIA tool](https://partnersplatform.who.int/tools/aria/) and [study](https://iris.who.int/handle/10665/376346), developed with particle physics lab [CERN](https://home.cern/) to help reduce infection risk in residential, public and healthcare settings. None of the authors of this guide are qualified public health experts, but all our suggested measures are based on peer-reviewed scientific studies. You can [review our list of evidence for each safety measure](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.99vje2sj0iyo).
+
+We organised our measures in line with the ‘Hierarchy of Controls’ pyramid, an occupational health and safety tool that explains the relative effectiveness of different risk reduction strategies.
+
+[cCc] find and upload ARIA image - consider adding as text for screen readers
+
+---
+
+### Why aren’t these safety measures more common?
+
+You might wonder why the safety measures listed in this guide are not standard practice in hospitals, doctors’ surgeries, or other public spaces. That’s a good question! We think they should be. Many scientists and health experts continue to [raise the alarm](https://johnsnowproject.org/insights/admission-the-first-step-to-a-sustainable-solution/) and [call on governments](https://www.bapen.org.uk/pdfs/covid-19/joint-letter-to-chair-20.12.24-redacted.pdf) to protect people better from Covid-19. But unfortunately it’s not unknown for governments to delay or deny action on public health issues - like [during the HIV/AIDS crisis](https://pmc.ncbi.nlm.nih.gov/articles/PMC7784248/#:~:text=Economic%20cycles%20exert%20their%20influence,national%20responses%20to%20HIV/AIDS.) and the [infected blood scandal](https://www.independent.co.uk/news/uk/home-news/penrose-report-blood-scandal-inquiry-branded-a-whitewash-10134095.html). Additionally, it typically [takes years](https://pmc.ncbi.nlm.nih.gov/articles/PMC3241518/#JRSM-11-0180TB1) for scientific evidence to translate into widely applied practice. We think that current Covid-19 policies are dangerously limited and misguided. 
+
+### About the authors
+
+Compiled by Breathe Easy Sheffield’s team of volunteer co-directors. Breathe Easy Sheffield is a grassroots community organisation that exists to reduce the spread of Covid-19 through promoting and organising events with measures in place that reduce transmission risk of Covid and other similar airborne infectious illnesses, and through advocating for increased evidence-based Covid safety in public spaces.
+
+Many people have helped us review and improve this guide. We are grateful to all our volunteer reviewers from within academia, event management teams, social justice movements and the covid conscious and disabled communities.
+
+## 💬 Get in touch
+
+If you have a question about something in this guide or any feedback, please get in touch.
+
+Let us know if you used any of these safety measures and tell us how it went!
+
+We also love to promote covid-safer events, so send us your photos and event information or tag us on Instagram!
+
+#️⃣ Find us on Instagram [@breatheeasysheffield](https://www.instagram.com/breatheeasysheffield/) 
+
+📧 Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
+
