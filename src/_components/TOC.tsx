@@ -8,7 +8,7 @@ import * as Belt from "@mobily/ts-belt";
 const ignoreAttribute = "data-toc-exclude";
 
 const defaults = {
-  tags: ["h2", "h3", "h4"],
+  tags: ["h2", "h3"],
   ignoredElements: [],
   wrapper: "nav",
   wrapperClass: "toc",
