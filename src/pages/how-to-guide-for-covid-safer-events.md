@@ -23,7 +23,7 @@ We offer two options for implementing each safety measure: 
 
 Measures should apply to *everyone*: staff, volunteers, organisers, and attendees.
 
-If you don’t have much time, check out: [🤯 Where to start if you’re overwhelmed](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.8dlflk1d40ql).
+If you don’t have much time, check out: [🤯 Where to start if you’re overwhelmed](#where-to-start-if-youre-overwhelmed).
 
 ## 🔊 Talking about Covid
 
