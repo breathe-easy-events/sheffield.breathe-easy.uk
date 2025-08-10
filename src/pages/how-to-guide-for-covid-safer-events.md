@@ -123,9 +123,9 @@ Air purification uses air filters to remove particles such as allergens, exhaust
 
   
 
-👣 Step-by-step guide: [Air purification: how can I put this measure in place?](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.r9ijlz498mdt)
+👣 Step-by-step guide: [Air purification: how can I put this measure in place?](#5-air-purification-1)
 
-🧪 The Science: [Air purification: why is this measure helpful?](https://docs.google.com/document/d/1B9SKrfLxStrqNe0zl4BcZYti6VT-KDOSZgMULVlMGBw/edit?pli=1&tab=t.0#heading=h.r5inj9fbxw8q)
+🧪 The Science: [Air purification: why is this measure helpful?](#5-air-purification-the-science-why-is-this-measure-helpful)
 
 ---
 
@@ -141,9 +141,9 @@ CO2 monitors tell you how ventilated your event space is. Humans breathe out car
 
   
 
-👣 Step-by-step guide: [CO2 monitoring: how can I put this measure in place?](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.74elzalnkcze)
+👣 Step-by-step guide: [CO2 monitoring: how can I put this measure in place?](#6-co2-monitoring-1)
 
-🧪 The Science: [CO2 monitoring: why is this measure helpful?](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.87hfir5c0k1v)
+🧪 The Science: [CO2 monitoring: why is this measure helpful?](#6-co2-monitoring-the-science-why-is-this-measure-helpful)
 
 ---
 
@@ -161,9 +161,9 @@ Masks have sadly become stigmatised and politicised, which can make people who w
 
   
 
-👣 Step-by-step guide: [Wearing masks: how can I put this measure in place?](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.ud6ue774342o)
+👣 Step-by-step guide: [Wearing masks: how can I put this measure in place?](#7-wearing-masks-1)
 
-🧪 The Science: [Wearing masks: why is this measure helpful?](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.vzukywrcdiqo)
+🧪 The Science: [Wearing masks: why is this measure helpful?](#7-wearing-masks-the-science-why-is-this-measure-helpful)
 
 ---
 
@@ -171,7 +171,7 @@ Masks have sadly become stigmatised and politicised, which can make people who w
 
 This is not one of the more effective ways to reduce Covid risk. Hand washing with soap and water is an essential part of general infection prevention and control. However, on its own, it is not effective at preventing airborne illnesses like Covid-19 because the virus is primarily spread through the air when people breathe out. 
 
-🧪 [The Science about Covid and hand-washing](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.vbxp1ch83gn6)
+🧪 [The Science about Covid and hand-washing](#the-science-about-covid-and-hand-washing)
 
 ### Note on vaccines 💉
 
@@ -191,13 +191,13 @@ These are the easiest first steps. Just like with all safer spaces and accessibi
 
 Take additional measures when you can, ask us for advice, and don’t give up!
 
-- [Talking about Covid 🔊](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.fs3iuo9vc8k1) 
+- [Talking about Covid 🔊](#talking-about-covid) 
     
-- [1. Sickness policy 🦠](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.igmy6pcnk47)
+- [1. Sickness policy 🦠](#1-sickness-policy)
     
-- [4. Ventilation 🍃](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.3qmqzl1cm086)
+- [4. Ventilation 🍃](#4-ventilation)
     
-- [5. Air purification 🌬️](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.5ye0w4ktf16a) (Sheffield folks can borrow purifiers for free!)
+- [5. Air purification 🌬️](#5-air-purification) (Sheffield folks can borrow purifiers for free!) [cCc]link to page on lending library?
 
 ---
 
