@@ -38,7 +38,7 @@ Ask people at your event how your Covid measures impacted them. Seek feedback in
 
 ## 💚 List of Covid safety measures
 
-**🛎️ Don’t have much time? Check out [🤯 Where to start if you’re overwhelmed](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.8dlflk1d40ql)**
+**🛎️ Don’t have much time? Check out [🤯 Where to start if you’re overwhelmed](#where-to-start-if-youre-overwhelmed)**
 
 ### 1. Sickness policy 🦠
 
@@ -51,9 +51,9 @@ An event sickness policy encourages people with symptoms of illness (e.g. coughi
 💔 Absent: No messaging about illness.
   
 
-👣 Step-by-step guide: [Sickness policy: how can I put this measure in place?](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.7mvwfbf1xlrl)
+👣 Step-by-step guide: [Sickness policy: how can I put this measure in place?](#1-sickness-policy-1)
 
-🧪 The Science: [Sickness policy: why is this measure helpful?](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.evg4m0wno032)
+🧪 The Science: [Sickness policy: why is this measure helpful?](#1-sickness-policy-2-remote-access-the-science-why-is-this-measure-helpful)
 
 ---
 
@@ -69,9 +69,9 @@ Offering options for people to join your event remotely means that if someone is
 
   
 
-👣 Step-by-step guide: [Remote access: how can I put this measure in place?](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.hpjiukf8vrij)
+👣 Step-by-step guide: [Remote access: how can I put this measure in place?](#2-remote-access-1)
 
-🧪 The Science: [Remote access: why is this measure helpful?](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.evg4m0wno032)
+🧪 The Science: [Remote access: why is this measure helpful?](#1-sickness-policy-2-remote-access-the-science-why-is-this-measure-helpful
 
 ---
 
@@ -87,9 +87,9 @@ Testing requirements encourage people who are testing positive with Covid-19 to 
 
   
 
-👣 Step-by-step guide: [Testing: how can I put this measure in place?](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.kr0gqtfbsw6s)
+👣 Step-by-step guide: [Testing: how can I put this measure in place?](#3-testing-1)
 
-🧪 The Science: [Testing: why is this measure helpful?](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.54pm4974hl0s)
+🧪 The Science: [Testing: why is this measure helpful?](#3-testing-the-science-why-is-this-measure-helpful)
 
 ---
 
@@ -105,9 +105,9 @@ Ventilation means providing fresh air and removing polluted, stale air. It helps
 
   
 
-👣 Step-by-step guide: [Ventilation: how can I put this measure in place?](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.lmh6ltsp8sge)
+👣 Step-by-step guide: [Ventilation: how can I put this measure in place?](#4-ventilation-1)
 
-🧪 The Science: [Ventilation: why is this measure helpful?](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.8880ouogz7bw)
+🧪 The Science: [Ventilation: why is this measure helpful?](#4-ventilation-the-science-why-is-this-measure-helpful)
 
 ---
 
