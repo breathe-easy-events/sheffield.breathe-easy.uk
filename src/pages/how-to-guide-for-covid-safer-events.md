@@ -53,7 +53,7 @@ An event sickness policy encourages people with symptoms of illness (e.g. coughi
 
 👣 Step-by-step guide: [Sickness policy: how can I put this measure in place?](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.7mvwfbf1xlrl)
 
-🧪 The Science: [Sickness policy: why is this measure helpful?](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.evg4m0wno032)**
+🧪 The Science: [Sickness policy: why is this measure helpful?](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.evg4m0wno032)
 
 ---
 
@@ -613,7 +613,7 @@ Watershed, Bristol - [socially distanced cinema screenings](https://visitbristol
 
 Site Gallery, Sheffield - [masked visiting hour](https://www.sitegallery.org/plan-your-visit/)
 
-Vagina Museum, London - [access mornings](https://www.vaginamuseum.co.uk/accessmornings)**
+Vagina Museum, London - [access mornings](https://www.vaginamuseum.co.uk/accessmornings)
 
 ---
 
