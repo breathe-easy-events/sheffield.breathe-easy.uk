@@ -297,7 +297,7 @@ For attendees who have forgotten, have a few tests available on the door. Ask at
 
 #### Where to buy? 
 
-Rapid lateral flow tests are available at Superdrug, Boots and other high-street pharmacies. They can be ordered for less than £2 per test online at [https://www.medisave.co.uk/collections/test-kits](https://www.medisave.co.uk/collections/test-kits) Some people can [get tests](https://www.nhs.uk/conditions/covid-19-rapid-lateral-flow-test/) for free from a pharmacy.
+Rapid lateral flow tests are available at Superdrug, Boots and other high-street pharmacies. They can be ordered for less than £2 per test [online](https://www.medisave.co.uk/collections/test-kits). Some people can [get tests](https://www.nhs.uk/conditions/covid-19-rapid-lateral-flow-test/) for free from a pharmacy.
 
 #### Note on test accuracy: 
 
@@ -387,7 +387,7 @@ Let your attendees know in advance that you will be taking measures to keep the 
 
 #### Check your ventilation. 
 
-Use a CO2 monitor to measure how well your event space is ventilated during the event. Keep it in a central location in your event space. 
+Use a [CO2 monitor](#6-co2-monitoring-1) to measure how well your event space is ventilated during the event. Keep it in a central location in your event space. 
 
 #### Make a plan to respond. 
 
@@ -395,7 +395,7 @@ Make a simple plan for your CO2 monitoring. To maintain safer levels of ventilat
 
 #### Where to buy? 
 
- 🛎️ You can borrow a Breathe Easy CO2 monitor for free - [request a CO2 monitor now](https://forms.gle/tVTKe8x7DoKGNcXVA).
+ 🛎️ You can borrow a Breathe Easy CO2 monitor for free - [request a CO2 monitor now](https://forms.gle/tVTKe8x7DoKGNcXVA). [cCc] link to web page not form?
 
 Numerous different brands of CO2 monitors are available. Aranet sells a popular model for ~£150. [Smart Air](https://smartairfilters.com/uk/en/product/co2-monitor/) has an affordable CO2 monitor (which Breathe Easy Sheffield uses) at ~£60.
 
@@ -508,7 +508,7 @@ This is a live evidence list. We will seek to keep it updated with robust recent
 - Study: [When and Why People Conceal Infectious Disease](https://journals.sagepub.com/doi/abs/10.1177/09567976231221990) 
     
 
-> [Back to sickness policy](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.igmy6pcnk47)
+> [Back to sickness policy](#1-sickness-policy)
 
   
 
@@ -525,7 +525,7 @@ This is a live evidence list. We will seek to keep it updated with robust recent
 - Study: [Comparison of the diagnostic accuracy of the Pluslife Mini Dock RHAM technology with Abbott ID Now and Cepheid GenXpert: A retrospective evaluation study](https://www.nature.com/articles/s41598-024-64406-9)
     
 
-> [Back to testing](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.e85ju4nzr6x0)
+> [Back to testing](#3-testing)
 
   
 
@@ -542,7 +542,7 @@ This is a live evidence list. We will seek to keep it updated with robust recent
 - Guide: [Improving Ventilation in Business Venues](https://iv4bv.sites.sheffield.ac.uk/home) 
     
 
-> [Back to ventilation](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.3qmqzl1cm086)
+> [Back to ventilation](#4-ventilation)
 
   
 
@@ -557,7 +557,7 @@ This is a live evidence list. We will seek to keep it updated with robust recent
 - Report: [Efficacy of Portable Air Cleaners and Masking for Absentucing Indoor Exposure to Simulated Exhaled SARS-CoV-2 Aerosols](https://www.cdc.gov/mmwr/volumes/70/wr/mm7027e1.htm) 
     
 
-> [Back to air purification](https://docs.google.com/document/d/1B9SKrfLxStrqNe0zl4BcZYti6VT-KDOSZgMULVlMGBw/edit?pli=1&tab=t.0#heading=h.5ye0w4ktf16a)
+> [Back to air purification](#5-air-purification)
 
   
 
@@ -572,7 +572,7 @@ This is a live evidence list. We will seek to keep it updated with robust recent
 - Guide: [Unite Covid-19 Guide on Ventilation and CO2 monitoring](https://www.unitetheunion.org/media/4065/2021-09-08-covid19guideventilationetco2monitoring2.pdf) 
     
 
-> [Back to CO2 monitoring](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.s8o3l52u6574)
+> [Back to CO2 monitoring](#6-co2-monitoring)
 
   
 
@@ -587,7 +587,7 @@ This is a live evidence list. We will seek to keep it updated with robust recent
 - Article: [Upgrading PPE for staff working on COVID-19 wards cut hospital-acquired infections dramatically](https://www.cam.ac.uk/research/news/upgrading-ppe-for-staff-working-on-covid-19-wards-cut-hospital-acquired-infections-dramatically) 
     
 
-> [Back to masking](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.i2xuxb5oviue)
+> [Back to masking](#7-wearing-masks)
 
   
 
