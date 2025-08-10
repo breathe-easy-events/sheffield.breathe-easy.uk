@@ -239,7 +239,7 @@ Ask attendees not to come if they have recently had close contact with someone w
 
 People may be asymptomatic and not realise they are unwell or infectious, so taking additional measures is advisable. 
 
-> [Back to sickness policy](#1-sickness-policy)
+[Back to sickness policy](#1-sickness-policy)
 
   
 
@@ -271,7 +271,7 @@ Run a test so that you can check sound and visuals and the venue’s internet co
 
 Designating an event volunteer or staff member to oversee the remote option and monitor any live feedback (e.g. livestream chat or direct messages) will help improve the remote experience and enable you to troubleshoot any problems. It will also make it easier to run any question and answer sessions that include those joining online.
 
-> [Back to remote access](#2-remote-access)
+[Back to remote access](#2-remote-access)
 
   
 
@@ -307,7 +307,7 @@ Lateral Flow Tests are not 100% reliable in catching every case. Although they r
 
 More sensitive home testing machines, such as the [Pluslife minidock](https://thefacemaskstore.co.uk/product/pluslife-mini-dock-poc-nat-tester/), provide much more [reliable](https://www.nature.com/articles/s41598-024-64406-9) test results. However, they are currently only able to test a small number of people at once, and take longer and at much higher cost compared to rapid tests. They may be suitable at events with a small number of attendees or for testing any attendees at an otherwise mask-required event who need to be unmasked. 
 
-> [Back to testing](#3-testing)
+[Back to testing](#3-testing)
 
   
 
@@ -340,8 +340,7 @@ Use your common sense to plan adequate ventilation for the size of your space an
 You can use [a CO2 monitor](#6-co2-monitoring-1) to check how well ventilated your space is. You might be surprised that your space is better naturally/mechanically ventilated than you think!
 
   
-
-> [Back to ventilation](#4-ventilation)
+[Back to ventilation](#4-ventilation)
 
   
 
@@ -373,7 +372,7 @@ Before the event, switch your purifier on to check it works and how loud it is. 
 
 Purifiers with additional technologies such as ionization or plasma wave are [largely unnecessary](https://medium.com/its-airborne/how-to-pick-an-air-cleaner-31c238bcd91f) and could potentially create harmful byproducts in the air. 
 
-> [Back to air purification](#5-air-purification)
+[Back to air purification](#5-air-purification)
 
   
 
@@ -399,7 +398,7 @@ Make a simple plan for your CO2 monitoring. To maintain safer levels of ventilat
 
 Numerous different brands of CO2 monitors are available. Aranet sells a popular model for ~£150. [Smart Air](https://smartairfilters.com/uk/en/product/co2-monitor/) has an affordable CO2 monitor (which Breathe Easy Sheffield uses) at ~£60.
 
-> [Back to CO2 monitoring](#6-co2-monitoring)
+[Back to CO2 monitoring](#6-co2-monitoring)
 
   
 
@@ -485,7 +484,7 @@ If you want people to feel safer wearing a mask at your event:
 - make masks available for anyone who has forgotten
     
 
-> [Back to masking](#7-wearing-masks)
+[Back to masking](#7-wearing-masks)
 
 ---
 
@@ -525,7 +524,7 @@ This is a live evidence list. We will seek to keep it updated with robust recent
 - Study: [Comparison of the diagnostic accuracy of the Pluslife Mini Dock RHAM technology with Abbott ID Now and Cepheid GenXpert: A retrospective evaluation study](https://www.nature.com/articles/s41598-024-64406-9)
     
 
-> [Back to testing](#3-testing)
+[Back to testing](#3-testing)
 
   
 
@@ -542,7 +541,7 @@ This is a live evidence list. We will seek to keep it updated with robust recent
 - Guide: [Improving Ventilation in Business Venues](https://iv4bv.sites.sheffield.ac.uk/home) 
     
 
-> [Back to ventilation](#4-ventilation)
+[Back to ventilation](#4-ventilation)
 
   
 
@@ -557,7 +556,7 @@ This is a live evidence list. We will seek to keep it updated with robust recent
 - Report: [Efficacy of Portable Air Cleaners and Masking for Absentucing Indoor Exposure to Simulated Exhaled SARS-CoV-2 Aerosols](https://www.cdc.gov/mmwr/volumes/70/wr/mm7027e1.htm) 
     
 
-> [Back to air purification](#5-air-purification)
+[Back to air purification](#5-air-purification)
 
   
 
@@ -572,7 +571,7 @@ This is a live evidence list. We will seek to keep it updated with robust recent
 - Guide: [Unite Covid-19 Guide on Ventilation and CO2 monitoring](https://www.unitetheunion.org/media/4065/2021-09-08-covid19guideventilationetco2monitoring2.pdf) 
     
 
-> [Back to CO2 monitoring](#6-co2-monitoring)
+[Back to CO2 monitoring](#6-co2-monitoring)
 
   
 
@@ -587,7 +586,7 @@ This is a live evidence list. We will seek to keep it updated with robust recent
 - Article: [Upgrading PPE for staff working on COVID-19 wards cut hospital-acquired infections dramatically](https://www.cam.ac.uk/research/news/upgrading-ppe-for-staff-working-on-covid-19-wards-cut-hospital-acquired-infections-dramatically) 
     
 
-> [Back to masking](#7-wearing-masks)
+[Back to masking](#7-wearing-masks)
 
   
 
