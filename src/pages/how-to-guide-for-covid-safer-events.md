@@ -651,7 +651,7 @@ You might wonder why the safety measures listed in this guide are not standard p
 
 Compiled by Breathe Easy Sheffield’s team of volunteer co-directors. Breathe Easy Sheffield is a grassroots community organisation that exists to reduce the spread of Covid-19 through promoting and organising events with measures in place that reduce transmission risk of Covid and other similar airborne infectious illnesses, and through advocating for increased evidence-based Covid safety in public spaces.
 
-Many people have helped us review and improve this guide. We are grateful to all our volunteer reviewers from within academia, event management teams, social justice movements and the covid conscious and disabled communities.
+Many people have helped us review and improve this guide. We are grateful to all our volunteer reviewers from within academia, event management teams, social justice movements and the Covid conscious and disabled communities.
 
 ## 💬 Get in touch
 
@@ -659,7 +659,7 @@ If you have a question about something in this guide or any feedback, please get
 
 Let us know if you used any of these safety measures and tell us how it went!
 
-We also love to promote covid-safer events, so send us your photos and event information or tag us on Instagram!
+We also love to promote Covid-safer events, so send us your photos and event information or tag us on Instagram!
 
 #️⃣ Find us on Instagram [@breatheeasysheffield](https://www.instagram.com/breatheeasysheffield/) 
 
