@@ -171,7 +171,7 @@ Masks have sadly become stigmatised and politicised, which can make people who w
 
 This is not one of the more effective ways to reduce Covid risk. Hand washing with soap and water is an essential part of general infection prevention and control. However, on its own, it is not effective at preventing airborne illnesses like Covid-19 because the virus is primarily spread through the air when people breathe out. 
 
->> 🧪 [The Science about Covid and hand-washing](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.vbxp1ch83gn6)
+🧪 [The Science about Covid and hand-washing](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.vbxp1ch83gn6)
 
 ### Note on vaccines 💉
 
