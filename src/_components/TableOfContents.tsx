@@ -8,7 +8,7 @@ export const TableOfContents = ({
 }: TableOfContentsProps): JSX.Element => {
   return (
     <details open>
-      <summary>Table of Contnets</summary>
+      <summary>Table of Contents</summary>
       {TOC(children)}
     </details>
   );
