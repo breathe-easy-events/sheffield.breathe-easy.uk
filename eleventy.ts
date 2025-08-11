@@ -4,11 +4,11 @@ import { z } from "zod";
 
 const MenuSchema = z
   .object({
-    data: z.object({ title: z.string() }),
+    data: z.object({ title: z.string(), menuName: z.string().optional() }),
     url: z.string(),
   })
   .transform((entry) => ({
-    title: entry.data.title,
+    title: entry.data.menuName ? entry.data.menuName : entry.data.title,
     url: entry.url,
   }))
   .array();
