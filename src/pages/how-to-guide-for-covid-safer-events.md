@@ -28,6 +28,7 @@ If you don’t have much time, check out: [🤯 Where to start if you’re overw
 ## 🔊 Talking about Covid
 
  🛎️ Communicate your Covid safety measures in advance to everyone who will be in your event space, so they know what to do and expect. 
+
 These days Covid is mostly talked about in the past tense. Covid-19 safety measures are no longer common, so you need to explain why you are putting them back in place to avoid confusion.
 
 You may be asking people to change their ‘normal’ behaviour. Others may assume that your safety information is a mistake, left over from the early days of the pandemic. 
