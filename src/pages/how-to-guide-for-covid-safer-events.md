@@ -187,9 +187,6 @@ We don’t include vaccination on our list of suggested safety measures because 
 
 If you are short on time or/and cash, focus on the Covid safety measures below.
 
-These are the easiest first steps. Just like with all safer spaces and accessibility measures, it will take trial and error before you find what works best for you. 
-
-Take additional measures when you can, ask us for advice, and don’t give up!
 
 - [Talking about Covid 🔊](#talking-about-covid) 
     
@@ -198,6 +195,10 @@ Take additional measures when you can, ask us for advice, and don’t give up!
 - [4. Ventilation 🍃](#4-ventilation)
     
 - [5. Air purification 🌬️](#5-air-purification) (Sheffield folks can borrow purifiers for free!) [cCc]link to page on lending library?
+
+These are the easiest first steps. Just like with all safer spaces and accessibility measures, it will take trial and error before you find what works best for you. 
+
+Take additional measures when you can, ask us for advice, and don’t give up!
 
 ---
 
