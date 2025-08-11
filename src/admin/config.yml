@@ -33,6 +33,13 @@ collections:
           hint: "Should this page be linked to from the navigation at the top of every page?",
         }
       - {
+          label: "Menu name",
+          name: "menuName",
+          widget: "string",
+          hint: "Disaply name for menu item, if not supplied title will be used",
+          required: false,
+        }
+      - {
           label: "Layout",
           name: "layout",
           widget: "select",
