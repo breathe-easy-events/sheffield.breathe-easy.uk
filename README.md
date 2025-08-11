@@ -8,7 +8,6 @@ The approach with this starter is to treat Eleventy layouts as wrappers for stat
 
 Although JSX is used for the templates there is no connection to react and these components will be rendered to static HTML in the build process with no hydration.
 
-
 ### Prerequisites
 
 - [node](https://nodejs.org/) I recommend using [asdf](https://asdf-vm.com/) or other version manager.
@@ -47,7 +46,6 @@ As static sites are often hosted on CDNs it is a good idea to hash assets so you
 <link data-asset-hash href="/css/styles.css" rel="stylesheet" />
 ```
 
-
 ## Code & configs
 
 ### What it's for
@@ -62,9 +60,9 @@ As static sites are often hosted on CDNs it is a good idea to hash assets so you
 - `src/_config` entry point for [organizing the Eleventy config](https://www.lenesaile.com/en/blog/organizing-the-eleventy-config-file/)
 - `src/_includes` default layouts folder
 - `src/_components` components to be used by layouts or shortcodes
-- `./src/js/index.ts` entrypoint for compiling *client side* JS. Bundling options are set in `src/_config/bundle-javascript.ts`
+- `./src/js/index.ts` entrypoint for compiling _client side_ JS. Bundling options are set in `src/_config/bundle-javascript.ts`
 - `./src/css/styles.scss` entrypoint for compiling CSS add a `browserlist` entry to `package.json` or `.browserslistrc` to change lightningcss default targets
-- `./src/css/_vars.scss` collection of css variables used to build our styles, they include fluid units that can be visualized here; [colors](https://abc.useallfive.com/?colors[]=000000,FFFFFF,044156,4F81BD,65B891,F6F183,B48C87), [type scale]( https://utopia.fyi/type/calculator?c=320,18,1.2,1240,20,1.25,9,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12) and [spacing scale](https://utopia.fyi/space/calculator?c=320,18,1.2,1240,20,1.25,6,3,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-3xl|m-xl&g=s,l,xl,12)
+- `./src/css/_vars.scss` collection of css variables used to build our styles, they include fluid units that can be visualized here; [colors](https://abc.useallfive.com/?colors[]=000000,FFFFFF,044156,4F81BD,65B891,F6F183,B48C87), [type scale](https://utopia.fyi/type/calculator?c=320,18,1.2,1240,20,1.25,9,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12) and [spacing scale](https://utopia.fyi/space/calculator?c=320,18,1.2,1240,20,1.25,6,3,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-3xl|m-xl&g=s,l,xl,12)
 
 ### baseURL
 
@@ -76,7 +74,6 @@ BASE_URL="https://sheffield.breathe-easy.uk" npm start
 
 This will then be accessed as `globalData` in templates under `data.baseURL`
 
-
 ## Content
 
 New pages can be added and edited through the Decap CMS available at [sheffield.breathe-easy.uk/admin](https://sheffield.breathe-easy.uk/admin). You can mess about in the [demo environment](https://demo.decapcms.org/) without effecting the site.
@@ -87,7 +84,8 @@ Pages accept the following front-matter.
 
 ```yaml
 layout: "which template to use"
-menu: (true | false) show page title in navigation, defaults to false
+menu: "(true | false) show page title in navigation, defaults to false"
+menuName: "Disaply name for menu item, if not supplied title will be used"
 title: "for pages h1 and opengraph metadata"
 description: "[optional] for opengraph metadata"
 socialImage: "[optional] for opengraph metadata (external link or path to file)"
