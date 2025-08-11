@@ -1,0 +1,10 @@
+.slider-outer {
+  height: 100%;
+}
+
+.slider-inner {
+  position: sticky;
+  overflow: scroll;
+  max-height: 100vh;
+  top: 0;
+}
