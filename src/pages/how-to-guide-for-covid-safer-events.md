@@ -398,7 +398,7 @@ Make a simple plan for your CO2 monitoring. To maintain safer levels of ventilat
 
  🛎️ You can borrow a Breathe Easy CO2 monitor for free - [request a CO2 monitor now](https://forms.gle/tVTKe8x7DoKGNcXVA). [cCc] link to web page not form?
 
-Numerous different brands of CO2 monitors are available. Aranet sells a popular model for ~£150. [Smart Air](https://smartairfilters.com/uk/en/product/co2-monitor/) has an affordable CO2 monitor (which Breathe Easy Sheffield uses) at ~£60.
+Numerous different brands of CO2 monitors are available. Aranet sells a popular model for ~£150. [Smart Air](https://smartairfilters.com/uk/en/product/co2-monitor/) has an affordable CO2 monitor (which Breathe Easy Sheffield uses) at ~£60.[cCc] should this be our aff link?
 
 [Back to CO2 monitoring](#6-co2-monitoring)
 
