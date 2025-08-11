@@ -637,7 +637,7 @@ It is still important to stop the spread of Covid-19. 
 
 ### How do you know the safety measures work?
 
-Our suggested measures are based on those recommended by the World Health Organisation and used in their [ARIA tool](https://partnersplatform.who.int/tools/aria/) and [study](https://iris.who.int/handle/10665/376346), developed with particle physics lab [CERN](https://home.cern/) to help reduce infection risk in residential, public and healthcare settings. None of the authors of this guide are qualified public health experts, but all our suggested measures are based on peer-reviewed scientific studies. You can [review our list of evidence for each safety measure](https://docs.google.com/document/d/1gP7sHOQbwQERFXotB1h5FAvBGQQVuXJMvOgXiyyacs8/edit?tab=t.0#heading=h.99vje2sj0iyo).
+Our suggested measures are based on those recommended by the World Health Organisation and used in their [ARIA tool](https://partnersplatform.who.int/tools/aria/) and [study](https://iris.who.int/handle/10665/376346), developed with particle physics lab [CERN](https://home.cern/) to help reduce infection risk in residential, public and healthcare settings. None of the authors of this guide are qualified public health experts, but all our suggested measures are based on peer-reviewed scientific studies. You can [review our list of evidence for each safety measure]( #evidence).
 
 We organised our measures in line with the ‘Hierarchy of Controls’ pyramid, an occupational health and safety tool that explains the relative effectiveness of different risk reduction strategies.
 
