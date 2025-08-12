@@ -1,5 +1,6 @@
 import * as MarkdownIt from "markdown-it";
 import markdownItAnchor from "markdown-it-anchor";
+import { container, MarkdownItContainerOptions } from "@mdit/plugin-container";
 import slugify from "slugify";
 
 const linkAfterHeader = markdownItAnchor.permalink.linkAfterHeader({
@@ -40,8 +41,16 @@ const markdownItAnchorOptions = {
   },
 };
 
+const assideOptions: MarkdownItContainerOptions = {
+  name: "fyi",
+  openRender: (_) => "<aside class='fyi'>",
+  closeRender: (_) => "</aside>",
+};
+
 export const markdownLibrary = MarkdownIt.default({
   html: true,
   breaks: true,
   linkify: true,
-}).use(markdownItAnchor, markdownItAnchorOptions);
+})
+  .use(markdownItAnchor, markdownItAnchorOptions)
+  .use(container, assideOptions);
