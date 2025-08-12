@@ -1,10 +1,9 @@
 import eleventySass from "@11tyrocks/eleventy-plugin-sass-lightningcss";
 import { renderToStaticMarkup } from "react-dom/server";
-import { bundleJavascript } from "./src/_config/bundle-javascript";
-import { hashAssets } from "./src/_config/hash-assets";
+import { bundleJavascript } from "./src/_config/bundle-javascript.ts";
+import { hashAssets } from "./src/_config/hash-assets.ts";
 import { collections } from "./src/_config/collections.ts";
 import { markdownLibrary } from "./src/_config/markdown-library.ts";
-import { toc } from "./src/_config/table-of-contents.ts";
 import { devServerOptions } from "./src/_config/dev-server-options.ts";
 import * as url from "url";
 const __dirname = url.fileURLToPath(new URL(".", import.meta.url));
@@ -25,7 +24,7 @@ export default function (eleventyConfig: any) {
     key: "11ty.js",
     compile: function () {
       return async function (data) {
-        let content = await this.defaultRenderer(data);
+        const content = await this.defaultRenderer(data);
         return renderToStaticMarkup(content);
       };
     },
@@ -46,9 +45,6 @@ export default function (eleventyConfig: any) {
 
   // markdown rendering options
   eleventyConfig.setLibrary("md", markdownLibrary);
-
-  // add table of contents
-  eleventyConfig.addPlugin(toc);
 
   return {
     dir: {
