@@ -16,4 +16,17 @@ and this???
 
 
 does it now it's markdown???
+
+:::
+
+
+
+
+
+### this is a heading
+
+
+
+::: fyi
+a new aside! **maybe some bold text** even
 :::
