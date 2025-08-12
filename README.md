@@ -25,7 +25,7 @@ Although JSX is used for the templates there is no connection to react and these
 
 ### Testing
 
-- `npm test` to run vitest in watch mode
+- `npm test` to run vitest in watch mode.
 
 You can use Vitest and Testing Library to make assertions about how your components render. See this [example](https://github.com/aaaaargZombies/11tsy-starter/blob/df4ba94d3270abe9ecf36d95a8a7812173f36973/src/_components/Heading.test.tsx). Currently there is no test server delivering assets so things like links to CSS files will raise warnings if you test a full layout.
 

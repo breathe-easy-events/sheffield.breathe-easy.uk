@@ -2,6 +2,7 @@ import { JSX } from "react/jsx-runtime";
 import { Head } from "../_components/Head";
 import { Header } from "../_components/Header";
 import { Section } from "../_components/Section";
+import { Slider } from "../_components/Slider";
 import { WithSidebar } from "../_components/WithSidebar";
 import { TableOfContents } from "../_components/TableOfContents";
 import { ViewInput, ViewSchema, HeadSchema } from "../../eleventy";
@@ -17,20 +18,23 @@ export function ResourceLayout(data: ViewInput): JSX.Element {
         </a>
         {Header({ links, currentUrl, bottomEl: false })}
         <main id="main" className="resource-page">
-          <div className="stack stack-gap-l">
-            <WithSidebar
-              sidebar={<div />}
-              notSidebar={<Section>{<h1>{title}</h1>}</Section>}
-            />
-            <WithSidebar
-              sidebar={
+          <WithSidebar
+            sidebar={
+              <Slider>
                 <Section>
                   <TableOfContents>{content}</TableOfContents>
                 </Section>
-              }
-              notSidebar={<Section>{content}</Section>}
-            />
-          </div>
+              </Slider>
+            }
+            notSidebar={
+              <div className="stack stack-gap-l">
+                <Section>
+                  <h1>{title}</h1>
+                </Section>
+                <Section>{content}</Section>
+              </div>
+            }
+          />
         </main>
       </body>
       <script data-asset-hash src="/js/index.js"></script>
