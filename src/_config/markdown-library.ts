@@ -43,7 +43,7 @@ const markdownItAnchorOptions = {
 
 const assideOptions: MarkdownItContainerOptions = {
   name: "fyi",
-  openRender: (_) => "<aside class='fyi'>",
+  openRender: (_) => "<aside class='fyi stack stack-gap-s'>",
   closeRender: (_) => "</aside>",
 };
 
