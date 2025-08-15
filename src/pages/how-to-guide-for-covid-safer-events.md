@@ -78,9 +78,9 @@ Offering options for people to join your event remotely means that if someone is
 
   
 
-👣 Step-by-step guide: [Remote access: how can I put this measure in place?](#2-remote-access-1)
+👣 **Step-by-step guide:** [Remote access: how can I put this measure in place?](#2-remote-access-1)
 
-🧪 The Science: [Remote access: why is this measure helpful?](#1-sickness-policy-2-remote-access-the-science-why-is-this-measure-helpful)
+🧪 **The Science:** [Remote access: why is this measure helpful?](#1-sickness-policy-2-remote-access-the-science-why-is-this-measure-helpful)
 
 ---
 
@@ -96,9 +96,9 @@ Testing requirements encourage people who are testing positive with Covid-19 to 
 
   
 
-👣 Step-by-step guide: [Testing: how can I put this measure in place?](#3-testing-1)
+👣 **Step-by-step guide:** [Testing: how can I put this measure in place?](#3-testing-1)
 
-🧪 The Science: [Testing: why is this measure helpful?](#3-testing-the-science-why-is-this-measure-helpful)
+🧪 **The Science:** [Testing: why is this measure helpful?](#3-testing-the-science-why-is-this-measure-helpful)
 
 ---
 
@@ -114,9 +114,9 @@ Ventilation means providing fresh air and removing polluted, stale air. It helps
 
   
 
-👣 Step-by-step guide: [Ventilation: how can I put this measure in place?](#4-ventilation-1)
+👣 **Step-by-step guide:** [Ventilation: how can I put this measure in place?](#4-ventilation-1)
 
-🧪 The Science: [Ventilation: why is this measure helpful?](#4-ventilation-the-science-why-is-this-measure-helpful)
+🧪 **The Science:** [Ventilation: why is this measure helpful?](#4-ventilation-the-science-why-is-this-measure-helpful)
 
 ---
 
@@ -132,9 +132,9 @@ Air purification uses air filters to remove particles such as allergens, exhaust
 
   
 
-👣 Step-by-step guide: [Air purification: how can I put this measure in place?](#5-air-purification-1)
+👣 **Step-by-step guide:** [Air purification: how can I put this measure in place?](#5-air-purification-1)
 
-🧪 The Science: [Air purification: why is this measure helpful?](#5-air-purification-the-science-why-is-this-measure-helpful)
+🧪 **The Science:** [Air purification: why is this measure helpful?](#5-air-purification-the-science-why-is-this-measure-helpful)
 
 ---
 
@@ -150,9 +150,9 @@ CO2 monitors tell you how ventilated your event space is. Humans breathe out car
 
   
 
-👣 Step-by-step guide: [CO2 monitoring: how can I put this measure in place?](#6-co2-monitoring-1)
+👣 **Step-by-step guide:** [CO2 monitoring: how can I put this measure in place?](#6-co2-monitoring-1)
 
-🧪 The Science: [CO2 monitoring: why is this measure helpful?](#6-co2-monitoring-the-science-why-is-this-measure-helpful)
+🧪 **The Science:** [CO2 monitoring: why is this measure helpful?](#6-co2-monitoring-the-science-why-is-this-measure-helpful)
 
 ---
 
@@ -170,9 +170,9 @@ Masks have sadly become stigmatised and politicised, which can make people who w
 
   
 
-👣 Step-by-step guide: [Wearing masks: how can I put this measure in place?](#7-wearing-masks-1)
+👣 **Step-by-step guide:** [Wearing masks: how can I put this measure in place?](#7-wearing-masks-1)
 
-🧪 The Science: [Wearing masks: why is this measure helpful?](#7-wearing-masks-the-science-why-is-this-measure-helpful)
+🧪 **The Science:** [Wearing masks: why is this measure helpful?](#7-wearing-masks-the-science-why-is-this-measure-helpful)
 
 ---
 
