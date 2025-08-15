@@ -29,7 +29,7 @@ If you don’t have much time, check out: [🤯 Where to start if you’re overw
 
 ::: fyi 
 
-🛎️ Communicate your Covid safety measures in advance to everyone who will be in your event space, so they know what to do and expect. 
+🛎️ **Communicate your Covid safety measures in advance to everyone who will be in your event space, so they know what to do and expect.** 
 
 :::
 
