@@ -60,9 +60,9 @@ An event sickness policy encourages people with symptoms of illness (e.g. coughi
 💔 Absent: No messaging about illness.
   
 
-👣 Step-by-step guide: [Sickness policy: how can I put this measure in place?](#1-sickness-policy-1)
+👣 **Step-by-step guide:** [Sickness policy: how can I put this measure in place?](#1-sickness-policy-1)
 
-🧪 The Science: [Sickness policy: why is this measure helpful?](#1-sickness-policy-2-remote-access-the-science-why-is-this-measure-helpful)
+🧪 **The Science:** [Sickness policy: why is this measure helpful?](#1-sickness-policy-2-remote-access-the-science-why-is-this-measure-helpful)
 
 ---
 
