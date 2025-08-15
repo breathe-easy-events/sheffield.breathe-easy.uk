@@ -474,9 +474,9 @@ FFP2/FFP3 masks with either ear loops or head straps are available online. Masks
 
 #### Step-by-step advice
 
-If you want everyone to wear masks at your event:
+If you want **everyone to wear masks** at your event:
 
-- state that masks are required, not just “encouraged” or “welcome”
+- state that masks are **required**, not just “encouraged” or “welcome”
     
 - include mask requirements in your event information
     
@@ -501,7 +501,7 @@ If you want everyone to wear masks at your event:
 
   
 
-If you want people to feel safer wearing a mask at your event:
+If you want **people to feel safer wearing a mask** at your event:
 
 - include Covid-19 measures prominently in your event information
     
@@ -634,7 +634,7 @@ Like hand washing, [cleaning surfaces](https://whn.global/guidelines/cleaning-an
 
 ## ⭐ Case studies and examples
 
-Watershed, Bristol - [masked and socially distanced cinema screenings](https://visitbristol.co.uk/event/masked-and-socially-distanced-screenings-at-watershed/319066301/)
+Watershed, Bristol - [socially distanced cinema screenings](https://visitbristol.co.uk/event/masked-and-socially-distanced-screenings-at-watershed/319066301/)
 
 Site Gallery, Sheffield - [masked visiting hour](https://www.sitegallery.org/plan-your-visit/)
 
@@ -649,6 +649,8 @@ Vagina Museum, London - [access mornings](https://www.vaginamuseum.co.uk/accessm
 It is still important to stop the spread of Covid-19. 
 
 - This virus still causes death and infections can do serious internal damage even if symptoms seem mild, causing [serious illness](https://www.degruyterbrill.com/document/doi/10.1515/mr-2024-0030/html) and disability ([6%](https://www.who.int/news-room/fact-sheets/detail/post-covid-19-condition-\(long-covid\)) of infections lead to Long Covid).
+
+- Catching Covid-19 repeatedly isn't good for your [immune system](https://www.nature.com/articles/s41590-021-01113-x). The risk of long-term health problems [increases](https://patientresearchcovid19.com/storage/2025/03/Long-COVID-Awareness-Day_-2025-Fact-Sheet.pdf#page=2) with each reinfection.
     
 - Covid [is not seasonal](https://www.cdc.gov/ncird/whats-new/covid-19-can-surge-throughout-the-year.html), it spreads throughout the year. The continued impact puts pressure on our healthcare systems, the economy, and our bodies.
     
@@ -656,7 +658,6 @@ It is still important to stop the spread of Covid-19. 
     
 - Most Covid safety measures reduce the spread of all airborne illnesses such as flu and RSV.
     
-- Catching Covid-19 repeatedly isn't good for your [immune system](https://www.nature.com/articles/s41590-021-01113-x). The risk of long-term health problems [increases](https://patientresearchcovid19.com/storage/2025/03/Long-COVID-Awareness-Day_-2025-Fact-Sheet.pdf#page=2) with each reinfection.
     
 
 ### How do you know the safety measures work?
@@ -671,7 +672,7 @@ We organised our measures in line with the ‘Hierarchy of Controls’ pyramid, 
 
 ### Why aren’t these safety measures more common?
 
-You might wonder why the safety measures listed in this guide are not standard practice in hospitals, doctors’ surgeries, or other public spaces. That’s a good question! We think they should be. Many scientists and health experts continue to [raise the alarm](https://johnsnowproject.org/insights/admission-the-first-step-to-a-sustainable-solution/) and [call on governments](https://www.bapen.org.uk/pdfs/covid-19/joint-letter-to-chair-20.12.24-redacted.pdf) to protect people better from Covid-19. But unfortunately it’s not unknown for governments to delay or deny action on public health issues - like [during the HIV/AIDS crisis](https://pmc.ncbi.nlm.nih.gov/articles/PMC7784248/#:~:text=Economic%20cycles%20exert%20their%20influence,national%20responses%20to%20HIV/AIDS.) and the [infected blood scandal](https://www.independent.co.uk/news/uk/home-news/penrose-report-blood-scandal-inquiry-branded-a-whitewash-10134095.html). Additionally, it typically [takes years](https://pmc.ncbi.nlm.nih.gov/articles/PMC3241518/#JRSM-11-0180TB1) for scientific evidence to translate into widely applied practice. We think that current Covid-19 policies are dangerously limited and misguided. 
+You might wonder why the safety measures listed in this guide are not standard practice in hospitals, doctors’ surgeries, or other public spaces. That’s a good question! We think they should be. Many scientists and health experts continue to [raise the alarm](https://johnsnowproject.org/insights/admission-the-first-step-to-a-sustainable-solution/) and [call on governments](https://www.bapen.org.uk/pdfs/covid-19/joint-letter-to-chair-20.12.24-redacted.pdf) to [protect people better](https://www.bohs.org/media-resources/press-releases/detail/healthcare-workers-still-exposed/) from Covid-19. But unfortunately it’s not unknown for governments to delay or deny action on public health issues - like [during the HIV/AIDS crisis](https://pmc.ncbi.nlm.nih.gov/articles/PMC7784248/#:~:text=Economic%20cycles%20exert%20their%20influence,national%20responses%20to%20HIV/AIDS.) and the [infected blood scandal](https://www.independent.co.uk/news/uk/home-news/penrose-report-blood-scandal-inquiry-branded-a-whitewash-10134095.html). Additionally, it typically [takes years](https://pmc.ncbi.nlm.nih.gov/articles/PMC3241518/#JRSM-11-0180TB1) for scientific evidence to translate into widely applied practice. We think that current Covid-19 policies are dangerously limited and misguided. 
 
 ### About the authors
 
