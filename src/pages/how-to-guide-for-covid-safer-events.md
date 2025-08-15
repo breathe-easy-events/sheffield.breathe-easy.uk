@@ -378,7 +378,7 @@ Any good quality purifier is better than nothing! However, the size of your even
 
 :::
 
-There is a bewildering array of air purifiers out there, and some sellers use misleading marketing. However, you can buy a good quality High Efficiency Particulate Air (HEPA) air purifier for ~£200 upwards. These [clean air calculators](https://smartairfilters.com/uk/en/learn/calculators/) help you calculate Air Changes Per Hour of an air purifier and compare cost effectiveness of up to three air purifiers sold by Smart Air (we use [Smart Air SA600 filters at our events](https://smartairfilters.com/uk/en/product/sa600-air-purifier-5-speed-version/)). Purifiers have filters that should be replaced occasionally for continued effectiveness, so have a look at the expected filter lifespan and factor this into your budget.
+You can buy a good quality High Efficiency Particulate Air (HEPA) purifier for ~£200 upwards. These [clean air calculators](https://smartairfilters.com/uk/en/learn/calculators/) help you calculate Air Changes Per Hour of an air purifier and compare cost effectiveness of up to three air purifiers sold by Smart Air (we use [Smart Air SA600 filters at our events](https://smartairfilters.com/uk/en/product/sa600-air-purifier-5-speed-version/)). Purifiers have filters that should be replaced occasionally for continued effectiveness, so have a look at the expected filter lifespan and factor this into your budget.
 
 You can buy a Smart Air purifier and raise money for Breathe Easy at the same time by using this [Smart Air affiliate link](https://smartairfilters.com/uk?affiliates=28).
 
@@ -412,7 +412,11 @@ Make a simple plan for your CO2 monitoring. To maintain safer levels of ventilat
 
 #### Where to buy? 
 
- 🛎️ You can borrow a Breathe Easy CO2 monitor for free - [request a CO2 monitor now](https://forms.gle/tVTKe8x7DoKGNcXVA). [cCc] link to web page not form?
+::: fyi
+
+ 🛎️ You can borrow a Breathe Easy CO2 monitor for free - [request a CO2 monitor now](https://forms.gle/tVTKe8x7DoKGNcXVA). 
+
+:::
 
 Numerous different brands of CO2 monitors are available. Aranet sells a popular model for ~£150. [Smart Air](https://smartairfilters.com/uk/en/product/co2-monitor/) has an affordable CO2 monitor (which Breathe Easy Sheffield uses) at ~£60.[cCc] should this be our aff link?
 
