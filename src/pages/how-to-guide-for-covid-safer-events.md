@@ -408,7 +408,7 @@ Use a CO2 monitor to measure how well your event space is ventilated during the 
 
 #### Make a plan to respond. 
 
-Make a simple plan for your CO2 monitoring. To maintain safer levels of ventilation, try to keep the CO2 level below 800ppm. This can be done by simply opening doors or windows to the outside when your monitor shows this level. This [guide](https://whn.global/guidelines/ventilation/#monitorco2) and [this video](https://www.youtube.com/watch?v=WKgUZbB1Yao) provide more details.
+Make a simple plan for your CO2 monitoring. To maintain safer levels of ventilation, try to keep the CO2 level below **800ppm**. This can be done by simply opening doors or windows to the outside when your monitor shows this level. This [guide](https://whn.global/guidelines/ventilation/#monitorco2) and [this video](https://www.youtube.com/watch?v=WKgUZbB1Yao) provide more details.
 
 #### Where to buy? 
 
@@ -444,7 +444,7 @@ You may want people to wear masks for the whole of your event. Alternatively, yo
 
 Wearing any mask is a better risk reduction measure than wearing no mask. 
 
-However, FFP2 or FFP3 masks (called N95/N99 in the USA) which fit your face well offer the best protection and are classed as Respiratory Protective Equipment. These good quality masks are made of high level filtration material that catch airborne particles in their mesh and also attract them with an [electrostatic charge](https://youtu.be/ahX27q83Nek?feature=shared&t=36). These masks are still effective when reworn, up to a maximum number of hours (varies per mask). Avoid masks with exhalation valves, which don’t filter exhaled air.
+However, FFP2 or FFP3 masks (called N95/N99 in the USA) which fit your face well offer the best protection. These good quality masks are made of high level filtration material that catch airborne particles in their mesh and also attract them with an [electrostatic charge](https://youtu.be/ahX27q83Nek?feature=shared&t=36). These masks are still effective when reworn, up to a maximum number of hours (varies per mask). Avoid masks with exhalation valves, which don’t filter exhaled air.
 
 Good quality masks now come in a range of attractive colours, so you can choose masks that match your event branding.
 
@@ -464,7 +464,11 @@ Some people at your event may be Deaf or hard of hearing and may use lip reading
 
 #### Where to buy? 
 
- 🛎️ Can’t afford masks? Order some for free from [Sheffield Mask Bloc](https://linksta.cc/@sheffieldmaskbloc?ref=mediaactivist.com)
+::: fyi
+
+ 🛎️ **Can’t afford masks? Order some for free from [Sheffield Mask Bloc](https://linksta.cc/@sheffieldmaskbloc?ref=mediaactivist.com)**
+
+:::
 
 FFP2/FFP3 masks with either ear loops or head straps are available online. Masks with head straps and foam over the nose usually provide the best fit, but it’s worth trying some different styles and sizes to see which fit you best and most comfortably. You can buy masks from online retailers such as [medisave.co.uk](http://www.medisave.co.uk) and [thefacemaskstore.co.uk](http://thefacemaskstore.co.uk) from 99p each, for example [the Face Mask store earloop mask](https://thefacemaskstore.co.uk/product/adults-ffp3-face-mask-protection-with-ear-loops/). You can also buy masks that [enable people to see the wearer’s mouth](https://thefacemaskstore.co.uk/product/alpha-solway-hxc-3-ffp3-face-mask/).
 
