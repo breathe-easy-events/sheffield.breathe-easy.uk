@@ -414,7 +414,7 @@ Make a simple plan for your CO2 monitoring. To maintain safer levels of ventilat
 
 ::: fyi
 
- 🛎️ You can borrow a Breathe Easy CO2 monitor for free - [request a CO2 monitor now](https://forms.gle/tVTKe8x7DoKGNcXVA). 
+ 🛎️ **You can borrow a Breathe Easy CO2 monitor for free - [request a CO2 monitor now](https://forms.gle/tVTKe8x7DoKGNcXVA).**
 
 :::
 
