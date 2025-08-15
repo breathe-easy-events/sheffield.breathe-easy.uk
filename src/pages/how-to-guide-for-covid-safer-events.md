@@ -192,7 +192,11 @@ We don’t include vaccination on our list of suggested safety measures because 
 
 ## 🤯 Where to start if you’re overwhelmed
 
+::: fyi
+
 🛎️ **Remember: it’s better to use *any* safety measures than none at all.**
+
+:::
 
 If you are short on time or/and cash, focus on the Covid safety measures below.
 
@@ -368,7 +372,11 @@ Any good quality purifier is better than nothing! However, the size of your even
 
 #### Where to buy? 
 
- 🛎️Borrow up to two Breathe Easy air purifiers for free - [fill out our purifier request form](https://forms.gle/tVTKe8x7DoKGNcXVA).
+::: fyi
+
+ 🛎️ **Borrow Breathe Easy purifiers for free - [fill out our purifier request form](https://forms.gle/tVTKe8x7DoKGNcXVA).**
+
+:::
 
 There is a bewildering array of air purifiers out there, and some sellers use misleading marketing. However, you can buy a good quality High Efficiency Particulate Air (HEPA) air purifier for ~£200 upwards. These [clean air calculators](https://smartairfilters.com/uk/en/learn/calculators/) help you calculate Air Changes Per Hour of an air purifier and compare cost effectiveness of up to three air purifiers sold by Smart Air (we use [Smart Air SA600 filters at our events](https://smartairfilters.com/uk/en/product/sa600-air-purifier-5-speed-version/)). Purifiers have filters that should be replaced occasionally for continued effectiveness, so have a look at the expected filter lifespan and factor this into your budget.
 
