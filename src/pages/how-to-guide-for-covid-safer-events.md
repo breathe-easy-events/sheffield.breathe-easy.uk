@@ -702,10 +702,11 @@ This guide is shared under a Creative Commons License [(CC BY-NC-SA 4.0)](https:
 This means you are free to:
 
 **Share**—copy and redistribute the policy in any medium or format; 
-**Adapt**—remix, transform, and build upon the policy for any purpose, even commercially. 
+**Adapt**—remix, transform, and build upon the policy
 
 And if you do, you must: 
 
 1\. **Attribute**—Give credit to the author and source appropriately and say whether any changes have been made from the original; 
 2\. **ShareAlike**—Share your policy or document under the same licence, and link to details about the licence.
  
+You may not use the material for commercial purposes. 
