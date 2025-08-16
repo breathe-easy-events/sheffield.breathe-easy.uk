@@ -629,7 +629,7 @@ We organised our measures in line with the ‘Hierarchy of Controls’ pyramid, 
 
 ![an upside-down pyramid, with five categories represented in descending order of effectiveness: elimination, substitution, engineering controls, administrative controls, and personal protective equipment (PPE).](/static/img/hierarchy-of-controls-for-sari.png "Hierarchy of Controls")
 
-\[cCc] find and upload ARIA image - consider adding as text for screen readers
+
 
 - - -
 
