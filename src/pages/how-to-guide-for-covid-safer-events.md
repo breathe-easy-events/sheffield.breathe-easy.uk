@@ -694,3 +694,18 @@ We also love to promote Covid-safer events, so send us your photos and event inf
 
 📫 [Join our mailing list](https://gmail.us17.list-manage.com/subscribe?u=5befd4a851cd5a433e63b6f8a&id=d368619d99)
 
+
+### 📝 License 
+
+This guide is shared under a Creative Commons License [(CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
+
+This means you are free to:
+
+**Share**—copy and redistribute the policy in any medium or format; 
+**Adapt**—remix, transform, and build upon the policy for any purpose, even commercially. 
+
+And if you do, you must: 
+
+1\. **Attribute**—Give credit to the author and source appropriately and say whether any changes have been made from the original; 
+2\. **ShareAlike**—Share your policy or document under the same licence, and link to details about the licence.
+ 
