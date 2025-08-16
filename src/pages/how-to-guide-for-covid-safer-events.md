@@ -692,3 +692,5 @@ We also love to promote Covid-safer events, so send us your photos and event inf
 
 📧 Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
 
+📫 [Join our mailing list](https://gmail.us17.list-manage.com/subscribe?u=5befd4a851cd5a433e63b6f8a&id=d368619d99)
+
