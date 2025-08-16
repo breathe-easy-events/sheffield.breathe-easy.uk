@@ -702,7 +702,7 @@ This guide is shared under a Creative Commons License [(CC BY-NC-SA 4.0)](https:
 This means you are free to:
 
 **Share** - copy and redistribute the policy in any medium or format; 
-**Adapt** - remix, transform, and build upon the policy.
+**Adapt** - remix, transform, and build upon the guide.
 
 And if you do, you must: 
 
