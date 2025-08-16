@@ -707,6 +707,6 @@ This means you are free to:
 And if you do, you must: 
 
 1\. **Attribute** - Give credit to the author and source appropriately and say whether any changes have been made from the original; 
-2\. **ShareAlike** - Share your policy or document under the same licence, and link to details about the licence.
+2\. **ShareAlike** - Share your policy or document under the same license, and link to details about the license.
  
 You may not use the material for commercial purposes. 
