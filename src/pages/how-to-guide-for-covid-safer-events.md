@@ -45,7 +45,7 @@ Ask people at your event how your Covid measures impacted them. Seek feedback in
 
 ::: fyi
 
-**🛎️ Don’t have much time? Check out [🤯 Where to start if you’re overwhelmed](#where-to-start-if-youre-overwhelmed)**
+🛎️ Don’t have much time? Check out [🤯 Where to start if you’re overwhelmed](#where-to-start-if-youre-overwhelmed)
 
 :::
 
