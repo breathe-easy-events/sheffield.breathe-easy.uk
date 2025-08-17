@@ -625,11 +625,9 @@ It is still important to stop the spread of Covid-19. 
 
 Our suggested measures are based on those recommended by the World Health Organisation and used in their [ARIA tool](https://partnersplatform.who.int/tools/aria/) and [study](https://iris.who.int/handle/10665/376346), developed with particle physics lab [CERN](https://home.cern/) to help reduce infection risk in residential, public and healthcare settings. None of the authors of this guide are qualified public health experts, but all our suggested measures are based on peer-reviewed scientific studies. You can [review our list of evidence for each safety measure](#evidence).
 
-We organised our measures in line with the ‘Hierarchy of Controls’ pyramid, an occupational health and safety tool that explains the relative effectiveness of different risk reduction strategies.
+We organised our measures in line with the ‘Hierarchy of Controls’ occupational health and safety tool, which explains the relative effectiveness of different risk reduction strategies. There are five categories represented in descending order of effectiveness: elimination, substitution, engineering controls, administrative controls, and personal protective equipment (PPE).
 
-![an upside-down pyramid, with five categories represented in descending order of effectiveness: elimination, substitution, engineering controls, administrative controls, and personal protective equipment (PPE).](/static/img/hierarchy-of-controls-for-sari.png "Hierarchy of Controls")
-
-
+![](/static/img/hierarchy-of-controls-for-sari.png)
 
 - - -
 
