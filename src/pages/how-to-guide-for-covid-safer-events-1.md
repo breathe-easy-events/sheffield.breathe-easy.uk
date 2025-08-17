@@ -2,7 +2,9 @@
 title: How-to guide for Covid-safer events
 menu: true
 layout: ResourceLayout.11ty.tsx
-discription: A guide for organisers to improve Covid-safety at your events.
+discription: A guide for anyone who organises events indoors and wants to keep
+  attendees safe(r) from the life-altering impacts of Covid-19 and other
+  airborne diseases.
 ---
 A guide for anyone who organises events indoors and wants to keep attendees safe(r) from the life-altering impacts of Covid-19 and other airborne diseases.
 
@@ -32,6 +34,8 @@ If you don’t have much time, check out: [🤯 Where to start if you’re overw
 🛎️ Communicate your Covid safety measures in advance to everyone who will be in your event space, so they know what to do and expect. 
 
 
+
+
 :::
 
 These days Covid is mostly talked about in the past tense. Covid-19 safety measures are no longer common, so you need to explain why you are putting them back in place to avoid confusion.
@@ -47,6 +51,8 @@ Ask people at your event how your Covid measures impacted them. Seek feedback in
 ::: fyi
 
 🛎️ Don’t have much time? Check out [🤯 Where to start if you’re overwhelmed](#where-to-start-if-youre-overwhelmed)
+
+
 
 
 :::
@@ -65,7 +71,7 @@ An event sickness policy encourages people with symptoms of illness (e.g. coughi
 
 🧪 **The Science:** [Sickness policy: why is this measure helpful?](#1-sickness-policy-2-remote-access-the-science-why-is-this-measure-helpful)
 
----
+- - -
 
 ### 2. Remote access 🤖
 
@@ -81,7 +87,7 @@ Offering options for people to join your event remotely means that if someone is
 
 🧪 **The Science:** [Remote access: why is this measure helpful?](#1-sickness-policy-2-remote-access-the-science-why-is-this-measure-helpful)
 
----
+- - -
 
 ### 3. Testing 🔎
 
@@ -97,7 +103,7 @@ Testing requirements encourage people who are testing positive with Covid-19 to 
 
 🧪 **The Science:** [Testing: why is this measure helpful?](#3-testing-the-science-why-is-this-measure-helpful)
 
----
+- - -
 
 ### 4. Ventilation 🍃
 
@@ -113,7 +119,7 @@ Ventilation means providing fresh air and removing polluted, stale air. It helps
 
 🧪 **The Science:** [Ventilation: why is this measure helpful?](#4-ventilation-the-science-why-is-this-measure-helpful)
 
----
+- - -
 
 ### 5. Air purification 🌬️
 
@@ -129,7 +135,7 @@ Air purification uses air filters to remove particles such as allergens, exhaust
 
 🧪 **The Science:** [Air purification: why is this measure helpful?](#5-air-purification-the-science-why-is-this-measure-helpful)
 
----
+- - -
 
 ### 6. CO2 monitoring 📈
 
@@ -145,7 +151,7 @@ CO2 monitors tell you how ventilated your event space is. Humans breathe out car
 
 🧪 **The Science:** [CO2 monitoring: why is this measure helpful?](#6-co2-monitoring-the-science-why-is-this-measure-helpful)
 
----
+- - -
 
 ### 7. Wearing masks 😷
 
@@ -163,7 +169,7 @@ Masks have sadly become stigmatised and politicised, which can make people who w
 
 🧪 **The Science:** [Wearing masks: why is this measure helpful?](#7-wearing-masks-the-science-why-is-this-measure-helpful)
 
----
+- - -
 
 ### Note on hand washing, sanitiser and cleaning 🧼 
 
@@ -177,13 +183,15 @@ Vaccination against Covid-19 is a very important public health measure that we s
 
 We don’t include vaccination on our list of suggested safety measures because vaccination status is no longer easily provable when admitting people to events and [you can spread Covid-19 even if vaccinated](https://pubmed.ncbi.nlm.nih.gov/35172051/).
 
----
+- - -
 
 ## 🤯 Where to start if you’re overwhelmed
 
 ::: fyi
 
 🛎️ Remember: it’s better to use *any* safety measures than none at all.
+
+
 
 
 :::
@@ -202,7 +210,7 @@ These are the easiest first steps. Just like with all safer spaces and accessibi
 
 Take additional measures when you can, ask us for advice, and don’t give up!
 
----
+- - -
 
 ## 👣 Step-by-step guides
 
@@ -230,15 +238,15 @@ Ideally, provide the option of attendees requesting refunds if they are unwell a
 
 Invite attendees who have a chronic condition (e.g COPD, hayfever) that may cause illness-like symptoms to contact you in advance, so that they feel welcome to come to the event and to reassure other attendees if anyone is coughing or sneezing at your event. 
 
-#### Example text for attendees:
+#### Example text for attendees.
 
-Please do not come if you have Covid-19 or are unwell, for example with a temperature, cough, cold, vomiting or diarrhoea. This is to help keep everyone safe. This doesn’t include long-term conditions like hayfever or COPD that might cause you to cough or sneeze. If you have a condition like this, let us know before. If you are unsure if you should come, please contact us on XXXXXX
+> Please do not come if you have Covid-19 or are unwell, for example with a temperature, cough, cold, vomiting or diarrhoea. This is to help keep everyone safe. This doesn’t include long-term conditions like hayfever or COPD that might cause you to cough or sneeze. If you have a condition like this, let us know before. If you are unsure if you should come, please contact us on XXXXXX
 
-#### Extra-safe option:
+#### Extra-safe option.
 
 Ask attendees not to come if they have recently had close contact with someone who is unwell or tested positive with Covid-19, for example someone living in their household.
 
-#### Remember:
+#### Remember!
 
 People may be asymptomatic and not realise they are unwell or infectious, so taking additional measures is advisable. 
 
@@ -357,6 +365,8 @@ Any good quality purifier is better than nothing! However, the size of your even
  🛎️ Borrow Breathe Easy purifiers for free - [fill out our purifier request form](https://forms.gle/tVTKe8x7DoKGNcXVA).
 
 
+
+
 :::
 
 You can buy a good quality High Efficiency Particulate Air (HEPA) purifier for ~£200 upwards. These [clean air calculators](https://smartairfilters.com/uk/en/learn/calculators/) help you calculate Air Changes Per Hour of an air purifier and compare cost effectiveness of up to three air purifiers sold by Smart Air (we use [Smart Air SA600 filters at our events](https://smartairfilters.com/uk/en/product/sa600-air-purifier-5-speed-version/)). Purifiers have filters that should be replaced occasionally for continued effectiveness, so have a look at the expected filter lifespan and factor this into your budget.
@@ -394,6 +404,8 @@ Make a simple plan for your CO2 monitoring. To maintain safer levels of ventilat
 ::: fyi
 
  🛎️ You can borrow a Breathe Easy CO2 monitor for free - [request a CO2 monitor now](https://forms.gle/tVTKe8x7DoKGNcXVA).
+
+
 
 
 :::
@@ -447,6 +459,8 @@ Some people at your event may be Deaf or hard of hearing and may use lip reading
  🛎️ Can’t afford masks? Order some for free from [Sheffield Mask Bloc](https://linksta.cc/@sheffieldmaskbloc?ref=mediaactivist.com)
 
 
+
+
 :::
 
 FFP2/FFP3 masks with either ear loops or head straps are available online. Masks with head straps and foam over the nose usually provide the best fit, but it’s worth trying some different styles and sizes to see which fit you best and most comfortably. You can buy masks from online retailers such as [medisave.co.uk](http://www.medisave.co.uk) and [thefacemaskstore.co.uk](http://thefacemaskstore.co.uk) from 99p each, for example [the Face Mask store earloop mask](https://thefacemaskstore.co.uk/product/adults-ffp3-face-mask-protection-with-ear-loops/). You can also buy masks that [enable people to see the wearer’s mouth](https://thefacemaskstore.co.uk/product/alpha-solway-hxc-3-ffp3-face-mask/).
@@ -488,7 +502,7 @@ If you want **people to feel safer wearing a mask** at your event:
 
 [Back to masking](#7-wearing-masks)
 
----
+- - -
 
 ## 🕵🏾 Evidence
 
@@ -594,7 +608,7 @@ Like hand washing, [cleaning surfaces](https://whn.global/guidelines/cleaning-an
     
 * Study: [An exploration of the political, social, economic and cultural factors affecting how different global regions initially reacted to the COVID-19 pandemic](https://royalsocietypublishing.org/doi/10.1098/rsfs.2021.0079#:~:text=The%20lack%20of,%E2%80%93228%5D.)
 
----
+- - -
 
 ## ⭐ Case studies and examples
 
@@ -604,7 +618,7 @@ Site Gallery, Sheffield - [masked visiting hour](https://www.sitegallery.org/pla
 
 Vagina Museum, London - [access mornings](https://www.vaginamuseum.co.uk/accessmornings)
 
----
+- - -
 
 ## 💭 FAQs
 
@@ -629,7 +643,7 @@ We organised our measures in line with the ‘Hierarchy of Controls’ occupatio
 
 ![](/static/img/hierarchy-of-controls-for-sari.png)
 
----
+- - -
 
 ### Why aren’t these safety measures more common?
 
