@@ -7,18 +7,19 @@ import * as Belt from "@mobily/ts-belt";
 /** Attribute which if found on a heading means the heading is excluded */
 const ignoreAttribute = "data-toc-exclude";
 
+type TOCOpts = {
+  tags?: HeadingLevel[];
+};
+
+type HeadingLevel = "h2" | "h3" | "h4" | "h5" | "h6";
+
 const defaults = {
-  tags: [
-    "h2",
-    "h3",
-    // "h4",
-    // "h5",
-  ],
-  ignoredElements: [],
-  wrapper: "nav",
-  wrapperClass: "toc",
-  headingText: "",
-  headingTag: "h2",
+  tags: ["h2", "h3"],
+  // ignoredElements: [],
+  // wrapper: "nav",
+  // wrapperClass: "toc",
+  // headingText: "",
+  // headingTag: "h2",
 };
 
 const toLevel = (tagName: string): number => {
@@ -62,10 +63,11 @@ const doToc = (aom: Tree.Tree<Element>): JSX.Element => {
   }
 };
 
-export const TOC = (content: string): JSX.Element => {
+export const TOC = (content: string, opts: TOCOpts = {}): JSX.Element => {
+  const opts_ = { ...defaults, ...opts };
   const hdom = HappyDom.dom(content);
   const result = Belt.pipe(
-    defaults.tags,
+    opts_.tags,
     (ts) => ts.map((s) => `${s}[id]`).join(","),
     (q) => hdom.querySelectorAll(q),
     (hs) => hs.filter((h) => !h.hasAttribute(ignoreAttribute)),
