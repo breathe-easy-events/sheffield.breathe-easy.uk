@@ -1,6 +1,7 @@
 ---
 title: How-to guide for Covid-safer events
 menu: true
+menuName: Event Guidance
 layout: ResourceLayout.11ty.tsx
 discription: A guide for anyone who organises events indoors and wants to keep
   attendees safe(r) from the life-altering impacts of Covid-19 and other
