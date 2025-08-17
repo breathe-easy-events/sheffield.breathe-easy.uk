@@ -29,7 +29,7 @@ If you don’t have much time, check out: [🤯 Where to start if you’re overw
 
 ::: fyi
 
-🛎️ **Communicate your Covid safety measures in advance to everyone who will be in your event space, so they know what to do and expect.** 
+🛎️ Communicate your Covid safety measures in advance to everyone who will be in your event space, so they know what to do and expect. 
 
 
 :::
@@ -183,7 +183,7 @@ We don’t include vaccination on our list of suggested safety measures because 
 
 ::: fyi
 
-🛎️ **Remember: it’s better to use *any* safety measures than none at all.**
+🛎️ Remember: it’s better to use *any* safety measures than none at all.
 
 
 :::
@@ -354,7 +354,7 @@ Any good quality purifier is better than nothing! However, the size of your even
 
 ::: fyi
 
- 🛎️ **Borrow Breathe Easy purifiers for free - [fill out our purifier request form](https://forms.gle/tVTKe8x7DoKGNcXVA).**
+ 🛎️ Borrow Breathe Easy purifiers for free - [fill out our purifier request form](https://forms.gle/tVTKe8x7DoKGNcXVA).
 
 
 :::
@@ -393,7 +393,7 @@ Make a simple plan for your CO2 monitoring. To maintain safer levels of ventilat
 
 ::: fyi
 
- 🛎️ **You can borrow a Breathe Easy CO2 monitor for free - [request a CO2 monitor now](https://forms.gle/tVTKe8x7DoKGNcXVA).**
+ 🛎️ You can borrow a Breathe Easy CO2 monitor for free - [request a CO2 monitor now](https://forms.gle/tVTKe8x7DoKGNcXVA).
 
 
 :::
@@ -444,7 +444,7 @@ Some people at your event may be Deaf or hard of hearing and may use lip reading
 
 ::: fyi
 
- 🛎️ **Can’t afford masks? Order some for free from [Sheffield Mask Bloc](https://linksta.cc/@sheffieldmaskbloc?ref=mediaactivist.com)**
+ 🛎️ Can’t afford masks? Order some for free from [Sheffield Mask Bloc](https://linksta.cc/@sheffieldmaskbloc?ref=mediaactivist.com)
 
 
 :::
