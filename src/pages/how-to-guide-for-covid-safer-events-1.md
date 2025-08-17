@@ -65,7 +65,7 @@ An event sickness policy encourages people with symptoms of illness (e.g. coughi
 
 🧪 **The Science:** [Sickness policy: why is this measure helpful?](#1-sickness-policy-2-remote-access-the-science-why-is-this-measure-helpful)
 
-- - -
+---
 
 ### 2. Remote access 🤖
 
@@ -81,7 +81,7 @@ Offering options for people to join your event remotely means that if someone is
 
 🧪 **The Science:** [Remote access: why is this measure helpful?](#1-sickness-policy-2-remote-access-the-science-why-is-this-measure-helpful)
 
-- - -
+---
 
 ### 3. Testing 🔎
 
@@ -97,7 +97,7 @@ Testing requirements encourage people who are testing positive with Covid-19 to 
 
 🧪 **The Science:** [Testing: why is this measure helpful?](#3-testing-the-science-why-is-this-measure-helpful)
 
-- - -
+---
 
 ### 4. Ventilation 🍃
 
@@ -113,7 +113,7 @@ Ventilation means providing fresh air and removing polluted, stale air. It helps
 
 🧪 **The Science:** [Ventilation: why is this measure helpful?](#4-ventilation-the-science-why-is-this-measure-helpful)
 
-- - -
+---
 
 ### 5. Air purification 🌬️
 
@@ -129,7 +129,7 @@ Air purification uses air filters to remove particles such as allergens, exhaust
 
 🧪 **The Science:** [Air purification: why is this measure helpful?](#5-air-purification-the-science-why-is-this-measure-helpful)
 
-- - -
+---
 
 ### 6. CO2 monitoring 📈
 
@@ -145,7 +145,7 @@ CO2 monitors tell you how ventilated your event space is. Humans breathe out car
 
 🧪 **The Science:** [CO2 monitoring: why is this measure helpful?](#6-co2-monitoring-the-science-why-is-this-measure-helpful)
 
-- - -
+---
 
 ### 7. Wearing masks 😷
 
@@ -163,7 +163,7 @@ Masks have sadly become stigmatised and politicised, which can make people who w
 
 🧪 **The Science:** [Wearing masks: why is this measure helpful?](#7-wearing-masks-the-science-why-is-this-measure-helpful)
 
-- - -
+---
 
 ### Note on hand washing, hand sanitiser and cleaning 🧼 
 
@@ -177,7 +177,7 @@ Vaccination against Covid-19 is a very important public health measure that we s
 
 We don’t include vaccination on our list of suggested safety measures because vaccination status is no longer easily provable when admitting people to events and [you can spread Covid-19 even if vaccinated](https://pubmed.ncbi.nlm.nih.gov/35172051/).
 
-- - -
+---
 
 ## 🤯 Where to start if you’re overwhelmed
 
@@ -202,7 +202,7 @@ These are the easiest first steps. Just like with all safer spaces and accessibi
 
 Take additional measures when you can, ask us for advice, and don’t give up!
 
-- - -
+---
 
 ## 👣 Step-by-step guides
 
@@ -488,7 +488,7 @@ If you want **people to feel safer wearing a mask** at your event:
 
 [Back to masking](#7-wearing-masks)
 
-- - -
+---
 
 ## 🕵🏾 Evidence
 
@@ -594,7 +594,7 @@ Like hand washing, [cleaning surfaces](https://whn.global/guidelines/cleaning-an
     
 * Study: [An exploration of the political, social, economic and cultural factors affecting how different global regions initially reacted to the COVID-19 pandemic](https://royalsocietypublishing.org/doi/10.1098/rsfs.2021.0079#:~:text=The%20lack%20of,%E2%80%93228%5D.)
 
-- - -
+---
 
 ## ⭐ Case studies and examples
 
@@ -604,7 +604,7 @@ Site Gallery, Sheffield - [masked visiting hour](https://www.sitegallery.org/pla
 
 Vagina Museum, London - [access mornings](https://www.vaginamuseum.co.uk/accessmornings)
 
-- - -
+---
 
 ## 💭 FAQs
 
@@ -629,7 +629,7 @@ We organised our measures in line with the ‘Hierarchy of Controls’ occupatio
 
 ![](/static/img/hierarchy-of-controls-for-sari.png)
 
-- - -
+---
 
 ### Why aren’t these safety measures more common?
 
