@@ -68,6 +68,7 @@ export const TOC = (content: string): JSX.Element => {
     defaults.tags,
     (ts) => ts.map((s) => `${s}[id]`).join(","),
     (q) => hdom.querySelectorAll(q),
+    (hs) => hs.filter((h) => !h.hasAttribute(ignoreAttribute)),
     (hs) => Tree.fromArray(shouldBeChild)(hs),
     (tree) => doToc(tree),
   );
