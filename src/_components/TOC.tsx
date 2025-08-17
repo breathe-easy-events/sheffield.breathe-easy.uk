@@ -10,7 +10,7 @@ const ignoreAttribute = "data-toc-exclude";
 const defaults = {
   tags: [
     "h2",
-    // "h3",
+    "h3",
     // "h4",
     // "h5",
   ],
@@ -47,8 +47,15 @@ const doToc = (aom: Tree.Tree<Element>): JSX.Element => {
         default:
           return (
             <li>
-              <a href={`#${aom.a.id}`}>{aom.a.textContent}</a>{" "}
-              <ul>{aom.children.map(doToc)}</ul>
+              <details>
+                <summary>{aom.a.textContent}</summary>
+                <ul>
+                  <li>
+                    <a href={`#${aom.a.id}`}>Introduction</a>
+                  </li>
+                  {aom.children.map(doToc)}
+                </ul>
+              </details>
             </li>
           );
       }
