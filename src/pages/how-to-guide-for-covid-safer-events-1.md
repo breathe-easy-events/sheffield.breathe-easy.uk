@@ -165,7 +165,7 @@ Masks have sadly become stigmatised and politicised, which can make people who w
 
 ---
 
-### Note on hand washing, hand sanitiser and cleaning 🧼 
+### Note on hand washing, sanitiser and cleaning 🧼 
 
 This is not one of the more effective ways to reduce Covid risk. Hand washing with soap and water is an essential part of general infection prevention and control. However, on its own, it is not effective at preventing airborne illnesses like Covid-19 because the virus is primarily spread through the air when people breathe out. 
 
