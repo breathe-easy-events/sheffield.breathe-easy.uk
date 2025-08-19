@@ -8,8 +8,11 @@ export default {
       const result = execSync(
         `git log -1 --pretty="format:%cI" ${data.page?.inputPath}`,
       ).toString();
-      const d = new Date(result);
-      return d.toLocaleDateString();
+      console.log("🍎:", result);
+      const date = new Date(result);
+      const intl = new Intl.DateTimeFormat("en-GB", { dateStyle: "short" });
+
+      return intl.format(date);
     },
     changeLogLink: (data) =>
       `https://github.com/breathe-easy-events/sheffield.breathe-easy.uk/commits/main/${data.page?.inputPath.slice(2)}`,
