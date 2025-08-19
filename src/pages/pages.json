@@ -1,4 +1,0 @@
-{
-  "permalink": "/{{ page.fileSlug }}/",
-  "layout": "PageLayout.11ty.tsx"
-}
