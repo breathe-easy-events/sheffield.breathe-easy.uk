@@ -18,23 +18,26 @@ export function ResourceLayout(data: ViewInput): JSX.Element {
         </a>
         {Header({ links, currentUrl, bottomEl: false })}
         <main id="main" className="resource-page">
-          <WithSidebar
-            sidebar={
-              <Slider>
-                <Section>
-                  <TableOfContents>{content}</TableOfContents>
-                </Section>
-              </Slider>
-            }
-            notSidebar={
-              <div className="stack stack-gap-l">
+          <div className="stack stack-gap-l">
+            <WithSidebar
+              sidebar={<div></div>}
+              notSidebar={
                 <Section>
                   <h1>{title}</h1>
                 </Section>
-                <Section>{content}</Section>
-              </div>
-            }
-          />
+              }
+            />
+            <WithSidebar
+              sidebar={
+                <Slider>
+                  <Section>
+                    <TableOfContents>{content}</TableOfContents>
+                  </Section>
+                </Slider>
+              }
+              notSidebar={<Section>{content}</Section>}
+            />
+          </div>
         </main>
       </body>
       <script data-asset-hash src="/js/index.js"></script>
