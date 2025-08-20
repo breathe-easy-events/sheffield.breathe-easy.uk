@@ -27,6 +27,14 @@ export const ViewSchema = z
     title: data.title,
   }));
 
+export const ResourceViewSchema = z.intersection(
+  ViewSchema,
+  z.object({
+    changeLogLink: z.string().nonempty(),
+    lastUpdated: z.string().nonempty(),
+  }),
+);
+
 export type ViewProps = z.infer<typeof ViewSchema>;
 export type Links = z.infer<typeof MenuSchema>;
 
