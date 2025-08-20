@@ -16,4 +16,4 @@ reduce transmission risk.
 
 👉 Want to find out more? [Follow us on Instagram](https://www.instagram.com/breatheeasysheffield/) or [join our mailing list](http://eepurl.com/iQfyS2)
 
-*Last updated: February 2025*
+*Last updated: August 2025*
