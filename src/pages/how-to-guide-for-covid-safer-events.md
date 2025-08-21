@@ -698,5 +698,3 @@ And if you do, you must:
 2. **ShareAlike** - Share your policy or document under the same license, and link to details about the license.
 
 You may not use the material for commercial purposes.
-
-*Last updated: 17.08.2025*
