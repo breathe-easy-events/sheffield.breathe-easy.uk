@@ -30,18 +30,18 @@ export default {
     //     const intl = new Intl.DateTimeFormat("en-GB", { dateStyle: "short" });
     //     return intl.format(date);
     //   },
-    lastUpdated: (data) => {
-      // NOTE:  this fails in cloudflare because they do a shallow clone, so all the files get the same date
-      // could I potentially just do a second git clone into a tmp folder and get the actual commit dates from there????
-      const result = execSync(
-        `git log -1 --pretty="format:%cI" ${data.page?.inputPath}`,
-      ).toString();
-      console.log("🍎:", result);
-      const date = new Date(result);
-      const intl = new Intl.DateTimeFormat("en-GB", { dateStyle: "short" });
-
-      return intl.format(date);
-    },
+    // lastUpdated: (data) => {
+    //   // NOTE:  this fails in cloudflare because they do a shallow clone, so all the files get the same date
+    //   // could I potentially just do a second git clone into a tmp folder and get the actual commit dates from there????
+    //   const result = execSync(
+    //     `git log -1 --pretty="format:%cI" ${data.page?.inputPath}`,
+    //   ).toString();
+    //   console.log("🍎:", result);
+    //   const date = new Date(result);
+    //   const intl = new Intl.DateTimeFormat("en-GB", { dateStyle: "short" });
+    //
+    //   return intl.format(date);
+    // },
     changeLogLink: (data) =>
       `https://github.com/breathe-easy-events/sheffield.breathe-easy.uk/commits/main/${data.page?.inputPath.slice(2)}`,
   },

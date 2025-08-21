@@ -6,6 +6,7 @@ layout: ResourceLayout.11ty.tsx
 discription: A guide for anyone who organises events indoors and wants to keep
   attendees safe(r) from the life-altering impacts of Covid-19 and other
   airborne diseases.
+lastUpdat: 20/08/2025
 ---
 A guide for anyone who organises events indoors and wants to keep attendees safe(r) from the life-altering impacts of Covid-19 and other airborne diseases.
 
