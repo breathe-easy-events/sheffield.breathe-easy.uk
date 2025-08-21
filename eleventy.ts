@@ -16,24 +16,22 @@ const MenuSchema = z
 export const ViewSchema = z
   .object({
     collections: z.object({ menu: MenuSchema }).default({ menu: [] }),
-    page: z.object({ url: z.string() }),
+    page: z.object({
+      url: z.string().nonempty(),
+      inputPath: z.string().nonempty(),
+    }),
     content: z.string().nonempty(),
     title: z.string().nonempty(),
+    lastUpdate: z.string().nonempty(),
   })
   .transform((data) => ({
     content: data.content,
     currentUrl: data.page.url,
+    inputPath: data.page.inputPath,
     links: data.collections.menu,
     title: data.title,
+    lastUpdate: data.lastUpdate,
   }));
-
-export const ResourceViewSchema = z.intersection(
-  ViewSchema,
-  z.object({
-    changeLogLink: z.string().nonempty(),
-    lastUpdated: z.string().nonempty(),
-  }),
-);
 
 export type ViewProps = z.infer<typeof ViewSchema>;
 export type Links = z.infer<typeof MenuSchema>;

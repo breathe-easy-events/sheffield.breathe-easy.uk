@@ -98,3 +98,8 @@ export namespace Tree {
     TS.assertUnreachable(a);
   };
 }
+
+export namespace Formatting {
+  export const changeLogLink = (inputPath: string): string =>
+    `https://github.com/breathe-easy-events/sheffield.breathe-easy.uk/commits/main/${inputPath.slice(2)}`;
+}

@@ -5,11 +5,12 @@ import { Section } from "../_components/Section";
 import { Slider } from "../_components/Slider";
 import { WithSidebar } from "../_components/WithSidebar";
 import { TableOfContents } from "../_components/TableOfContents";
-import { ViewInput, ResourceViewSchema, HeadSchema } from "../../eleventy";
+import { ViewInput, ViewSchema, HeadSchema } from "../../eleventy";
+import { Formatting } from "../_utils/utils.ts";
 
 export function ResourceLayout(data: ViewInput): JSX.Element {
-  const { content, title, links, currentUrl, lastUpdated, changeLogLink } =
-    ResourceViewSchema.parse(data);
+  const { content, title, links, currentUrl, lastUpdate, inputPath } =
+    ViewSchema.parse(data);
   return (
     <html lang="en">
       {Head(HeadSchema.parse(data))}
@@ -35,7 +36,10 @@ export function ResourceLayout(data: ViewInput): JSX.Element {
                 <Section>
                   {content}
                   <p>
-                    Last update: <a href={changeLogLink}>{lastUpdated}</a>
+                    Last update:{" "}
+                    <a href={Formatting.changeLogLink(inputPath)}>
+                      {lastUpdate}
+                    </a>
                   </p>
                 </Section>
               </div>

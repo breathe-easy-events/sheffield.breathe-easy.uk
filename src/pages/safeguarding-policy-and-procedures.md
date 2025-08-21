@@ -1,7 +1,7 @@
 ---
 title: Safeguarding Policy and Procedures
 layout: ResourceLayout.11ty.tsx
-lastUpdat: 12/01/2025
+lastUpdate: 12/01/2025
 ---
 
 ## 1. Key Contacts
