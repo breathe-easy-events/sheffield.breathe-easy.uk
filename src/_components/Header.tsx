@@ -11,10 +11,12 @@ export const Header = ({ links, currentUrl }: HeaderProps): JSX.Element => {
   return (
     <header className="header">
       <nav>
-        <a aria-current={currentUrl === "/" ? "page" : null} href="/">
-          Home
-        </a>
         <ul role="list">
+          <li>
+            <a aria-current={currentUrl === "/" ? "page" : null} href="/">
+              Home
+            </a>
+          </li>
           {links.map(({ title, url }) => (
             <li>
               <a aria-current={currentUrl === url ? "page" : null} href={url}>

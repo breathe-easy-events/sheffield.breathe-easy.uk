@@ -1,16 +1,13 @@
 .header nav {
   background-color: var(--color-bg);
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  padding: var(--space-m);
+  padding-block: var(--space-m);
+  padding-inline: var(--space-m-l);
 }
 
 .header nav ul {
   display: flex;
   margin: 0;
   flex-wrap: wrap;
-  justify-content: flex-end;
   align-items: center;
 }
 
