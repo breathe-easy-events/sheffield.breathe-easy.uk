@@ -29,7 +29,7 @@ export default function (eleventyConfig: any) {
         const content = await this.defaultRenderer(data);
         return Belt.pipe(
           content as string,
-          renderToString,
+          renderToStaticMarkup,
           HappyDom.dom,
           HappyDom.content,
         );
