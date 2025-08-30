@@ -6,11 +6,7 @@ layout: PageLayout.11ty.tsx
 discription: Book clean air equipment for your next event in Sheffield!
 socialImageAlt: ""
 ---
-Request clean air equipment for free [here](https://docs.google.com/forms/d/e/1FAIpQLSeanXmk0ittjkGM1WVJdtYa9gSr1cHUm6vWEA86ryCCAqgXGw/viewform)  [cCc] can we have a button
 
-Unsure where to start? Try reading our guide to [Covid-safer events](https://sheffield.breathe-easy.uk/how-to-guide-for-covid-safer-events/)
-
-### Our Lending Library
 Creating safe, accessible and welcoming spaces is more important than ever. Good ventilation and clean air are essential for protecting our communities, especially when gathering indoors. To make it easier for local event organisers to host healthier, Covid-safer events, we’ve set up a Lending Library of Clean Air Equipment.
 
 Our library currently offers:
