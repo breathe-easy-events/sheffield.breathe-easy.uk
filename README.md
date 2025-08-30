@@ -64,15 +64,25 @@ As static sites are often hosted on CDNs it is a good idea to hash assets so you
 - `./src/css/styles.scss` entrypoint for compiling CSS add a `browserlist` entry to `package.json` or `.browserslistrc` to change lightningcss default targets
 - `./src/css/_vars.scss` collection of css variables used to build our styles, they include fluid units that can be visualized here; [colors](https://abc.useallfive.com/?colors[]=000000,FFFFFF,044156,4F81BD,65B891,F6F183,B48C87), [type scale](https://utopia.fyi/type/calculator?c=320,18,1.2,1240,20,1.25,9,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12) and [spacing scale](https://utopia.fyi/space/calculator?c=320,18,1.2,1240,20,1.25,6,3,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-3xl|m-xl&g=s,l,xl,12)
 
-### baseURL
+### Environment variables
 
-the `BASE_URL` environment variable is set by doing.
+#### `BASE_URL`
 
 ```sh
 BASE_URL="https://sheffield.breathe-easy.uk" npm start
 ```
 
-This will then be accessed as `globalData` in templates under `data.baseURL`
+This will then be accessed as `globalData` in templates under `data.baseURL`. Important for things like `meta` tags.
+
+#### `BUILD_ENV`
+
+```sh
+BUILD_ENV="prod" npm start
+```
+
+Turns on asset hashing.
+
+#### baseURL
 
 ## Content
 

@@ -7,6 +7,8 @@ import { markdownLibrary } from "./src/_config/markdown-library.ts";
 import { devServerOptions } from "./src/_config/dev-server-options.ts";
 import * as url from "url";
 const __dirname = url.fileURLToPath(new URL(".", import.meta.url));
+import { HappyDom } from "./src/_utils/utils.ts";
+import * as Belt from "@mobily/ts-belt";
 
 export default function (eleventyConfig: any) {
   // data
@@ -25,7 +27,12 @@ export default function (eleventyConfig: any) {
     compile: function () {
       return async function (data) {
         const content = await this.defaultRenderer(data);
-        return renderToStaticMarkup(content);
+        return Belt.pipe(
+          content as string,
+          renderToStaticMarkup,
+          HappyDom.dom,
+          HappyDom.content,
+        );
       };
     },
   });
@@ -37,7 +44,9 @@ export default function (eleventyConfig: any) {
   });
 
   // break cache on static assets like CSS
-  eleventyConfig.addPlugin(hashAssets, { dirname: __dirname });
+  if (process.env.BUILD_ENV === "prod") {
+    eleventyConfig.addPlugin(hashAssets, { dirname: __dirname });
+  }
 
   // add custom collections
   eleventyConfig.addPlugin(collections);
