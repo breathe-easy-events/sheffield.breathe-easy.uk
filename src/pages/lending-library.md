@@ -6,7 +6,7 @@ layout: PageLayout.11ty.tsx
 discription: Book clean air equipment for your next event in Sheffield!
 socialImageAlt: ""
 ---
-## Breathe Easy Sheffield - Ensuring cleaner air across the city's indoor events
+## Ensuring cleaner air across the city's indoor events
 
 Request clean air equipment for free [here](https://docs.google.com/forms/d/e/1FAIpQLSeanXmk0ittjkGM1WVJdtYa9gSr1cHUm6vWEA86ryCCAqgXGw/viewform)  [cCc] can we have a button
 
