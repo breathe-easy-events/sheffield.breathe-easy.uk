@@ -27,8 +27,8 @@ By borrowing this equipment, you can help protect everyone at your events.
 
 Borrowing from the Lending Library is simple. Equipment is free to use, though we encourage you to handle it with care so others can benefit as well.
 
-Read [our guide](https://sheffield.breathe-easy.uk/how-to-guide-for-covid-safer-events/) and decide what equipment you need for your event.
+1. Read [our guide](https://sheffield.breathe-easy.uk/how-to-guide-for-covid-safer-events/) and decide what equipment you need for your event.
 
-Fill out our [request form](https://docs.google.com/forms/d/e/1FAIpQLSeanXmk0ittjkGM1WVJdtYa9gSr1cHUm6vWEA86ryCCAqgXGw/viewform)
+2. Fill out our [request form](https://docs.google.com/forms/d/e/1FAIpQLSeanXmk0ittjkGM1WVJdtYa9gSr1cHUm6vWEA86ryCCAqgXGw/viewform)
 
-We will get in touch to discuss collection and returns, provide you with instructions for use, and to answer any questions.
+3. We will get in touch to discuss collection and returns, provide you with instructions for use, and to answer any questions.
