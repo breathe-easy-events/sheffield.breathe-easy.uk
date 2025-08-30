@@ -11,9 +11,9 @@ Creating safe, accessible and welcoming spaces is more important than ever. Good
 
 Our library currently offers:
 
-2 [cCc] (update to say 4) SA600 Air Purifiers - High-efficiency portable air cleaners designed to filter out airborne particles, including viruses, allergens, and pollutants. Each purifier is simple to set up and run.
+4 SA600 Air Purifiers - High-efficiency portable air cleaners designed to filter out airborne particles, including viruses, allergens, and pollutants. Each purifier is simple to set up and run.
 
-1 CO₂ Monitor - A compact device that helps you track ventilation levels in real time. 
+1 CO2 Monitor - A compact device that helps you track ventilation levels in real time. 
 
 By borrowing this equipment, you can help protect everyone at your events. 
 
@@ -21,8 +21,8 @@ By borrowing this equipment, you can help protect everyone at your events.
 
 Borrowing from the Lending Library is simple. Equipment is free to use, though we encourage you to handle it with care so others can benefit as well.
 
-1. Read [our guide](https://sheffield.breathe-easy.uk/how-to-guide-for-covid-safer-events/) and decide what equipment you need for your event.
+1. Read [our guide](https://sheffield.breathe-easy.uk/how-to-guide-for-covid-safer-events/) and decide what equipment you need for your event;
 
-2. Fill out our [request form](https://docs.google.com/forms/d/e/1FAIpQLSeanXmk0ittjkGM1WVJdtYa9gSr1cHUm6vWEA86ryCCAqgXGw/viewform)
+2. Fill out our [request form;](https://docs.google.com/forms/d/e/1FAIpQLSeanXmk0ittjkGM1WVJdtYa9gSr1cHUm6vWEA86ryCCAqgXGw/viewform)
 
 3. We will get in touch to discuss collection and returns, provide you with instructions for use, and to answer any questions.
