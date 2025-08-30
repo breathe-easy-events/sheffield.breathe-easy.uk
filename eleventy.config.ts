@@ -44,7 +44,9 @@ export default function (eleventyConfig: any) {
   });
 
   // break cache on static assets like CSS
-  eleventyConfig.addPlugin(hashAssets, { dirname: __dirname });
+  if (process.env.BUILD_ENV === "prod") {
+    eleventyConfig.addPlugin(hashAssets, { dirname: __dirname });
+  }
 
   // add custom collections
   eleventyConfig.addPlugin(collections);
