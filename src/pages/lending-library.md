@@ -8,9 +8,7 @@ socialImageAlt: ""
 ---
 **[Request a purifier ➡️](https://docs.google.com/forms/d/e/1FAIpQLSeanXmk0ittjkGM1WVJdtYa9gSr1cHUm6vWEA86ryCCAqgXGw/viewform)**
 
-Create safer, more accessible spaces by bringing clean air to your next event. 
-
-The Breathe Easy Sheffield lending library offers portable clean air equipment **for free**.
+Create safer, more accessible spaces by bringing clean air to your next event.  The Breathe Easy Sheffield lending library offers portable clean air equipment **for free**.
 
 ### Clean the air with purifiers 🌬️
 
