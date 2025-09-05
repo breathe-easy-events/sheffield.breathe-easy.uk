@@ -7,7 +7,7 @@ import { HeadSchema } from "../../eleventy";
 const defaultProps = {
   title: "Breathe Easy Sheffield",
   description:
-    "An eclectic series of Covid safer social & cultural events, designed with enhanced safety measures in place to reduce transmission risk. Launching autumn 2024.",
+    "Covid-safer events and guidance for event organisers. Clean air equipment lending and safety tools to reduce the risks of airborne illness for everyone.",
   socialImage: "/static/img/ogimage-default.png",
   socialImageAlt: "Breath Easy's logo",
 };
