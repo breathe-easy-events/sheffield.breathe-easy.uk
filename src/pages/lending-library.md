@@ -1,7 +1,7 @@
 ---
-title: Lending Library
+title: Borrow purifiers
 menu: true
-menuName: Lending Library
+menuName: Borrow purifiers
 layout: PageLayout.11ty.tsx
 discription: Borrow clean air equipment for your next event in Sheffield!
 socialImageAlt: ""
