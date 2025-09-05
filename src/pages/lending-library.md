@@ -20,6 +20,6 @@ Ventilation means providing fresh air and removing polluted, stale air. It helps
 
 ## How to borrow
 
-1. Read [our guide](https://sheffield.breathe-easy.uk/how-to-guide-for-covid-safer-events/) and decide what equipment you need for your event.
-2. Fill out our [request form](https://docs.google.com/forms/d/e/1FAIpQLSeanXmk0ittjkGM1WVJdtYa9gSr1cHUm6vWEA86ryCCAqgXGw/viewform).
-3. We will get in touch to discuss collection and returns, provide you with instructions for use, and to answer any questions.
+1. Read [our guide](https://sheffield.breathe-easy.uk/how-to-guide-for-covid-safer-events/) to help decide what you want for your event.
+2. Fill out our short [request form](https://docs.google.com/forms/d/e/1FAIpQLSeanXmk0ittjkGM1WVJdtYa9gSr1cHUm6vWEA86ryCCAqgXGw/viewform).
+3. That's it! We will get in touch to arrange collection and return.
