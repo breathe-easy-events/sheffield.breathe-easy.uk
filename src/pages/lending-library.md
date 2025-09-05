@@ -14,7 +14,7 @@ The Breathe Easy clean air lending library offers portable clean air equipment *
 
 ### Clean the air with purifiers 🌬️
 
-Air purifiers use air filters to remove particles such as allergens, exhaust fumes and viruses from the air. Studies show air purification reduces risk of infection from airborne diseases such as Covid-19. Our high-efficiency portable air cleaners from Smart Air UK are portable and easy to use.
+Air purifiers use air filters to remove particles such as allergens, exhaust fumes and viruses from the air. Studies show air purification reduces risk of infection from airborne diseases such as Covid-19. Our high-efficiency portable air cleaners from [Smart Air UK](https://smartairfilters.com/uk/) are portable and easy to use.
 
 ### Ventilate better with CO2 monitoring 🍃
 
