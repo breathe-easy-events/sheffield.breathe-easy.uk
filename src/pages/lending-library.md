@@ -20,9 +20,9 @@ Air purifiers use filters to remove particles such as allergens, exhaust fumes a
 
 Ventilation means providing fresh air and removing polluted, stale air. It helps to dilute and remove aerosols that carry viruses like Covid-19 and flu through the air. CO2 monitors are compact devices that tell you how ventilated your event space is so you know if you need to take action, for example by opening windows to the outside. Our compact CO2 monitor is portable and easy to use.
 
-Read [our how-to guide to Covid-safer events](<>) if you want more information.
+Read [our how-to guide for Covid-safer events](<>) for more information.
 
-## How to borrow
+## How to borrow 🚀
 
 1. Fill out our short [request form](https://docs.google.com/forms/d/e/1FAIpQLSeanXmk0ittjkGM1WVJdtYa9gSr1cHUm6vWEA86ryCCAqgXGw/viewform).
-2. That's it! We will get in touch to arrange collection and return.
+2. That's it! We will get in touch to arrange collection.
