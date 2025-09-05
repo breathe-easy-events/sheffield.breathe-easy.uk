@@ -6,7 +6,7 @@ layout: PageLayout.11ty.tsx
 discription: Borrow clean air equipment for your next event in Sheffield!
 socialImageAlt: ""
 ---
-[Request a purifier](https://docs.google.com/forms/d/e/1FAIpQLSeanXmk0ittjkGM1WVJdtYa9gSr1cHUm6vWEA86ryCCAqgXGw/viewform)
+**[Request a purifier](https://docs.google.com/forms/d/e/1FAIpQLSeanXmk0ittjkGM1WVJdtYa9gSr1cHUm6vWEA86ryCCAqgXGw/viewform)**
 
 Create safer, more accessible and welcoming spaces by bringing clean air to your next event. 
 
