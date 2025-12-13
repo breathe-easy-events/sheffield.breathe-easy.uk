@@ -1,9 +1,10 @@
 // typography
+@use "fluentEmojiFlat";
 
 html {
   color: var(--color-fg);
   background-color: var(--color-bg);
-  font-family: system-ui, sans-serif;
+  font-family: system-ui, sans-serif, "Fluent Emoji Color";
   font-weight: normal;
   line-height: var(--line-height-0);
 }
