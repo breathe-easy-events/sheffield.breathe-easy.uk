@@ -10,7 +10,7 @@
 html {
   color: var(--color-fg);
   background-color: var(--color-bg);
-  font-family: "Noto Color Emoji", system-ui, sans-serif;
+  font-family: system-ui, sans-serif, "Noto Color Emoji";
   font-weight: normal;
   line-height: var(--line-height-0);
 }
