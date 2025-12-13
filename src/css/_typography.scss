@@ -1,10 +1,16 @@
 // typography
-@use "fluentEmojiFlat";
+@font-face {
+  font-family: "Noto Color Emoji";
+  src:
+    local("Noto Color Emoji"),
+    url("/static/font/noto-color-emoji/NotoColorEmoji-Regular.ttf")
+      format("truetype");
+}
 
 html {
   color: var(--color-fg);
   background-color: var(--color-bg);
-  font-family: system-ui, sans-serif, "Fluent Emoji Color";
+  font-family: "Noto Color Emoji", system-ui, sans-serif;
   font-weight: normal;
   line-height: var(--line-height-0);
 }
