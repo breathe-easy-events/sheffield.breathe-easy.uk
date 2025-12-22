@@ -20,7 +20,7 @@ Simple, relatively low-cost safety measures can dramatically reduce the risk of 
 
 ## What we do
 
-We offer [Covid safety guidance](https://sheffield.breathe-easy.uk/how-to-guide-for-covid-safer-events/) to organisers looking to make their events safer, more inclusive, and more accessible, and support this with a free [lending library](https://sheffield.breathe-easy.uk/lending-library/) of clean air equipment.
+We offer [Covid safety guidance](https://sheffield.breathe-easy.uk/how-to-guide-for-covid-safer-events/) to organisers looking to make their events more accessible, and support this with a free [lending library](https://sheffield.breathe-easy.uk/lending-library/) of clean air equipment.
 
 We host monthly Covid-safer meet-ups at Gut Level Sheffield for socialising and organising, and also run occasional ad hoc events.
 
