@@ -12,7 +12,7 @@ We believe no one should have to choose between socialising and their health. By
 
 We are Chloe and Jade, two Sheffield locals who set up Breathe Easy Sheffield using our experience in community organising and events.
 
-We both need to take precautions against Covid to protect ourselves and our loved ones. Six years into the pandemic, with people encouraged to “get over Covid” and abandon safety measures, we found ourselves increasingly isolated. We couldn’t safely attend indoor public venues to socialise or organise, and we knew we weren’t alone.
+We both need to take precautions against Covid to protect ourselves and our loved ones. Four years into the pandemic, with people encouraged to “get over Covid” and abandon safety measures, we found ourselves increasingly isolated. We couldn’t safely attend indoor public venues to socialise or organise, and we knew we weren’t alone.
 
 Breathe Easy Sheffield was created to reduce exclusion and improve access to indoor social and cultural events.
 
