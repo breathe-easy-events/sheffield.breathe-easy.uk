@@ -26,8 +26,7 @@ We host monthly Covid-safer meet-ups at Gut Level Sheffield for socialising and 
 
 Why should anyone have to choose between socialising and safety? We already have the knowledge and the technology to make indoor events safer for everyone.
 
-### \
-Cleaner air in shared spaces
+### Cleaner air in shared spaces
 
 Our lending library supports community groups, organisers, and venues to make practical improvements to indoor air quality, reducing the risk of infection transmission and increasing accessibility.
 
