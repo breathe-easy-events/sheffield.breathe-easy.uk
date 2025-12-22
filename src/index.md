@@ -26,9 +26,7 @@ We host monthly Covid-safer meet-ups at Gut Level Sheffield for socialising and 
 
 Why should anyone have to choose between socialising and safety? We already have the knowledge and the technology to make indoor events safer for everyone.
 
-![2 tables of masked people are being taught lino cutting techniques](/static/img/pxl_20250915_185613150.jpg "Masked Lino Cutting Workshop")
-
-## Our Impact
+![A masked woman stands behind a stall with an air purifier on it, there is a balloon being propelled into the air by the purifier. The woman holds a CO2 monitor](/static/img/img-20251129-wa0016.jpg "Sheffield Transformed Stall")
 
 ### Cleaner air in shared spaces
 
