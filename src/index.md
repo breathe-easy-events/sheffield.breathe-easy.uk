@@ -2,7 +2,7 @@
 layout: IndexLayout.11ty.tsx
 title: Breathe Easy Sheffield
 ---
-Breathe Easy Sheffield is a volunteer-led community group working to make indoor social and cultural spaces safer, more inclusive, and more accessible.
+Breathe Easy Sheffield is a volunteer-led organisation, working to make indoor social and cultural spaces safer, more inclusive, and more accessible.
 
 We believe no one should have to choose between socialising and their health. By using and promoting Covid safety measures, we support people to gather, organise, and create together with reduced risk.
 
@@ -34,7 +34,7 @@ Why should anyone have to choose between socialising and safety? We already have
 
 ### Cleaner air in shared spaces
 
-Our lending library supports community groups, organisers, and venues to make practical improvements to indoor air quality, reducing the risk of Covid transmission and increasing accessibility.
+Our lending library supports community groups, organisers, and venues to make practical improvements to indoor air quality, reducing the risk of infection transmission and increasing accessibility.
 
 In 2025 we reached an important milestone with the launch of our air purifier lending library.
 
@@ -54,7 +54,7 @@ We also made history by hosting the UK’s first Covid-safer gig with a livestre
 
 Alongside events, we focus on advocacy and sharing knowledge.
 
-In 2025 we published a how-to guide for Covid-safer events, took part in research, signed the Global Pledge for Healthy Indoor Air, and joined memorial and awareness-raising work around Long Covid. We ran a webinar with The Sheffield ME Group on Covid safety and connected with other Covid-conscious groups locally and beyond.
+In 2025 we published our how-to guide for Covid-safer events, took part in research, signed the Global Pledge for Healthy Indoor Air, and joined memorial and awareness-raising work around Long Covid. We ran a webinar with The Sheffield ME Group on Covid safety and connected with other Covid-conscious groups.
 
 2025 also saw the launch of [Breathe Easy London](https://london.breathe-easy.uk/), and we’re delighted to welcome them into the Breathe Easy family.
 
