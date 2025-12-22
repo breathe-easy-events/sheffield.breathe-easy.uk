@@ -38,7 +38,7 @@ Our lending library supports community groups, organisers, and venues to make pr
 
 In 2025 we reached an important milestone with the launch of our air purifier lending library.
 
-We added two new air purifiers and supported around 50 events across Sheffield, helping bring cleaner air into shared spaces. Altogether, we estimate that over 2,400 people benefited from cleaner air through this work.
+To date we have supported 50 events across Sheffield, helping bring cleaner air into shared spaces. Altogether, we estimate that over 2,400 people benefited from cleaner air through this work.
 
 ![An air purifier at the back of an event space. There are rows of chairs in front of the stage and the lighting makes everything look purple and blue](/static/img/pxl_20251114_195523126~2-2-.jpg "Air Purifier in Action")
 
