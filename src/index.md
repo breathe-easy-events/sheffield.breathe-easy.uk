@@ -2,7 +2,7 @@
 layout: IndexLayout.11ty.tsx
 title: Breathe Easy Sheffield
 ---
-Breathe Easy Sheffield is a volunteer-led organisation, working to make indoor social and cultural spaces safer, more inclusive, and more accessible.
+Breathe Easy Sheffield is a volunteer-led organisation working to make indoor social and cultural spaces safer, more inclusive, and more accessible.
 
 We believe no one should have to choose between socialising and their health. By using and promoting Covid safety measures, we support people to gather, organise, and create together with reduced risk.
 
@@ -19,8 +19,6 @@ Breathe Easy Sheffield was created to reduce exclusion and improve access to ind
 Simple, relatively low-cost safety measures can dramatically reduce the risk of catching Covid and other airborne illnesses at indoor events. Being able to gather without getting sick, temporarily or permanently, benefits everyone. We believe safer spaces should be the norm, not the exception.
 
 ## What we do
-
-Breathe Easy Sheffield aims to improve access to indoor social and cultural events by using and promoting Covid safety measures.
 
 We offer [Covid safety guidance](https://sheffield.breathe-easy.uk/how-to-guide-for-covid-safer-events/) to organisers looking to make their events safer, more inclusive, and more accessible, and support this with a free [lending library](https://sheffield.breathe-easy.uk/lending-library/) of clean air equipment.
 
@@ -43,8 +41,6 @@ To date we have supported 50 events across Sheffield, helping bring cleaner air 
 ![An air purifier at the back of an event space. There are rows of chairs in front of the stage and the lighting makes everything look purple and blue](/static/img/pxl_20251114_195523126~2-2-.jpg "Air Purifier in Action")
 
 ### Community, events, and connection
-
-Alongside our lending library, we run regular Covid-safer spaces for connection and creativity.
 
 Throughout 2025 we hosted monthly in-person socials and weekly online calls, offering opportunities to connect, create, play, and simply be together in Covid-conscious ways.
 
