@@ -50,7 +50,7 @@ In 2025 we published our how-to guide for Covid-safer events, took part in resea
 
 2025 also saw the launch of [Breathe Easy London](https://london.breathe-easy.uk/), and we’re delighted to welcome them into the Breathe Easy family.
 
-![A masked woman stands behind a stall with an air purifier on it thats blowing a balloon up in the air. She holds a CO2 monitor](/static/img/img-20251129-wa0016.jpg "Stall at Sheffield Transformed")
+![Two tables of masked people are being instructed in lino cutting techniques](/static/img/pxl_20250915_185613150.jpg "Masked Lino Cutting Workshop")
 
 Want to find out more? [Follow us on Instagram](https://www.instagram.com/breatheeasysheffield/) or [join our mailing list](http://eepurl.com/iQfyS2)
 
