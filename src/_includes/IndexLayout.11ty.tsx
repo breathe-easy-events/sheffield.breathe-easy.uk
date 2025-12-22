@@ -19,7 +19,7 @@ export const IndexLayout = (data: ViewInput): JSX.Element => {
         <main id="main">
           <Section>
             <Hero title={title}></Hero>
-            {content}
+            <div className="content stack">{content}</div>
           </Section>
         </main>
       </body>
