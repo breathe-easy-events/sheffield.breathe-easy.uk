@@ -17,7 +17,7 @@ export function PageLayout(data: ViewInput): JSX.Element {
         <main id="main">
           <Section>
             <h1>{title}</h1>
-            {content}
+            <div className="content stack">{content}</div>
           </Section>
         </main>
       </body>
