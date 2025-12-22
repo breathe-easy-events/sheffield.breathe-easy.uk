@@ -35,7 +35,11 @@ export function ResourceLayout(data: ViewInput): JSX.Element {
                   </Section>
                 </Slider>
               }
-              notSidebar={<Section>{content}</Section>}
+              notSidebar={
+                <Section>
+                  <div className="content stack">{content}</div>
+                </Section>
+              }
             />
           </div>
         </main>
