@@ -32,15 +32,15 @@ Our lending library supports community groups, organisers, and venues to make pr
 
 In 2025 we reached an important milestone with the launch of our air purifier lending library.
 
-To date we have supported 50 events across Sheffield, helping bring cleaner air into shared spaces. Altogether, we estimate that over 2,400 people have benefited from cleaner air through this work so far.
+To date we have supported 50 events across Sheffield, helping bring cleaner air into shared spaces. Altogether, we estimate that over 2,400 people have benefited from this work so far.
 
 ![An air purifier at the back of an event space. There are rows of chairs in front of the stage and the lighting makes everything look purple and blue](/static/img/pxl_20251114_195523126~2-2-.jpg "Air Purifier in Action")
 
 ### Community, events, and connection
 
-Throughout 2025 we hosted monthly in-person socials and weekly online calls, offering opportunities to connect, create, play, and simply be together in Covid-conscious ways.
+We host monthly in-person socials and weekly online calls, offering opportunities to connect, create, play, and simply be together in Covid-conscious ways.
 
-We also made history by hosting the UK’s first Covid-safer gig with a livestream option, alongside online film streams, games socials, and creative sessions. These hybrid and online events made it possible for people to take part from home as well as in person.
+We recently made history by hosting the UK’s first Covid-safer gig with a livestream option, alongside online film streams, games socials, and creative sessions. These hybrid and online events made it possible for people to take part from home as well as in person.
 
 ### Advocacy and wider impact
 
