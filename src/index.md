@@ -35,6 +35,8 @@ Why should anyone have to choose between socialising and safety? We already have
 ### Cleaner air in shared spaces
 
 Our lending library supports community groups, organisers, and venues to make practical improvements to indoor air quality, reducing the risk of Covid transmission and increasing accessibility.
+
+
 In 2025 we reached an important milestone with the launch of our air purifier lending library.
 
 We added two new air purifiers and supported around 50 events across Sheffield, helping bring cleaner air into shared spaces. Altogether, we estimate that over 2,400 people benefited from cleaner air through this work.
@@ -53,12 +55,12 @@ We also made history by hosting the UK’s first Covid-safer gig with a livestre
 
 Alongside events, we focus on advocacy and sharing knowledge.
 
-This year we published a how-to guide for Covid-safer events, took part in research, signed the Global Pledge for Healthy Indoor Air, and joined memorial and awareness-raising work around Long Covid. We ran a webinar with The Sheffield ME Group on Covid safety and connected with other Covid-conscious groups locally and beyond.
+In 2025 we published a how-to guide for Covid-safer events, took part in research, signed the Global Pledge for Healthy Indoor Air, and joined memorial and awareness-raising work around Long Covid. We ran a webinar with The Sheffield ME Group on Covid safety and connected with other Covid-conscious groups locally and beyond.
 
-2025 also saw the launch of Breathe Easy London, and we’re delighted to welcome them into the Breathe Easy family.
+2025 also saw the launch of [Breathe Easy London](https://london.breathe-easy.uk/), and we’re delighted to welcome them into the Breathe Easy family.
 
 ![A masked woman stands behind a stall with an air purifier on it thats blowing a balloon up in the air. She holds a CO2 monitor](/static/img/img-20251129-wa0016.jpg "Stall at Sheffield Transformed")
 
 Want to find out more? [Follow us on Instagram](https://www.instagram.com/breatheeasysheffield/) or [join our mailing list](http://eepurl.com/iQfyS2)
 
-*Last updated: September 2025*
+*Last updated: December 2025*
