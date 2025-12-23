@@ -2,6 +2,7 @@ backend:
   name: github
   repo: breathe-easy-events/sheffield.breathe-easy.uk
   branch: main
+  preview_context: "cloudflare preview deploy"
 site_url: https://sheffield.breathe-easy.uk
 media_folder: "src/static/img"
 public_folder: "/static/img"
