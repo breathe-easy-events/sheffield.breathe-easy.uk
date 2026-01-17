@@ -58,7 +58,8 @@ If the danger is immediate, this is an emergency situation. We acknowledge the p
 - To preserve any evidence.
 - To inform the person concerned of what will happen next and why, including who will be informed of the incident. If you are unsure, inform the person that you will need to speak with the DSL and/or DDSL and will keep them updated.
 - To inform the DSL or DDSL if they are not present.
-- Record the incident on the Safeguarding Reporting Form as soon as possible, using factual and unbiased language.
+- Download the read-only [Safeguarding Reporting Form](https://docs.google.com/document/u/1/d/1T41MKQf0oSWhcK8ibCV3espmuxrvLPo5KyJ3j818SLk/edit), complete it as soon as possible using factual, unbiased language and send it securely to the DSL or DDSL. If the form is temporarily saved on a personal computer, it must only be stored for as long as necessary to submit it and must be deleted immediately afterwards. 
+Record the incident on the Safeguarding Reporting Form as soon as possible, using factual and unbiased language.
 
 ### Non-Emergency
 
@@ -123,7 +124,7 @@ The information that is recorded will be kept secure and will comply with data p
 - to ensure that all volunteers and committee members are aware of what they should do and who they should go to if they have concerns that someone may be experiencing, or has experienced, abuse or neglect.
 - to ensure that concerns are acted on, clearly recorded on a Safeguarding Reporting Form and that appropriate referrals are made if necessary.
 - to follow up any referrals and ensure the issues have been addressed.
-- to reinforce the utmost need for confidentiality and to ensure that board members and volunteers are adhering to good practice with regard to confidentiality and security. Around the time that a person starts to challenge abuse the risks of increasing intensity of abuse are greatest.
+- to reinforce the need for confidentiality and ensure that board members and volunteers adhere to good practice with regard to confidentiality and security. The period when a person starts to challenge abuse is often when the risk of increased harm is greatest.
 - to ensure that volunteers engaging directly with people who have experienced abuse, or who are experiencing abuse, are well supported and receive appropriate supervision.
 
 ## 8. Disseminating and Reviewing
@@ -134,7 +135,7 @@ The Safeguarding Policy and Procedures will be reviewed annually by the Committe
 
 ### Review of Policy
 
-Last reviewed: January 2025\
+Last reviewed: January 2026\
 Reviewed by: DSL Jade Brown\
 Approved by Breathe Easy Committee: 22.01.2025
 
