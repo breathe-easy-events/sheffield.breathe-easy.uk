@@ -59,7 +59,7 @@ If the danger is immediate, this is an emergency situation. We acknowledge the p
 - To inform the person concerned of what will happen next and why, including who will be informed of the incident. If you are unsure, inform the person that you will need to speak with the DSL and/or DDSL and will keep them updated.
 - To inform the DSL or DDSL if they are not present.
 - Download the read-only [Safeguarding Reporting Form](https://docs.google.com/document/u/1/d/1T41MKQf0oSWhcK8ibCV3espmuxrvLPo5KyJ3j818SLk/edit), complete it as soon as possible using factual, unbiased language and send it securely to the DSL or DDSL. If the form is temporarily saved on a personal computer, it must only be stored for as long as necessary to submit it and must be deleted immediately afterwards. 
-Record the incident on the Safeguarding Reporting Form as soon as possible, using factual and unbiased language.
+
 
 ### Non-Emergency
 
@@ -74,9 +74,9 @@ If an allegation is disclosed to you or you witness an incident the priorities w
 - To inform the person of what will happen next and why, including who will be informed of the incident. If you are unsure, inform the person that you will need to speak with the DSL and/or DDSL and will keep them updated.
 - *Do not* start to investigate or ask detailed or probing questions - only ask questions to clarify if something is unclear.
 - *Do not* promise to keep it a secret.
-- Record the incident on the [Safeguarding Reporting Form](https://docs.google.com/document/u/1/d/1T41MKQf0oSWhcK8ibCV3espmuxrvLPo5KyJ3j818SLk/edit) as soon as possible, using factual unbiased language.
+- Download the read-only [Safeguarding Reporting Form](https://docs.google.com/document/u/1/d/1T41MKQf0oSWhcK8ibCV3espmuxrvLPo5KyJ3j818SLk/edit), complete it as soon as possible using factual, unbiased language and send it securely to the DSL or DDSL. If the form is temporarily saved on a personal computer, it must only be stored for as long as necessary to submit it and must be deleted immediately afterwards
 
-All incidents or alleged incidents will be discussed with the DSL/DDSL. If you feel unable to raise it with the DSL/DDSL, you can directly contact the [Sheffield Adult Safeguarding Partnership](https://www.sheffieldasp.org.uk/sasp) or the [Sheffield Safeguarding Hub](https://www.safeguardingsheffieldchildren.org/p/processes/referring-a-safeguarding-concern-to-childrens-social-care), though this may lead to an institutional response to the situation, which could cause more harm than good. The full scope of the best interests of the person concerned should always be taken into account before decisions are made.
+All incidents or alleged incidents will be discussed with the DSL/DDSL. If you feel unable to raise it with the DSL/DDSL, you can directly contact the [Sheffield Adult Safeguarding Partnership](https://www.sheffieldasp.org.uk/sasp) or the [Sheffield Safeguarding Hub (children and young people)](https://www.safeguardingsheffieldchildren.org/p/processes/referring-a-safeguarding-concern-to-childrens-social-care), though this may lead to an institutional response to the situation, which could cause more harm than good. The full scope of the best interests of the person concerned should always be taken into account before decisions are made.
 
 In order to implement this Policy, Breathe Easy Sheffield will seek:
 
