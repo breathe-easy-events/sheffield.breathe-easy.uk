@@ -14,7 +14,7 @@ Chloe Cheeseman
 
 ## 2. Introduction
 
-Safeguarding is everyone’s responsibility. The safeguarding leads are responsible for addressing any safeguarding concerns, but looking after the safety of the team and those we interact with is up to all of us.
+Safeguarding is everyone’s responsibility. The Safeguarding Leads are responsible for addressing any safeguarding concerns, but looking after the safety of the team and those we interact with is up to all of us.
 
 Breathe Easy Sheffield recognises the harm that individual actions and societal structures can pose to everyone, including those who are disabled and/or at higher risk from Covid infections and other similar transmissible illnesses.
 
