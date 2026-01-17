@@ -50,15 +50,15 @@ Sometimes, when operating alongside other organisations, we may not be able to o
 
 If the danger is immediate, this is an emergency situation. We acknowledge the potential harm that may be caused by involving emergency services, such as police and ambulance workers, when engaging with marginalised and minoritised communities, including the risk of Covid infection. We will avoid this involvement unless absolutely necessary. However, in an emergency, where the safeguarding risk and danger is immediate, the priorities will be:
 
-- To keep yourself, volunteers and community members physically safe,
-- To consider whether it is necessary to call the emergency services, and make this call if so.
-- To request that any attending emergency services take precautions to prevent the spread of Covid-19, such as wearing masks.
-- To provide basic first aid if appropriate / request the attention of the First Aider.
-- To ask the person who was harmed/at risk of harm what they would like to happen, but do not make promises you may be unable to keep.
-- To preserve any evidence.
-- To inform the person concerned of what will happen next and why, including who will be informed of the incident. If you are unsure, inform the person that you will need to speak with the DSL and/or DDSL and will keep them updated.
-- To inform the DSL or DDSL if they are not present.
-- Download the read-only [Safeguarding Reporting Form](https://docs.google.com/document/u/1/d/1T41MKQf0oSWhcK8ibCV3espmuxrvLPo5KyJ3j818SLk/edit), complete it as soon as possible using factual, unbiased language and send it securely to the DSL or DDSL. If the form is temporarily saved on a personal computer, it must only be stored for as long as necessary to submit it and must be deleted immediately afterwards. 
+- to keep yourself, volunteers and community members physically safe;
+- to consider whether it is necessary to call the emergency services, and make this call if so;
+- to request that any attending emergency services take precautions to prevent the spread of Covid, such as wearing masks;
+- to provide basic first aid if appropriate / request the attention of the First Aider;
+- to ask the person who was harmed/at risk of harm what they would like to happen, while not making promises you may be unable to keep;
+- to preserve any evidence.
+- to inform the person concerned of what will happen next and why, including who will be informed of the incident. If you are unsure, inform the person that you will need to speak with the DSL and/or DDSL and will keep them updated.
+- to inform the DSL or DDSL if they are not present.
+- to download the read-only [Safeguarding Reporting Form](https://docs.google.com/document/u/1/d/1T41MKQf0oSWhcK8ibCV3espmuxrvLPo5KyJ3j818SLk/edit), complete it as soon as possible using factual, unbiased language and send it securely to the DSL or DDSL. If the form is temporarily saved on a personal computer, it must only be stored for as long as necessary to submit it and must be deleted immediately afterwards. 
 
 
 ### Non-Emergency
@@ -66,15 +66,15 @@ If the danger is immediate, this is an emergency situation. We acknowledge the p
 If the danger is not immediate, this is a non-emergency situation.
 If an allegation is disclosed to you or you witness an incident the priorities will be:
 
-- To keep everyone involved safe, which may involve moving to another location.
-- To reassure the person concerned and listen to what they are saying.
-- To remain calm and do not show shock or disbelief.
-- To tell the person that the information will be treated seriously.
-- To ask the person what they would like to happen, but do not make promises you may be unable to keep.
-- To inform the person of what will happen next and why, including who will be informed of the incident. If you are unsure, inform the person that you will need to speak with the DSL and/or DDSL and will keep them updated.
-- *Do not* start to investigate or ask detailed or probing questions - only ask questions to clarify if something is unclear.
-- *Do not* promise to keep it a secret.
-- Download the read-only [Safeguarding Reporting Form](https://docs.google.com/document/u/1/d/1T41MKQf0oSWhcK8ibCV3espmuxrvLPo5KyJ3j818SLk/edit), complete it as soon as possible using factual, unbiased language and send it securely to the DSL or DDSL. If the form is temporarily saved on a personal computer, it must only be stored for as long as necessary to submit it and must be deleted immediately afterwards
+- to keep everyone involved safe, which may involve moving to another location;
+- to reassure the person concerned and listen to what they are saying;
+- to remain calm and do not show shock or disbelief;
+- to tell the person that the information will be treated seriously;
+- to ask the person what they would like to happen, but do not make promises you may be unable to keep;
+- to inform the person of what will happen next and why, including who will be informed of the incident. If you are unsure, inform the person that you will need to speak with the DSL and/or DDSL and will keep them updated;
+- *do not* start to investigate or ask detailed or probing questions - only ask questions to clarify if something is unclear.
+- *do not* promise to keep it a secret.
+- to download the read-only [Safeguarding Reporting Form](https://docs.google.com/document/u/1/d/1T41MKQf0oSWhcK8ibCV3espmuxrvLPo5KyJ3j818SLk/edit), complete it as soon as possible using factual, unbiased language and send it securely to the DSL or DDSL. If the form is temporarily saved on a personal computer, it must only be stored for as long as necessary to submit it and must be deleted immediately afterwards
 
 All incidents or alleged incidents will be discussed with the DSL/DDSL. If you feel unable to raise it with the DSL/DDSL, you can directly contact the [Sheffield Adult Safeguarding Partnership](https://www.sheffieldasp.org.uk/sasp) or the [Sheffield Safeguarding Hub (children and young people)](https://www.safeguardingsheffieldchildren.org/p/processes/referring-a-safeguarding-concern-to-childrens-social-care), though this may lead to an institutional response to the situation, which could cause more harm than good. The full scope of the best interests of the person concerned should always be taken into account before decisions are made.
 
