@@ -12,7 +12,7 @@ Want to find out more? [Follow us on Instagram](<>) or [join our mailing list](<
 
 ## Making events safer for everyone
 
-Breathe Easy Sheffield promotes simple, relatively low-cost safety measures that dramatically reduce the risk of catching Covid and other airborne illnesses (flu, RSV) at indoor events. Organisers and venues can clean indoor air without compromising the event experience through measures such as air purification and ventilation - why wouldn't you? 
+Breathe Easy Sheffield promotes simple, relatively low-cost safety measures that dramatically reduce the risk of catching Covid and other airborne illnesses (flu, RSV) at indoor events. Organisers and venues can clean indoor air without compromising the event experience through measures such as air purification and ventilation - so why wouldn't you, eh? 
 
 We promote clean air measures that increase access by people who are clinically vulnerable. But being able to gather without getting sick, temporarily or permanently, benefits everyone.
 
