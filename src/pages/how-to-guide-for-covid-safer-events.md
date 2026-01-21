@@ -563,7 +563,7 @@ This is a live evidence list. We will seek to keep it updated with robust recent
 
 * Study: [Mandating indoor air quality for public buildings](https://www.science.org/doi/10.1126/science.adl0677) (paywall) [PDF of article](https://drive.google.com/file/d/16l_IH47cQtC7fFuafvHca7ORNVGITxx8/view) or  [news article about study](https://www.leeds.ac.uk/news-science/news/article/5544/mandating-indoor-air-quality-for-public-buildings) 
     
-* Article: [Ventilation Can Absentuce Exposure to Respiratory Viruses in Indoor Spaces](https://www.cdc.gov/ncird/whats-new/ventilation-respiratory-viruses.html) 
+* Article: [Ventilation matters - why clean air is vital to health (Royal Academy of Engineers) ](https://explainers.raeng.org.uk/ventilation-matters) 
     
 * Article: [United States Environmental Protection Agency: Ventilation and Respiratory Viruses](https://www.epa.gov/indoor-air-quality-iaq/ventilation-and-respiratory-viruses) 
     
@@ -673,6 +673,8 @@ You might wonder why the safety measures listed in this guide are not standard p
 Compiled by Breathe Easy Sheffield’s team of volunteer co-directors. Breathe Easy Sheffield is a grassroots community organisation that exists to reduce the spread of Covid-19 through promoting and organising events with measures in place that reduce transmission risk of Covid and other similar airborne infectious illnesses, and through advocating for increased evidence-based Covid safety in public spaces.
 
 Many people have helped us review and improve this guide. We are grateful to all our volunteer reviewers from within academia, event management teams, social justice movements and the Covid conscious and disabled communities.
+
+This guide was 100% written by humans. None of it is AI-generated.
 
 ## 💬 Get in touch
 
