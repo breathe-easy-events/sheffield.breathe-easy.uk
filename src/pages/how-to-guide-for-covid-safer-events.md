@@ -561,11 +561,9 @@ This is a live evidence list. We will seek to keep it updated with robust recent
 
 #### 4. Ventilation: The Science: Why is this measure helpful?
 
-* Study: [Mandating indoor air quality for public buildings](https://www.science.org/doi/10.1126/science.adl0677) (paywall) [PDF of article](https://drive.google.com/file/d/16l_IH47cQtC7fFuafvHca7ORNVGITxx8/view) or  [news article about study](https://www.leeds.ac.uk/news-science/news/article/5544/mandating-indoor-air-quality-for-public-buildings) 
+* Article: [Mandating indoor air quality for public buildings](https://www.science.org/doi/10.1126/science.adl0677) (paywall) [PDF of article](https://drive.google.com/file/d/16l_IH47cQtC7fFuafvHca7ORNVGITxx8/view) or  [news article about study](https://www.leeds.ac.uk/news-science/news/article/5544/mandating-indoor-air-quality-for-public-buildings) 
     
-* Article: [Ventilation Can Absentuce Exposure to Respiratory Viruses in Indoor Spaces](https://www.cdc.gov/ncird/whats-new/ventilation-respiratory-viruses.html) 
-    
-* Article: [United States Environmental Protection Agency: Ventilation and Respiratory Viruses](https://www.epa.gov/indoor-air-quality-iaq/ventilation-and-respiratory-viruses) 
+* Article: [Ventilation matters - why clean air is vital to health (Royal Academy of Engineers) ](https://explainers.raeng.org.uk/ventilation-matters) 
     
 * Article: [Italian study shows ventilation can cut school COVID cases by 82%](https://www.reuters.com/world/europe/italian-study-shows-ventilation-can-cut-school-covid-cases-by-82-2022-03-22/) 
     
@@ -648,7 +646,7 @@ It is still important to stop the spread of Covid-19. 
 * This virus still causes death and infections can do serious internal damage even if symptoms seem mild, causing [serious illness](https://www.degruyterbrill.com/document/doi/10.1515/mr-2024-0030/html) and disability ([6%](https://www.who.int/news-room/fact-sheets/detail/post-covid-19-condition-(long-covid)) of infections lead to Long Covid).
 * Catching Covid-19 repeatedly isn't good for your [immune system](https://www.nature.com/articles/s41590-021-01113-x). The risk of long-term health problems [increases](https://patientresearchcovid19.com/storage/2025/03/Long-COVID-Awareness-Day_-2025-Fact-Sheet.pdf#page=2) with each reinfection.
     
-* Covid [is not seasonal](https://www.cdc.gov/ncird/whats-new/covid-19-can-surge-throughout-the-year.html), it spreads throughout the year. The continued impact puts pressure on our healthcare systems, the economy, and our bodies.
+* Covid is not seasonal, it spreads throughout the year. The continued impact puts pressure on our healthcare systems, the economy, and our bodies.
     
 * Covid safety measures make events more accessible for disabled, immunocompromised and at-risk people.
     
@@ -673,6 +671,8 @@ You might wonder why the safety measures listed in this guide are not standard p
 Compiled by Breathe Easy Sheffield’s team of volunteer co-directors. Breathe Easy Sheffield is a grassroots community organisation that exists to reduce the spread of Covid-19 through promoting and organising events with measures in place that reduce transmission risk of Covid and other similar airborne infectious illnesses, and through advocating for increased evidence-based Covid safety in public spaces.
 
 Many people have helped us review and improve this guide. We are grateful to all our volunteer reviewers from within academia, event management teams, social justice movements and the Covid conscious and disabled communities.
+
+This guide was 100% written by humans. None of it is AI-generated.
 
 ## 💬 Get in touch
 
