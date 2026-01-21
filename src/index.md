@@ -34,11 +34,11 @@ We deliver talks and workshops as well as 1:1 advice sessions to groups across S
 
 ## About us
 
-Breathe Easy Sheffield was founded by Chloe and Jade, two Sheffield locals.
+Breathe Easy Sheffield is run by volunteers. It was founded by Chloe and Jade, two Sheffield locals.
 
 We take precautions against Covid to protect ourselves and our loved ones. In 2024, with people encouraged to “get over Covid”, we found ourselves isolated. We couldn’t safely attend indoor public venues to socialise or organise, and we knew we weren’t alone.
 
-We created Breathe Easy Sheffield to reduce exclusion and improve access to indoor social and cultural events. We've since been joined by delightful fellow travellers, Breathe Easy London.
+We created Breathe Easy Sheffield to reduce exclusion and improve access to indoor social and cultural events. We've since been joined by delightful fellow travellers, [Breathe Easy London](https://london.breathe-easy.uk/).
 
 ![Two tables of masked people are being instructed in lino cutting techniques](/static/img/pxl_20250915_185613150.jpg "Masked Lino Cutting Workshop")
 
