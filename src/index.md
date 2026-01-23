@@ -20,7 +20,7 @@ We promote clean air measures that increase access by people who are clinically 
 
 Breathe Easy offers [Covid safety guidance](<>) to organisers looking to make their events more accessible and [lends free air purifiers](<>) and [](<>)clean air equipment.
 
-In its first year in 2025, the Breathe Easy Sheffield clean air guidance and lending service supported 50 events across Sheffield and brought cleaner indoor air to at least 2,400 people.
+In its first year in 2025, the Breathe Easy Sheffield clean air guidance and lending service supported 50 events across Sheffield and brought cleaner indoor air to over 2,000 people.
 
 ![An air purifier at the back of an event space. There are rows of chairs in front of the stage and the lighting makes everything look purple and blue](/static/img/pxl_20251114_195523126~2-2-.jpg "Air Purifier in Action")
 
