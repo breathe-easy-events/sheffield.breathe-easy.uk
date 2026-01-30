@@ -8,3 +8,12 @@
   max-height: 100vh;
   top: var(--space-m-l);
 }
+
+@media print {
+  .slider-inner {
+    max-height: 100%;
+  }
+  .slider-outer {
+    padding-bottom: var(--space-l);
+  }
+}
