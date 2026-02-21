@@ -1,5 +1,5 @@
 ---
-title: test the new blog
+title: test the new block
 menu: false
 layout: PageLayout.11ty.tsx
 ---
