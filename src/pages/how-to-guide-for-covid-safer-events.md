@@ -7,44 +7,39 @@ discription: A guide for anyone who organises events indoors and wants to keep
   attendees safe(r) from the life-altering impacts of Covid-19 and other
   airborne diseases.
 ---
+
 A guide for anyone who organises events indoors and wants to keep attendees safe(r) from the life-altering impacts of Covid-19 and other airborne diseases.
 
 ## 🔬 Choosing your safety measures
 
-Thank-you for thinking about ways to make people safer at your event. 
+Thank-you for thinking about ways to make people safer at your event.
 
 There are seven Covid safety measures in this guide. Many are cheap or free, although some require upfront investment and some take more time.
 
 The measures are in order of relative effectiveness, but all can be effective. No single measure is perfect, so a combination is ideal (the [‘Swiss Cheese’ Model](https://www.bbc.co.uk/news/resources/idt-40ac92b1-1750-4e86-9936-2cda6b0acb3f)).
 
-**But it’s better to use *any* safety measures than none at all.**
+**But it’s better to use _any_ safety measures than none at all.**
 
-We offer two options for implementing each safety measure: 
+We offer two options for implementing each safety measure:
 
-* robust (heart 💚): recommended safest action.
-* minimum (circle 🟠): less safe, but better than nothing.
+- robust (heart 💚): recommended safest action.
+- minimum (circle 🟠): less safe, but better than nothing.
 
-**Measures should apply to *everyone*: staff, volunteers, organisers, and attendees.**
+**Measures should apply to _everyone_: staff, volunteers, organisers, and attendees.**
 
 If you don’t have much time, check out: [🤯 Where to start if you’re overwhelmed](#where-to-start-if-youre-overwhelmed).
 
 ## 🔊 Talking about Covid
 
-::: fyi
+::: [fyi]
 
-🛎️ Communicate your Covid safety measures in advance to everyone who will be in your event space, so they know what to do and expect. 
-
-
-
-
-
-
+🛎️ Communicate your Covid safety measures in advance to everyone who will be in your event space, so they know what to do and expect.
 
 :::
 
 These days Covid is mostly talked about in the past tense. Covid-19 safety measures are no longer common, so you need to explain why you are putting them back in place to avoid confusion.
 
-You may be asking people to change their ‘normal’ behaviour. Others may assume that your safety information is a mistake, left over from the early days of the pandemic. 
+You may be asking people to change their ‘normal’ behaviour. Others may assume that your safety information is a mistake, left over from the early days of the pandemic.
 
 Being upfront and clear about what you are doing and why (i.e. to keep everyone safer, especially people who are at higher risk) is a vital part of making your Covid safety measures effective.
 
@@ -52,21 +47,15 @@ Ask people at your event how your Covid measures impacted them. Seek feedback in
 
 ## 💚 List of Covid safety measures
 
-::: fyi
+::: [fyi]
 
 🛎️ Don’t have much time? Check out [🤯 Where to start if you’re overwhelmed](#where-to-start-if-youre-overwhelmed)
-
-
-
-
-
-
 
 :::
 
 ### 1. Sickness policy 🦠
 
-An event sickness policy encourages people with symptoms of illness (e.g. coughing, sneezing, vomiting, fever) to stay away. This helps to remove the risk (infectious people) altogether. 
+An event sickness policy encourages people with symptoms of illness (e.g. coughing, sneezing, vomiting, fever) to stay away. This helps to remove the risk (infectious people) altogether.
 
 💚 Robust: People are asked not to come if they are unwell. Refunds are available on request. Visibly unwell attendees are asked to leave.
 
@@ -78,7 +67,7 @@ An event sickness policy encourages people with symptoms of illness (e.g. coughi
 
 🧪 **The Science:** [Sickness policy: why is this measure helpful?](#1-sickness-policy-2-remote-access-the-science-why-is-this-measure-helpful)
 
-- - -
+---
 
 ### 2. Remote access 🤖
 
@@ -94,11 +83,11 @@ Offering options for people to join your event remotely means that if someone is
 
 🧪 **The Science:** [Remote access: why is this measure helpful?](#1-sickness-policy-2-remote-access-the-science-why-is-this-measure-helpful)
 
-- - -
+---
 
 ### 3. Testing 🔎
 
-Testing requirements encourage people who are testing positive with Covid-19 to stay away. This helps to remove the risk (infectious people) altogether. Rapid Antigen Tests (also known as Lateral Flow Tests or LFTs) for Covid-19 are not perfect but rarely return false positives; if someone tests positive, they almost certainly have Covid-19. 
+Testing requirements encourage people who are testing positive with Covid-19 to stay away. This helps to remove the risk (infectious people) altogether. Rapid Antigen Tests (also known as Lateral Flow Tests or LFTs) for Covid-19 are not perfect but rarely return false positives; if someone tests positive, they almost certainly have Covid-19.
 
 💚 Robust: People coming to the event are required to test for Covid on the day. Test status is asked about on entry and tests are available if people forget or can’t afford them.
 
@@ -110,7 +99,7 @@ Testing requirements encourage people who are testing positive with Covid-19 to 
 
 🧪 **The Science:** [Testing: why is this measure helpful?](#3-testing-the-science-why-is-this-measure-helpful)
 
-- - -
+---
 
 ### 4. Ventilation 🍃
 
@@ -126,11 +115,11 @@ Ventilation means providing fresh air and removing polluted, stale air. It helps
 
 🧪 **The Science:** [Ventilation: why is this measure helpful?](#4-ventilation-the-science-why-is-this-measure-helpful)
 
-- - -
+---
 
 ### 5. Air purification 🌬️
 
-Air purification uses air filters to remove particles such as allergens, exhaust fumes and viruses from the air. While purification doesn’t stop all infections, particularly those passed on at close-range, studies show it reduces risk of infection from airborne diseases such as Covid-19. HEPA-grade purifiers filter 99% of infectious particles. 
+Air purification uses air filters to remove particles such as allergens, exhaust fumes and viruses from the air. While purification doesn’t stop all infections, particularly those passed on at close-range, studies show it reduces risk of infection from airborne diseases such as Covid-19. HEPA-grade purifiers filter 99% of infectious particles.
 
 💚 Robust: Air purifier(s) are on during the event and are sufficient for the event size.
 
@@ -142,7 +131,7 @@ Air purification uses air filters to remove particles such as allergens, exhaust
 
 🧪 **The Science:** [Air purification: why is this measure helpful?](#5-air-purification-the-science-why-is-this-measure-helpful)
 
-- - -
+---
 
 ### 6. CO2 monitoring 📈
 
@@ -158,7 +147,7 @@ CO2 monitors tell you how ventilated your event space is. Humans breathe out car
 
 🧪 **The Science:** [CO2 monitoring: why is this measure helpful?](#6-co2-monitoring-the-science-why-is-this-measure-helpful)
 
-- - -
+---
 
 ### 7. Wearing masks 😷
 
@@ -176,51 +165,42 @@ Masks have sadly become stigmatised and politicised, which can make people who w
 
 🧪 **The Science:** [Wearing masks: why is this measure helpful?](#7-wearing-masks-the-science-why-is-this-measure-helpful)
 
-- - -
+---
 
 ### Note on hand washing, sanitiser and cleaning 🧼 
 
-This is not one of the more effective ways to reduce Covid risk. Hand washing with soap and water is an essential part of general infection prevention and control. However, on its own, it is not effective at preventing airborne illnesses like Covid-19 because the virus is primarily spread through the air when people breathe out. 
+This is not one of the more effective ways to reduce Covid risk. Hand washing with soap and water is an essential part of general infection prevention and control. However, on its own, it is not effective at preventing airborne illnesses like Covid-19 because the virus is primarily spread through the air when people breathe out.
 
 🧪 [The Science about Covid and hand-washing](#the-science-about-covid-and-hand-washing)
 
 ### Note on vaccines 💉
 
-Vaccination against Covid-19 is a very important public health measure that we support. You can get vaccines at [Boots](https://www.boots.com/online/pharmacy-services/covid-19-vaccination-service) and [other pharmacies](https://pharmadoctor.co.uk/patient/service/covid-vaccination) if you are not eligible for [NHS vaccines](https://www.nhs.uk/vaccinations/covid-19-vaccine/). 
+Vaccination against Covid-19 is a very important public health measure that we support. You can get vaccines at [Boots](https://www.boots.com/online/pharmacy-services/covid-19-vaccination-service) and [other pharmacies](https://pharmadoctor.co.uk/patient/service/covid-vaccination) if you are not eligible for [NHS vaccines](https://www.nhs.uk/vaccinations/covid-19-vaccine/).
 
 We don’t include vaccination on our list of suggested safety measures because vaccination status is no longer easily provable when admitting people to events and [you can spread Covid-19 even if vaccinated](https://pubmed.ncbi.nlm.nih.gov/35172051/).
 
-- - -
+---
 
 ## 🤯 Where to start if you’re overwhelmed
 
-::: fyi
+::: [fyi]
 
-🛎️ Remember: it’s better to use *any* safety measures than none at all.
-
-
-
-
-
-
+🛎️ Remember: it’s better to use _any_ safety measures than none at all.
 
 :::
 
 If you are short on time or/and cash, focus on the Covid safety measures below.
 
-* [Talking about Covid 🔊](#talking-about-covid) 
-    
-* [1. Sickness policy 🦠](#1-sickness-policy)
-    
-* [4. Ventilation 🍃](#4-ventilation)
-    
-* [5. Air purification 🌬️](#5-air-purification) (Sheffield folks can [borrow purifiers for free!)](https://docs.google.com/forms/d/e/1FAIpQLSeanXmk0ittjkGM1WVJdtYa9gSr1cHUm6vWEA86ryCCAqgXGw/viewform)
+- [Talking about Covid 🔊](#talking-about-covid)
+- [1. Sickness policy 🦠](#1-sickness-policy)
+- [4. Ventilation 🍃](#4-ventilation)
+- [5. Air purification 🌬️](#5-air-purification) (Sheffield folks can [borrow purifiers for free!)](https://docs.google.com/forms/d/e/1FAIpQLSeanXmk0ittjkGM1WVJdtYa9gSr1cHUm6vWEA86ryCCAqgXGw/viewform)
 
-These are the easiest first steps. Just like with all safer spaces and accessibility measures, it will take trial and error before you find what works best for you. 
+These are the easiest first steps. Just like with all safer spaces and accessibility measures, it will take trial and error before you find what works best for you.
 
 Take additional measures when you can, ask us for advice, and don’t give up!
 
-- - -
+---
 
 ## 👣 Step-by-step guides
 
@@ -246,7 +226,7 @@ Ideally, provide the option of attendees requesting refunds if they are unwell a
 
 #### Consider chronic conditions. 
 
-Invite attendees who have a chronic condition (e.g COPD, hayfever) that may cause illness-like symptoms to contact you in advance, so that they feel welcome to come to the event and to reassure other attendees if anyone is coughing or sneezing at your event. 
+Invite attendees who have a chronic condition (e.g COPD, hayfever) that may cause illness-like symptoms to contact you in advance, so that they feel welcome to come to the event and to reassure other attendees if anyone is coughing or sneezing at your event.
 
 #### Example text for attendees.
 
@@ -258,7 +238,7 @@ Ask attendees not to come if they have recently had close contact with someone w
 
 #### Remember!
 
-People may be asymptomatic and not realise they are unwell or infectious, so taking additional measures is advisable. 
+People may be asymptomatic and not realise they are unwell or infectious, so taking additional measures is advisable.
 
 [Back to sickness policy](#1-sickness-policy)
 
@@ -272,11 +252,11 @@ Tell people in advance that there will be an online or remote joining option for
 
 #### Consider options. 
 
-Remote joining options could include a social media livestream (e.g YouTube, Instagram, TikTok, Twitch) or use online meeting software (e.g. Zoom, Google Meet). 
+Remote joining options could include a social media livestream (e.g YouTube, Instagram, TikTok, Twitch) or use online meeting software (e.g. Zoom, Google Meet).
 
 #### Plan your set-up. 
 
-Think about how you will make remote access meaningful and do some advance planning. Choose where to set up your camera and microphone (which could be a smartphone or laptop + webcam) and what you will put it on so that people joining remotely can get a good view and hear what’s going on. 
+Think about how you will make remote access meaningful and do some advance planning. Choose where to set up your camera and microphone (which could be a smartphone or laptop + webcam) and what you will put it on so that people joining remotely can get a good view and hear what’s going on.
 
 #### Prepare your team. 
 
@@ -302,7 +282,7 @@ Tell people clearly about your event’s Covid testing policies beforehand: in t
 
 #### Explain. 
 
-Include information on where people can get a test and tell people to contact you if accessing a test is going to be difficult for them. Tell people to follow the instructions on the test kit or [share this guidance on how best to take a Covid test sample](https://www.youtube.com/watch?v=S9XR8RZxKNo). 
+Include information on where people can get a test and tell people to contact you if accessing a test is going to be difficult for them. Tell people to follow the instructions on the test kit or [share this guidance on how best to take a Covid test sample](https://www.youtube.com/watch?v=S9XR8RZxKNo).
 
 #### Ask on arrival. 
 
@@ -318,11 +298,11 @@ Rapid lateral flow tests are available at Superdrug, Boots and other high-street
 
 #### Note on test accuracy: 
 
-Lateral Flow Tests are not 100% reliable in catching every case. Although they rarely read false positives, they may return false negatives. This means that some people with Covid may get a negative test result and taking other safety measures is still important. 
+Lateral Flow Tests are not 100% reliable in catching every case. Although they rarely read false positives, they may return false negatives. This means that some people with Covid may get a negative test result and taking other safety measures is still important.
 
 #### Consider advanced testing options: 
 
-More sensitive home testing machines, such as the [Pluslife minidock](https://thefacemaskstore.co.uk/product/pluslife-mini-dock-poc-nat-tester/), provide much more [reliable](https://www.nature.com/articles/s41598-024-64406-9) test results. However, they are currently only able to test a small number of people at once, and take longer and at much higher cost compared to rapid tests. They may be suitable at events with a small number of attendees or for testing any attendees at an otherwise mask-required event who need to be unmasked. 
+More sensitive home testing machines, such as the [Pluslife minidock](https://thefacemaskstore.co.uk/product/pluslife-mini-dock-poc-nat-tester/), provide much more [reliable](https://www.nature.com/articles/s41598-024-64406-9) test results. However, they are currently only able to test a small number of people at once, and take longer and at much higher cost compared to rapid tests. They may be suitable at events with a small number of attendees or for testing any attendees at an otherwise mask-required event who need to be unmasked.
 
 [Back to testing](#3-testing)
 
@@ -336,7 +316,7 @@ Let your attendees know in advance that you will be keeping the space well venti
 
 #### Open the windows. 
 
-Opening windows and/or doors to the outside is the simplest way to improve ventilation in an indoor space. Opening more than one window or door will help to create air flow and improve ventilation effects. 
+Opening windows and/or doors to the outside is the simplest way to improve ventilation in an indoor space. Opening more than one window or door will help to create air flow and improve ventilation effects.
 
 #### Open windows as much as possible. 
 
@@ -370,15 +350,9 @@ Any good quality purifier is better than nothing! However, the size of your even
 
 #### Where to buy? 
 
-::: fyi
+::: [fyi]
 
- 🛎️ Borrow Breathe Easy purifiers for free - [fill out our purifier request form](https://forms.gle/tVTKe8x7DoKGNcXVA).
-
-
-
-
-
-
+🛎️ Borrow Breathe Easy purifiers for free - [fill out our purifier request form](https://forms.gle/tVTKe8x7DoKGNcXVA).
 
 :::
 
@@ -388,11 +362,11 @@ You can buy a Smart Air purifier and raise money for Breathe Easy at the same ti
 
 #### Test. 
 
-Before the event, switch your purifier on to check it works and how loud it is. Think about where you will place the purifier(s) in your event space. The ideal placement is as centrally as possible where people are gathering that isn’t in the way, Make sure it’s not pushed up against furniture or walls that can obstruct airflow, and is away from fresh air sources (eg open windows/doors). 
+Before the event, switch your purifier on to check it works and how loud it is. Think about where you will place the purifier(s) in your event space. The ideal placement is as centrally as possible where people are gathering that isn’t in the way, Make sure it’s not pushed up against furniture or walls that can obstruct airflow, and is away from fresh air sources (eg open windows/doors).
 
 #### Warning: 
 
-Purifiers with additional technologies such as ionization or plasma wave are [largely unnecessary](https://medium.com/its-airborne/how-to-pick-an-air-cleaner-31c238bcd91f) and could potentially create harmful byproducts in the air. 
+Purifiers with additional technologies such as ionization or plasma wave are [largely unnecessary](https://medium.com/its-airborne/how-to-pick-an-air-cleaner-31c238bcd91f) and could potentially create harmful byproducts in the air.
 
 [Back to air purification](#5-air-purification)
 
@@ -406,7 +380,7 @@ Let your attendees know in advance that you will be taking measures to keep the 
 
 #### Check your ventilation. 
 
-Use a CO2 monitor to measure how well your event space is ventilated during the event. Keep it in a central location in your event space. 
+Use a CO2 monitor to measure how well your event space is ventilated during the event. Keep it in a central location in your event space.
 
 #### Make a plan to respond. 
 
@@ -414,15 +388,9 @@ Make a simple plan for your CO2 monitoring. To maintain safer levels of ventilat
 
 #### Where to buy? 
 
-::: fyi
+::: [fyi]
 
- 🛎️ You can borrow a Breathe Easy CO2 monitor for free - [request a CO2 monitor now](https://forms.gle/tVTKe8x7DoKGNcXVA).
-
-
-
-
-
-
+🛎️ You can borrow a Breathe Easy CO2 monitor for free - [request a CO2 monitor now](https://forms.gle/tVTKe8x7DoKGNcXVA).
 
 :::
 
@@ -448,7 +416,7 @@ You may want people to wear masks for the whole of your event. Alternatively, yo
 
 #### Consider mask choices. 
 
-Wearing any mask is a better risk reduction measure than wearing no mask. 
+Wearing any mask is a better risk reduction measure than wearing no mask.
 
 However, FFP2 or FFP3 masks (called N95/N99 in the USA) which fit your face well offer the best protection. These good quality masks are made of high level filtration material that catch airborne particles in their mesh and also attract them with an [electrostatic charge](https://youtu.be/ahX27q83Nek?feature=shared&t=36). These masks are still effective when reworn, up to a maximum number of hours (varies per mask). Avoid masks with exhalation valves, which don’t filter exhaled air.
 
@@ -458,27 +426,21 @@ The Facemask Store offers [further guidance on masks](https://thefacemaskstore.c
 
 #### Note on surgical (blue) masks. 
 
-Surgical and cloth masks offer limited filtration as they only block the largest particles or droplets and don’t fit as snugly on the face. They are less effective at preventing airborne illnesses like Covid-19 which are spread via much smaller aerosols and which float on the air like smoke. 
+Surgical and cloth masks offer limited filtration as they only block the largest particles or droplets and don’t fit as snugly on the face. They are less effective at preventing airborne illnesses like Covid-19 which are spread via much smaller aerosols and which float on the air like smoke.
 
 #### Reinforce good practice.
 
-Most people don’t wear masks regularly any more and there is a lot of misinformation about them, so people may benefit from a kind and gentle reminder on arrival to keep their masks on and to ensure it covers their nose and mouth well. If possible, offer better quality masks or better-fitting masks to those who arrive only with cloth or surgical masks, or with masks that clearly don’t fit properly.  
+Most people don’t wear masks regularly any more and there is a lot of misinformation about them, so people may benefit from a kind and gentle reminder on arrival to keep their masks on and to ensure it covers their nose and mouth well. If possible, offer better quality masks or better-fitting masks to those who arrive only with cloth or surgical masks, or with masks that clearly don’t fit properly.
 
 #### Consider access issues. 
 
-Some people at your event may be Deaf or hard of hearing and may use lip reading. Options for reasonable accommodation include using a single in-person sign language interpreter (tested + unmasked), or a remote interpreter joining via video link. In smaller events, you may be able to purchase and provide masks with windows that allow the mouth to be visible. Some people may have sensory issues as part of a medical condition that prevent them from being able to wear a mask. You could create explicit exemptions on request for these individuals. 
+Some people at your event may be Deaf or hard of hearing and may use lip reading. Options for reasonable accommodation include using a single in-person sign language interpreter (tested + unmasked), or a remote interpreter joining via video link. In smaller events, you may be able to purchase and provide masks with windows that allow the mouth to be visible. Some people may have sensory issues as part of a medical condition that prevent them from being able to wear a mask. You could create explicit exemptions on request for these individuals.
 
 #### Where to buy? 
 
-::: fyi
+::: [fyi]
 
- 🛎️ Can’t afford masks? Order some for free from [Sheffield Mask Bloc](https://linksta.cc/@sheffieldmaskbloc?ref=mediaactivist.com)
-
-
-
-
-
-
+🛎️ Can’t afford masks? Order some for free from [Sheffield Mask Bloc](https://linksta.cc/@sheffieldmaskbloc?ref=mediaactivist.com)
 
 :::
 
@@ -488,126 +450,87 @@ FFP2/FFP3 masks with either ear loops or head straps are available online. Masks
 
 If you want **everyone to wear masks** at your event:
 
-* state that masks are **required**, not just “encouraged” or “welcome”
-    
-* include mask requirements in your event information
-    
-* tell attendees if they will be able to remove their masks to eat or drink
-    
-* tell attendees if any areas in your event space do not require masks (eg outdoor areas) 
-    
-* tell attendees that masks will be available at the event
-    
-* ask attendees to inform you if they have any access issue with masks
-    
-* if you have a mask exemption for attendees with access needs, say this 
-    
-* on arrival, remind attendees of the mask requirements
-    
-* offer good quality masks (respirators) to those who arrive with cloth or surgical masks
-    
-* make masks available for anyone who has forgotten
-    
-* make a plan about what you will do if people don’t wear their masks
+- state that masks are **required**, not just “encouraged” or “welcome”
+- include mask requirements in your event information
+- tell attendees if they will be able to remove their masks to eat or drink
+- tell attendees if any areas in your event space do not require masks (eg outdoor areas)
+- tell attendees that masks will be available at the event
+- ask attendees to inform you if they have any access issue with masks
+- if you have a mask exemption for attendees with access needs, say this
+- on arrival, remind attendees of the mask requirements
+- offer good quality masks (respirators) to those who arrive with cloth or surgical masks
+- make masks available for anyone who has forgotten
+- make a plan about what you will do if people don’t wear their masks
 
 If you want **people to feel safer wearing a mask** at your event:
 
-* include Covid-19 measures prominently in your event information
-    
-* state that masks to prevent infection are “encouraged” or “welcome”
-    
-* make masks available for anyone who has forgotten
-    
+- include Covid-19 measures prominently in your event information
+- state that masks to prevent infection are “encouraged” or “welcome”
+- make masks available for anyone who has forgotten
 
 [Back to masking](#7-wearing-masks)
 
-- - -
+---
 
 ## 🕵🏾 Evidence
 
-This is a non-exhaustive list of scientific evidence for each of the Covid-19 safety measures that Breathe Easy recommends for events. 
+This is a non-exhaustive list of scientific evidence for each of the Covid-19 safety measures that Breathe Easy recommends for events.
 
 This is a live evidence list. We will seek to keep it updated with robust recent evidence.
 
 #### 1. Sickness policy  + 2. Remote Access: The Science: Why is this measure helpful?
 
-* Article: [Clinical presentation of Covid-19](https://www.cdc.gov/covid/hcp/clinical-care/covid19-presentation.html) 
-    
-* Article: [Symptoms of Covid-19](https://www.cdc.gov/covid/signs-symptoms/index.html)
-    
-* Review: [Comprehensive Insights Into the Multi-faceted Manifestations of COVID-19: A Narrative Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11287236/) 
-    
-* Review: [Asymptomatic SARS-CoV-2 Infection by Age: A Global Systematic Review and Meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC9935239/)
-    
-* Study: [When and Why People Conceal Infectious Disease](https://journals.sagepub.com/doi/abs/10.1177/09567976231221990) 
-    
+- Article: [Clinical presentation of Covid-19](https://www.cdc.gov/covid/hcp/clinical-care/covid19-presentation.html)
+- Article: [Symptoms of Covid-19](https://www.cdc.gov/covid/signs-symptoms/index.html)
+- Review: [Comprehensive Insights Into the Multi-faceted Manifestations of COVID-19: A Narrative Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11287236/)
+- Review: [Asymptomatic SARS-CoV-2 Infection by Age: A Global Systematic Review and Meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC9935239/)
+- Study: [When and Why People Conceal Infectious Disease](https://journals.sagepub.com/doi/abs/10.1177/09567976231221990)
 
 [Back to sickness policy](#1-sickness-policy)
 
 #### 3. Testing: The Science: Why is this measure helpful?
 
-* Study: [Performance of Rapid Antigen Tests to Detect Symptomatic and Asymptomatic SARS-CoV-2 Infection](https://www.medrxiv.org/content/10.1101/2022.08.05.22278466v2.full-text)
-    
-* Study: [A comparison of SARS-CoV-2 rapid antigen testing with realtime RT-PCR among symptomatic and asymptomatic individuals](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-022-07969-0) 
-    
-* Study:  [Head-to-head comparison of four antigen-based rapid detection tests for the diagnosis of SARS-CoV-2 in respiratory samples](https://www.biorxiv.org/content/10.1101/2020.05.27.119255v1.full) 
-    
-* Study: [SARS-CoV-2 antigen lateral flow tests for detecting infectious people: linked data analysis.](https://europepmc.org/article/MED/35197270) 
-    
-* Study: [Comparison of the diagnostic accuracy of the Pluslife Mini Dock RHAM technology with Abbott ID Now and Cepheid GenXpert: A retrospective evaluation study](https://www.nature.com/articles/s41598-024-64406-9)
-    
+- Study: [Performance of Rapid Antigen Tests to Detect Symptomatic and Asymptomatic SARS-CoV-2 Infection](https://www.medrxiv.org/content/10.1101/2022.08.05.22278466v2.full-text)
+- Study: [A comparison of SARS-CoV-2 rapid antigen testing with realtime RT-PCR among symptomatic and asymptomatic individuals](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-022-07969-0)
+- Study:  [Head-to-head comparison of four antigen-based rapid detection tests for the diagnosis of SARS-CoV-2 in respiratory samples](https://www.biorxiv.org/content/10.1101/2020.05.27.119255v1.full)
+- Study: [SARS-CoV-2 antigen lateral flow tests for detecting infectious people: linked data analysis.](https://europepmc.org/article/MED/35197270)
+- Study: [Comparison of the diagnostic accuracy of the Pluslife Mini Dock RHAM technology with Abbott ID Now and Cepheid GenXpert: A retrospective evaluation study](https://www.nature.com/articles/s41598-024-64406-9)
 
 [Back to testing](#3-testing)
 
 #### 4. Ventilation: The Science: Why is this measure helpful?
 
-* Article: [Mandating indoor air quality for public buildings](https://www.science.org/doi/10.1126/science.adl0677) (paywall) [PDF of article](https://drive.google.com/file/d/16l_IH47cQtC7fFuafvHca7ORNVGITxx8/view) or  [news article about study](https://www.leeds.ac.uk/news-science/news/article/5544/mandating-indoor-air-quality-for-public-buildings) 
-    
-* Article: [Ventilation matters - why clean air is vital to health (Royal Academy of Engineers) ](https://explainers.raeng.org.uk/ventilation-matters) 
-    
-* Article: [Italian study shows ventilation can cut school COVID cases by 82%](https://www.reuters.com/world/europe/italian-study-shows-ventilation-can-cut-school-covid-cases-by-82-2022-03-22/) 
-    
-* Guide: [Improving Ventilation in Business Venues](https://iv4bv.sites.sheffield.ac.uk/home) 
-    
+- Article: [Mandating indoor air quality for public buildings](https://www.science.org/doi/10.1126/science.adl0677) (paywall) [PDF of article](https://drive.google.com/file/d/16l_IH47cQtC7fFuafvHca7ORNVGITxx8/view) or  [news article about study](https://www.leeds.ac.uk/news-science/news/article/5544/mandating-indoor-air-quality-for-public-buildings)
+- Article: [Ventilation matters - why clean air is vital to health (Royal Academy of Engineers) ](https://explainers.raeng.org.uk/ventilation-matters)
+- Article: [Italian study shows ventilation can cut school COVID cases by 82%](https://www.reuters.com/world/europe/italian-study-shows-ventilation-can-cut-school-covid-cases-by-82-2022-03-22/)
+- Guide: [Improving Ventilation in Business Venues](https://iv4bv.sites.sheffield.ac.uk/home)
 
 [Back to ventilation](#4-ventilation)
 
 #### 5. Air purification: The Science: Why is this measure helpful?
 
-* Study: [SARS-CoV-2 aerosol transmission in schools: the effectiveness of different interventions](https://t.co/GGHrbVUc6j) 
-    
-* Study: [Effectiveness of commercial portable air cleaners and a do-it-yourself minimum efficiency reporting value (MERV)-13 filter box fan air cleaner in reducing aerosolized bacteriophage MS2](https://www.cambridge.org/core/journals/infection-control-and-hospital-epidemiology/article/effectiveness-of-commercial-portable-air-cleaners-and-a-doityourself-minimum-efficiency-reporting-value-merv13-filter-box-fan-air-cleaner-in-reducing-aerosolized-bacteriophage-ms2/A9F120459EFED7572840C8700C3B7DCB)
-    
-* Study: [Effectiveness of HEPA Filters at Removing Infectious SARS-CoV-2 from the Air](https://journals.asm.org/doi/10.1128/msphere.00086-22)
-    
-* Report: [Efficacy of Portable Air Cleaners and Masking for Absentucing Indoor Exposure to Simulated Exhaled SARS-CoV-2 Aerosols](https://www.cdc.gov/mmwr/volumes/70/wr/mm7027e1.htm) 
-    
+- Study: [SARS-CoV-2 aerosol transmission in schools: the effectiveness of different interventions](https://t.co/GGHrbVUc6j)
+- Study: [Effectiveness of commercial portable air cleaners and a do-it-yourself minimum efficiency reporting value (MERV)-13 filter box fan air cleaner in reducing aerosolized bacteriophage MS2](https://www.cambridge.org/core/journals/infection-control-and-hospital-epidemiology/article/effectiveness-of-commercial-portable-air-cleaners-and-a-doityourself-minimum-efficiency-reporting-value-merv13-filter-box-fan-air-cleaner-in-reducing-aerosolized-bacteriophage-ms2/A9F120459EFED7572840C8700C3B7DCB)
+- Study: [Effectiveness of HEPA Filters at Removing Infectious SARS-CoV-2 from the Air](https://journals.asm.org/doi/10.1128/msphere.00086-22)
+- Report: [Efficacy of Portable Air Cleaners and Masking for Absentucing Indoor Exposure to Simulated Exhaled SARS-CoV-2 Aerosols](https://www.cdc.gov/mmwr/volumes/70/wr/mm7027e1.htm)
 
 [Back to air purification](#5-air-purification)
 
 #### 6. CO2 monitoring: The Science: Why is this measure helpful?
 
-* Expert consensus: [Mandating indoor air quality for public buildings](https://www.science.org/doi/10.1126/science.adl0677) (paywall) [PDF of article](https://drive.google.com/file/d/16l_IH47cQtC7fFuafvHca7ORNVGITxx8/view) or [news article](https://www.leeds.ac.uk/news-science/news/article/5544/mandating-indoor-air-quality-for-public-buildings) 
-    
-* Study: [Ambient carbon dioxide concentration correlates with SARS-CoV-2 aerostability and infection risk](https://www.nature.com/articles/s41467-024-47777-5) or [article on the study](https://www.bristol.ac.uk/news/2024/april/carbon-dioxide-aerosol-study.html)
-    
-* Study: [A post-occupancy study of ventilation effectiveness from high-resolution CO2 monitoring at live theatre events to mitigate airborne transmission of SARS-CoV-2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9339161/#sec5) 
-    
-* Guide: [Unite Covid-19 Guide on Ventilation and CO2 monitoring](https://www.unitetheunion.org/media/4065/2021-09-08-covid19guideventilationetco2monitoring2.pdf) 
-    
+- Expert consensus: [Mandating indoor air quality for public buildings](https://www.science.org/doi/10.1126/science.adl0677) (paywall) [PDF of article](https://drive.google.com/file/d/16l_IH47cQtC7fFuafvHca7ORNVGITxx8/view) or [news article](https://www.leeds.ac.uk/news-science/news/article/5544/mandating-indoor-air-quality-for-public-buildings)
+- Study: [Ambient carbon dioxide concentration correlates with SARS-CoV-2 aerostability and infection risk](https://www.nature.com/articles/s41467-024-47777-5) or [article on the study](https://www.bristol.ac.uk/news/2024/april/carbon-dioxide-aerosol-study.html)
+- Study: [A post-occupancy study of ventilation effectiveness from high-resolution CO2 monitoring at live theatre events to mitigate airborne transmission of SARS-CoV-2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9339161/#sec5)
+- Guide: [Unite Covid-19 Guide on Ventilation and CO2 monitoring](https://www.unitetheunion.org/media/4065/2021-09-08-covid19guideventilationetco2monitoring2.pdf)
 
 [Back to CO2 monitoring](#6-co2-monitoring)
 
 #### 7. Wearing masks: The Science: Why is this measure helpful?
 
-* Study: [Masks and respirators for prevention of respiratory infections: a state of the science review](https://journals.asm.org/doi/10.1128/cmr.00124-23) or [article on the study](https://www.phc.ox.ac.uk/news/comprehensive-review-confirms-masks-reduce-covid-19-transmission)
-    
-* Study: [An upper bound on one-to-one exposure to infectious human respiratory particles](https://www.pnas.org/doi/full/10.1073/pnas.2110117118) 
-    
-* Study: [Efficacy of FFP3 respirators for prevention of SARS-CoV-2 infection in healthcare workers](https://pmc.ncbi.nlm.nih.gov/articles/PMC8635983/) 
-    
-* Article: [Upgrading PPE for staff working on COVID-19 wards cut hospital-acquired infections dramatically](https://www.cam.ac.uk/research/news/upgrading-ppe-for-staff-working-on-covid-19-wards-cut-hospital-acquired-infections-dramatically) 
-    
+- Study: [Masks and respirators for prevention of respiratory infections: a state of the science review](https://journals.asm.org/doi/10.1128/cmr.00124-23) or [article on the study](https://www.phc.ox.ac.uk/news/comprehensive-review-confirms-masks-reduce-covid-19-transmission)
+- Study: [An upper bound on one-to-one exposure to infectious human respiratory particles](https://www.pnas.org/doi/full/10.1073/pnas.2110117118)
+- Study: [Efficacy of FFP3 respirators for prevention of SARS-CoV-2 infection in healthcare workers](https://pmc.ncbi.nlm.nih.gov/articles/PMC8635983/)
+- Article: [Upgrading PPE for staff working on COVID-19 wards cut hospital-acquired infections dramatically](https://www.cam.ac.uk/research/news/upgrading-ppe-for-staff-working-on-covid-19-wards-cut-hospital-acquired-infections-dramatically)
 
 [Back to masking](#7-wearing-masks)
 
@@ -615,17 +538,15 @@ This is a live evidence list. We will seek to keep it updated with robust recent
 
 [Airborne transmission](https://www.gov.uk/government/publications/covid-19-and-occupational-impacts/covid-19-and-occupational-impacts#transmission-of-and-exposure-to-sars-cov-2) means airborne prevention measures like air purification, ventilation and masks are needed to prevent people breathing in the virus.
 
-Hand sanitisers do not kill all viruses. For example, alcohol-based sanitizers are [not effective](https://www.northerncarealliance.nhs.uk/patient-information/patient-leaflets/infection-prevention-control-norovirus-your-questions-answered) against Norovirus (thorough hand washing with soap and water is required). 
+Hand sanitisers do not kill all viruses. For example, alcohol-based sanitizers are [not effective](https://www.northerncarealliance.nhs.uk/patient-information/patient-leaflets/infection-prevention-control-norovirus-your-questions-answered) against Norovirus (thorough hand washing with soap and water is required).
 
-Like hand washing, [cleaning surfaces](https://whn.global/guidelines/cleaning-and-disinfecting/) can be helpful to prevent disease transmission in general but, for illnesses that are spread through the air, like Covid-19, measures like those listed above are more effective. 
+Like hand washing, [cleaning surfaces](https://whn.global/guidelines/cleaning-and-disinfecting/) can be helpful to prevent disease transmission in general but, for illnesses that are spread through the air, like Covid-19, measures like those listed above are more effective.
 
-* Report: [COVID-19 and Occupational Impacts: Transmission of and Exposure to SARS-CoV-2](https://www.gov.uk/government/publications/covid-19-and-occupational-impacts/covid-19-and-occupational-impacts#transmission-of-and-exposure-to-sars-cov-2) 
-    
-* Article: [The Great Pandemic Hand-Washing Blooper](https://www.theatlantic.com/health/archive/2022/10/covid-pandemic-airborne-virus-transmission-hand-washing/671831/) 
-    
-* Study: [An exploration of the political, social, economic and cultural factors affecting how different global regions initially reacted to the COVID-19 pandemic](https://royalsocietypublishing.org/doi/10.1098/rsfs.2021.0079#:~:text=The%20lack%20of,%E2%80%93228%5D.)
+- Report: [COVID-19 and Occupational Impacts: Transmission of and Exposure to SARS-CoV-2](https://www.gov.uk/government/publications/covid-19-and-occupational-impacts/covid-19-and-occupational-impacts#transmission-of-and-exposure-to-sars-cov-2)
+- Article: [The Great Pandemic Hand-Washing Blooper](https://www.theatlantic.com/health/archive/2022/10/covid-pandemic-airborne-virus-transmission-hand-washing/671831/)
+- Study: [An exploration of the political, social, economic and cultural factors affecting how different global regions initially reacted to the COVID-19 pandemic](https://royalsocietypublishing.org/doi/10.1098/rsfs.2021.0079#:~:text=The%20lack%20of,%E2%80%93228%5D.)
 
-- - -
+---
 
 ## ⭐ Case studies and examples
 
@@ -635,22 +556,19 @@ Site Gallery, Sheffield - [masked visiting hour](https://www.sitegallery.org/pla
 
 Vagina Museum, London - [access mornings](https://www.vaginamuseum.co.uk/accessmornings)
 
-- - -
+---
 
 ## 💭 FAQs
 
 ### Why bother to take Covid-19 safety measures?
 
-It is still important to stop the spread of Covid-19. 
+It is still important to stop the spread of Covid-19.
 
-* This virus still causes death and infections can do serious internal damage even if symptoms seem mild, causing [serious illness](https://www.degruyterbrill.com/document/doi/10.1515/mr-2024-0030/html) and disability ([6%](https://www.who.int/news-room/fact-sheets/detail/post-covid-19-condition-(long-covid)) of infections lead to Long Covid).
-* Catching Covid-19 repeatedly isn't good for your [immune system](https://www.nature.com/articles/s41590-021-01113-x). The risk of long-term health problems [increases](https://patientresearchcovid19.com/storage/2025/03/Long-COVID-Awareness-Day_-2025-Fact-Sheet.pdf#page=2) with each reinfection.
-    
-* Covid is not seasonal, it spreads throughout the year. The continued impact puts pressure on our healthcare systems, the economy, and our bodies.
-    
-* Covid safety measures make events more accessible for disabled, immunocompromised and at-risk people.
-    
-* Most Covid safety measures reduce the spread of all airborne illnesses such as flu and RSV.
+- This virus still causes death and infections can do serious internal damage even if symptoms seem mild, causing [serious illness](https://www.degruyterbrill.com/document/doi/10.1515/mr-2024-0030/html) and disability ([6%](<https://www.who.int/news-room/fact-sheets/detail/post-covid-19-condition-(long-covid)>) of infections lead to Long Covid).
+- Catching Covid-19 repeatedly isn't good for your [immune system](https://www.nature.com/articles/s41590-021-01113-x). The risk of long-term health problems [increases](https://patientresearchcovid19.com/storage/2025/03/Long-COVID-Awareness-Day_-2025-Fact-Sheet.pdf#page=2) with each reinfection.
+- Covid is not seasonal, it spreads throughout the year. The continued impact puts pressure on our healthcare systems, the economy, and our bodies.
+- Covid safety measures make events more accessible for disabled, immunocompromised and at-risk people.
+- Most Covid safety measures reduce the spread of all airborne illnesses such as flu and RSV.
 
 ### How do you know the safety measures work?
 
@@ -660,11 +578,11 @@ We organised our measures in line with the ‘Hierarchy of Controls’ occupatio
 
 ![](/static/img/hierarchy-of-controls-for-sari.png)
 
-- - -
+---
 
 ### Why aren’t these safety measures more common?
 
-You might wonder why the safety measures listed in this guide are not standard practice in hospitals, doctors’ surgeries, or other public spaces. That’s a good question! We think they should be. Many scientists and health experts continue to [raise the alarm](https://johnsnowproject.org/insights/admission-the-first-step-to-a-sustainable-solution/) and [call on governments](https://www.bapen.org.uk/pdfs/covid-19/joint-letter-to-chair-20.12.24-redacted.pdf) to [protect people better](https://www.bohs.org/media-resources/press-releases/detail/healthcare-workers-still-exposed/) from Covid-19. But unfortunately it’s not unknown for governments to delay or deny action on public health issues - like [during the HIV/AIDS crisis](https://pmc.ncbi.nlm.nih.gov/articles/PMC7784248/#:~:text=Economic%20cycles%20exert%20their%20influence,national%20responses%20to%20HIV/AIDS.) and the [infected blood scandal](https://www.independent.co.uk/news/uk/home-news/penrose-report-blood-scandal-inquiry-branded-a-whitewash-10134095.html). Additionally, it typically [takes years](https://pmc.ncbi.nlm.nih.gov/articles/PMC3241518/#JRSM-11-0180TB1) for scientific evidence to translate into widely applied practice. We think that current Covid-19 policies are dangerously limited and misguided. 
+You might wonder why the safety measures listed in this guide are not standard practice in hospitals, doctors’ surgeries, or other public spaces. That’s a good question! We think they should be. Many scientists and health experts continue to [raise the alarm](https://johnsnowproject.org/insights/admission-the-first-step-to-a-sustainable-solution/) and [call on governments](https://www.bapen.org.uk/pdfs/covid-19/joint-letter-to-chair-20.12.24-redacted.pdf) to [protect people better](https://www.bohs.org/media-resources/press-releases/detail/healthcare-workers-still-exposed/) from Covid-19. But unfortunately it’s not unknown for governments to delay or deny action on public health issues - like [during the HIV/AIDS crisis](https://pmc.ncbi.nlm.nih.gov/articles/PMC7784248/#:~:text=Economic%20cycles%20exert%20their%20influence,national%20responses%20to%20HIV/AIDS.) and the [infected blood scandal](https://www.independent.co.uk/news/uk/home-news/penrose-report-blood-scandal-inquiry-branded-a-whitewash-10134095.html). Additionally, it typically [takes years](https://pmc.ncbi.nlm.nih.gov/articles/PMC3241518/#JRSM-11-0180TB1) for scientific evidence to translate into widely applied practice. We think that current Covid-19 policies are dangerously limited and misguided.
 
 ### About the authors
 
@@ -682,7 +600,7 @@ Let us know if you used any of these safety measures and tell us how it went!
 
 We also love to promote Covid-safer events, so send us your photos and event information or tag us on Instagram!
 
-\#️⃣ Find us on Instagram [@breatheeasysheffield](https://www.instagram.com/breatheeasysheffield/) 
+\#️⃣ Find us on Instagram [@breatheeasysheffield](https://www.instagram.com/breatheeasysheffield/)
 
 📧 Email us at [sheffield@breathe-easy.uk](mailto:sheffield@breathe-easy.uk)
 
@@ -690,18 +608,18 @@ We also love to promote Covid-safer events, so send us your photos and event inf
 
 ## 📝 License
 
-This guide is shared under a Creative Commons License [(CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
+This guide is shared under a Creative Commons License [(CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 This means you are free to:
 
-**Share** - copy and redistribute the policy in any medium or format; 
+**Share** - copy and redistribute the policy in any medium or format;
 **Adapt** - remix, transform, and build upon the guide.
 
-And if you do, you must: 
+And if you do, you must:
 
-1. **Attribute** - Give credit to the author and source appropriately and say whether any changes have been made from the original; 
+1. **Attribute** - Give credit to the author and source appropriately and say whether any changes have been made from the original;
 2. **ShareAlike** - Share your policy or document under the same license, and link to details about the license.
 
 You may not use the material for commercial purposes.
 
-*Last updated: 17.08.2025*
+_Last updated: 17.08.2025_

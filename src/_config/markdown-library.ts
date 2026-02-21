@@ -42,9 +42,21 @@ const markdownItAnchorOptions = {
 };
 
 const assideOptions: MarkdownItContainerOptions = {
-  name: "fyi",
-  openRender: (_) => "<aside class='fyi stack stack-gap-s'>",
-  closeRender: (_) => "</aside>",
+  name: "[fyi]",
+  openRender: (_) => "<aside class='fyi stack stack-gap-s'>\n",
+  closeRender: (_) => "</aside>\n",
+};
+
+const detailsOptions: MarkdownItContainerOptions = {
+  name: "[show]",
+  openRender: (tokens, idx) => {
+    const summaryText = tokens[idx].info.replace(/^\s*\[show\]\s*/, "");
+    return `<details class='show'>
+<summary>${summaryText}</summary>
+<div class='stack stack-gap-s'>
+`;
+  },
+  closeRender: (_) => "</div>\n</details>\n",
 };
 
 export const markdownLibrary = MarkdownIt.default({
@@ -53,4 +65,5 @@ export const markdownLibrary = MarkdownIt.default({
   linkify: true,
 })
   .use(markdownItAnchor, markdownItAnchorOptions)
+  .use(container, detailsOptions)
   .use(container, assideOptions);

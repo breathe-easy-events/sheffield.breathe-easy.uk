@@ -10,7 +10,7 @@
     <!-- Include the script that builds the page and powers Decap CMS -->
     <script src="https://unpkg.com/markdown-it@14.1.0/dist/markdown-it.min.js"></script>
     <script src="https://unpkg.com/decap-cms@^3.6.3/dist/decap-cms.js"></script>
-    <!-- https://decapcms.org/docs/custom-widgets/#registereditorcomponent -->
+    <!-- INFO: https://decapcms.org/docs/custom-widgets/#registereditorcomponent -->
     <script>
       // TODO: it would be good if we pulled in the same markdown options as we use
       // to build the site
@@ -39,7 +39,7 @@
         // Additionally, it's recommended that you use non-greedy capturing groups (e.g.
         // `(.*?)` vs `(.*)`), especially if matching against newline characters.
         // pattern: /^<details><summary>(.*?)<\/summary>(.*?)<\/details>$/ms,
-        pattern: /^::: fyi *\n(.*?)^::: *$/ms,
+        pattern: /^::: \[fyi\] *\n(.*?)^::: *$/ms,
         // Given a RegExp Match object
         // (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/match#return_value),
         // return an object with one property for each field defined in `fields`.
@@ -56,7 +56,7 @@
         // This is used to serialize the data from the custom widget to the
         // markdown document
         toBlock: function (data) {
-          return `::: fyi
+          return `::: [fyi]
 ${data.contents}
 :::`;
         },
@@ -68,6 +68,42 @@ ${data.contents}
   ${md.render(data.contents)}
 </aside>
 `;
+        },
+      });
+
+      CMS.registerEditorComponent({
+        id: "show-widget",
+        label: "Show / Hide",
+        fields: [
+          {
+            name: "summary",
+            label: "Summary",
+            widget: "string",
+          },
+          {
+            name: "contents",
+            label: "Contents",
+            widget: "markdown",
+          },
+        ],
+        pattern: /^::: \[show\] *(.*?)\n(.*?)^::: *$/ms,
+        fromBlock: function (match) {
+          return {
+            summary: match[1],
+            contents: match[2],
+          };
+        },
+        toBlock: function (data) {
+          return `::: [show] ${data.summary}
+${data.contents}
+:::`;
+        },
+        toPreview: function (data) {
+          return `
+<details>
+  <summary>${data.summary}</summary>
+  ${data.contents}
+</details>`;
         },
       });
     </script>
