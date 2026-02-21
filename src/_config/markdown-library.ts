@@ -51,9 +51,12 @@ const detailsOptions: MarkdownItContainerOptions = {
   name: "[show]",
   openRender: (tokens, idx) => {
     const summaryText = tokens[idx].info.replace(/^\s*\[show\]\s*/, "");
-    return `<details>\n<summary>${summaryText}</summary>\n`;
+    return `<details class='show'>
+<summary>${summaryText}</summary>
+<div class='stack stack-gap-s'>
+`;
   },
-  closeRender: (_) => "</details>\n",
+  closeRender: (_) => "</div>\n</details>\n",
 };
 
 export const markdownLibrary = MarkdownIt.default({

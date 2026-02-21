@@ -30,12 +30,14 @@ test("custom fyi markdown block renders an aside with valid markdown inside", ()
 });
 
 test("custom details markdown block renders summary text and markdown content", () => {
-  const expected = `<details>
+  const expected = `<details class='show'>
 <summary>This is the summary text</summary>
+<div class='stack stack-gap-s'>
 <ul>
 <li>this is some markdown</li>
 <li>this is more markdown</li>
 </ul>
+</div>
 </details>
 `;
   const input = `::: [show] This is the summary text
@@ -48,12 +50,14 @@ test("custom details markdown block renders summary text and markdown content", 
 
 test("custom details markdown block renders as part of a fuller markdown document", () => {
   const expected = `<p>this is a paragraph</p>
-<details>
+<details class='show'>
 <summary>This is the summary text</summary>
+<div class='stack stack-gap-s'>
 <ul>
 <li>this is some markdown</li>
 <li>this is more markdown</li>
 </ul>
+</div>
 </details>
 `;
   const input = `this is a paragraph
@@ -68,20 +72,24 @@ test("custom details markdown block renders as part of a fuller markdown documen
 
 test("custom details markdown block renders as part of a fuller markdown document with multiple details", () => {
   const expected = `<p>this is the first paragraph</p>
-<details>
+<details class='show'>
 <summary>This is the first summary text</summary>
+<div class='stack stack-gap-s'>
 <ul>
 <li>this is some markdown</li>
 <li>this is more markdown</li>
 </ul>
+</div>
 </details>
 <p>this is the second paragraph</p>
-<details>
+<details class='show'>
 <summary>This is the second summary text</summary>
+<div class='stack stack-gap-s'>
 <ul>
 <li>this is some markdown</li>
 <li>this is more markdown</li>
 </ul>
+</div>
 </details>
 `;
   const input = `this is the first paragraph
