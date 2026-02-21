@@ -42,15 +42,15 @@ const markdownItAnchorOptions = {
 };
 
 const assideOptions: MarkdownItContainerOptions = {
-  name: "fyi",
+  name: "[fyi]",
   openRender: (_) => "<aside class='fyi stack stack-gap-s'>\n",
   closeRender: (_) => "</aside>",
 };
 
 const detailsOptions: MarkdownItContainerOptions = {
-  name: "show",
+  name: "[show]",
   openRender: (tokens) => {
-    const summaryText = tokens[0].info.replace(/^\s*show\s*/, "");
+    const summaryText = tokens[0].info.replace(/^\s*\[show\]\s*/, "");
     return `<details>\n<summary>${summaryText}</summary>\n`;
   },
   closeRender: (_) => "</details>",

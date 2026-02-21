@@ -5,7 +5,7 @@ test("custom fyi markdown block renders an aside", () => {
   const expected = `<aside class='fyi stack stack-gap-s'>
 <p>this is just a test</p>
 </aside>`;
-  const input = `::: fyi
+  const input = `:::[fyi]
 this is just a test
 :::`;
   const result = markdownLibrary.render(input);
@@ -19,7 +19,7 @@ test("custom fyi markdown block renders an aside with valid markdown inside", ()
 <li>this is just a <a href="https://sheffield.breathe-easy.uk">link</a></li>
 </ul>
 </aside>`;
-  const input = `::: fyi
+  const input = `::: [fyi]
 - this is just a test
 - this is just a [link](https://sheffield.breathe-easy.uk)
 :::`;
@@ -35,7 +35,7 @@ test("custom details markdown block renders summary text and markdown content", 
 <li>this is more markdown</li>
 </ul>
 </details>`;
-  const input = `::: show This is the summary text
+  const input = `::: [show] This is the summary text
 - this is some markdown
 - this is more markdown
 :::`;
