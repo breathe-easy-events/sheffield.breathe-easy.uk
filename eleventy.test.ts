@@ -17,9 +17,19 @@ reduce transmission risk.</p>
   },
   title: "snazzy website",
   eleventy: { generator: "elventy" },
+  links: [
+    {
+      text: "How-to guide for Covid-safer events",
+      url: "https://sheffield.breathe-easy.uk/how-to-guide-for-covid-safer-events",
+    },
+    {
+      text: "Borrow a purifier",
+      url: "https://sheffield.breathe-easy.uk/lending-library",
+    },
+  ],
 };
 
-test("ViewSchema has title, content, currentPage", async () => {
+test("ViewSchema has title, content, currentPage, links", async () => {
   const data = viewData;
 
   const result = ViewSchema.parse(data);
@@ -27,6 +37,8 @@ test("ViewSchema has title, content, currentPage", async () => {
   expect(result.content).toEqual(data.content);
   expect(result.currentUrl).toEqual(data.page.url);
   expect(result.title).toEqual(data.title);
+  expect(result.links).toEqual(data.links);
+  expect(result.links.length).toEqual(2);
 });
 
 test("ViewSchema has an empty link array by default", async () => {
@@ -34,10 +46,10 @@ test("ViewSchema has an empty link array by default", async () => {
 
   const result = ViewSchema.parse(data);
 
-  expect(result.links).toEqual([]);
+  expect(result.menu).toEqual([]);
 });
 
-test("ViewSchema converts menu collection to useful link objects array", async () => {
+test("ViewSchema converts menu collection to useful menu objects array", async () => {
   const data = {
     ...viewData,
     collections: {
@@ -50,7 +62,7 @@ test("ViewSchema converts menu collection to useful link objects array", async (
 
   const result = ViewSchema.parse(data);
 
-  expect(result.links).toEqual([
+  expect(result.menu).toEqual([
     { title: "home", url: "/" },
     { title: "about", url: "/about" },
   ]);

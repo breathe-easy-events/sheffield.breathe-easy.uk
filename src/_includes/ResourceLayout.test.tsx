@@ -43,6 +43,7 @@ test("render  PageLayout", async () => {
         },
       ],
     },
+    links: [],
   };
 
   const result = ResourceLayout(viewProps);

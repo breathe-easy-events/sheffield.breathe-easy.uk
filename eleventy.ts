@@ -19,10 +19,14 @@ export const ViewSchema = z
     page: z.object({ url: z.string() }),
     content: z.string().nonempty(),
     title: z.string().nonempty(),
+    links: z
+      .array(z.object({ text: z.string().nonempty(), url: z.string().url() }))
+      .default([]),
   })
   .transform((data) => ({
     content: data.content,
     currentUrl: data.page.url,
+    links: data.links,
     menu: data.collections.menu,
     title: data.title,
   }));

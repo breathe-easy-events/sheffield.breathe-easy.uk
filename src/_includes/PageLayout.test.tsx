@@ -19,6 +19,7 @@ test("render  PageLayout", async () => {
         },
       ],
     },
+    links: [],
   };
 
   const result = PageLayout(viewProps);
