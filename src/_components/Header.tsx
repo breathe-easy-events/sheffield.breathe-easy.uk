@@ -2,12 +2,12 @@ import { JSX } from "react/jsx-runtime";
 import { Links } from "../../eleventy";
 
 export type HeaderProps = {
-  links: Links;
+  menu: Links;
   currentUrl: string;
   bottomEl: boolean; // wtf was this meant to be
 };
 
-export const Header = ({ links, currentUrl }: HeaderProps): JSX.Element => {
+export const Header = ({ menu, currentUrl }: HeaderProps): JSX.Element => {
   return (
     <header className="header">
       <nav>
@@ -17,7 +17,7 @@ export const Header = ({ links, currentUrl }: HeaderProps): JSX.Element => {
               Home
             </a>
           </li>
-          {links.map(({ title, url }) => (
+          {menu.map(({ title, url }) => (
             <li>
               <a aria-current={currentUrl === url ? "page" : null} href={url}>
                 {title}

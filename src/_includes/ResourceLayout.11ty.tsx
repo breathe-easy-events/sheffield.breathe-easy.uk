@@ -8,7 +8,7 @@ import { TableOfContents } from "../_components/TableOfContents";
 import { ViewInput, ViewSchema, HeadSchema } from "../../eleventy";
 
 export function ResourceLayout(data: ViewInput): JSX.Element {
-  const { content, title, links, currentUrl } = ViewSchema.parse(data);
+  const { content, title, menu, currentUrl } = ViewSchema.parse(data);
   return (
     <html lang="en">
       {Head(HeadSchema.parse(data))}
@@ -16,7 +16,7 @@ export function ResourceLayout(data: ViewInput): JSX.Element {
         <a href="#main" className="screen-reader-only">
           skip to content
         </a>
-        {Header({ links, currentUrl, bottomEl: false })}
+        {Header({ menu, currentUrl, bottomEl: false })}
         <main id="main" className="resource-page">
           <div className="stack stack-gap-l">
             <WithSidebar

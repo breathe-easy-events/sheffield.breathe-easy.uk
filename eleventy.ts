@@ -23,7 +23,7 @@ export const ViewSchema = z
   .transform((data) => ({
     content: data.content,
     currentUrl: data.page.url,
-    links: data.collections.menu,
+    menu: data.collections.menu,
     title: data.title,
   }));
 
