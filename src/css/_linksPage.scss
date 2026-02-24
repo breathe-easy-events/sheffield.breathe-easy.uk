@@ -1,0 +1,31 @@
+.links-page {
+  text-align: center;
+  padding-top: var(--space-l);
+  padding-bottom: var(--space-l);
+}
+
+.links-page li {
+  --color-bg: var(--color-teal);
+  --color-fg: var(--color-light);
+}
+
+.links-page a {
+  display: block;
+  text-decoration: none;
+  padding: var(--space-s);
+  background-color: var(--color-bg);
+  color: var(--color-fg);
+  border-radius: 2rem;
+  border: 4px var(--color-bg) solid;
+  font-size: var(--step-0);
+}
+.links-page a:hover {
+  background-color: var(--color-fg);
+  color: var(--color-bg);
+}
+
+.links-page img {
+  object-fit: contain;
+  width: 5rem;
+  height: 10rem;
+}

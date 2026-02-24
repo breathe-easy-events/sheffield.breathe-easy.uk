@@ -8,6 +8,14 @@ import { ViewInput, ViewSchema, HeadSchema } from "../../eleventy";
 export const IndexLayout = (data: ViewInput): JSX.Element => {
   const { content, title, menu, currentUrl, links } = ViewSchema.parse(data);
 
+  // NOTE: ensure never an empty list
+  if (links.length === 0) {
+    links.push({
+      text: "Homepage",
+      url: "https://sheffield.breathe-easy.uk/",
+    });
+  }
+
   return (
     <html lang="en">
       {Head(HeadSchema.parse(data))}
@@ -16,9 +24,15 @@ export const IndexLayout = (data: ViewInput): JSX.Element => {
           skip to content
         </a>
         {/* {Header({ menu, currentUrl, bottomEl: false })} */}
-        <main id="main">
+        <main id="main" className="links-page">
           <Section>
-            <ul>
+            <div className="stack stack-gap-3xs">
+              <h1>Breathe Easy Sheffield</h1>
+              <p className="fw600">
+                For folks who love going out and not getting sick
+              </p>
+            </div>
+            <ul role="list" className="stack stack-gap-2xs">
               {links.map(({ url, text }) => (
                 <li>
                   <a href={url}>{text}</a>
