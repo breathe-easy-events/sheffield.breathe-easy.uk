@@ -19,7 +19,7 @@ test("render IndexLayout", async () => {
         },
       ],
     },
-    links: [],
+    links: { links: [] },
   };
 
   const result = IndexLayout(viewProps);

@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: breathe-easy-events/sheffield.breathe-easy.uk
-  branch: main
+  branch: links-page-from-data
   preview_context: "cloudflare preview deploy"
 site_url: https://sheffield.breathe-easy.uk
 media_folder: "src/static/img"
@@ -15,6 +15,18 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+  - label: "Unique Pages"
+    name: "unique Pages"
+    files:
+      - label: "Links"
+        name: "links"
+        file: "src/_data/links.json"
+        fields:
+          - label: "Links"
+            name: "links"
+            fields:
+              - { label: "Text", name: "text", widget: "string" }
+              - { label: "URL", name: "url", widget: "string" }
   - label: "Pages"
     name: "pages"
     folder: "src/pages"

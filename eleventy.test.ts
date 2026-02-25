@@ -17,16 +17,18 @@ reduce transmission risk.</p>
   },
   title: "snazzy website",
   eleventy: { generator: "elventy" },
-  links: [
-    {
-      text: "How-to guide for Covid-safer events",
-      url: "https://sheffield.breathe-easy.uk/how-to-guide-for-covid-safer-events",
-    },
-    {
-      text: "Borrow a purifier",
-      url: "https://sheffield.breathe-easy.uk/lending-library",
-    },
-  ],
+  links: {
+    links: [
+      {
+        text: "How-to guide for Covid-safer events",
+        url: "https://sheffield.breathe-easy.uk/how-to-guide-for-covid-safer-events",
+      },
+      {
+        text: "Borrow a purifier",
+        url: "https://sheffield.breathe-easy.uk/lending-library",
+      },
+    ],
+  },
 };
 
 test("ViewSchema has title, content, currentPage, links", async () => {
@@ -37,7 +39,7 @@ test("ViewSchema has title, content, currentPage, links", async () => {
   expect(result.content).toEqual(data.content);
   expect(result.currentUrl).toEqual(data.page.url);
   expect(result.title).toEqual(data.title);
-  expect(result.links).toEqual(data.links);
+  expect(result.links).toEqual(data.links.links);
   expect(result.links.length).toEqual(2);
 });
 
