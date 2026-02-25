@@ -19,11 +19,18 @@ export const ViewSchema = z
     page: z.object({ url: z.string() }),
     content: z.string().nonempty(),
     title: z.string().nonempty(),
+    links: z.object({
+      // NOTE: this is because DecapCMS needs the file to be an object not an array.
+      links: z
+        .array(z.object({ text: z.string().nonempty(), url: z.string().url() }))
+        .default([]),
+    }),
   })
   .transform((data) => ({
     content: data.content,
     currentUrl: data.page.url,
-    links: data.collections.menu,
+    links: data.links.links,
+    menu: data.collections.menu,
     title: data.title,
   }));
 

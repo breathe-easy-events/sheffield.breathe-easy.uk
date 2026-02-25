@@ -5,7 +5,7 @@ import { Section } from "../_components/Section";
 import { ViewInput, ViewSchema, HeadSchema } from "../../eleventy";
 
 export function PageLayout(data: ViewInput): JSX.Element {
-  const { content, title, links, currentUrl } = ViewSchema.parse(data);
+  const { content, title, menu, currentUrl } = ViewSchema.parse(data);
   return (
     <html lang="en">
       {Head(HeadSchema.parse(data))}
@@ -13,7 +13,7 @@ export function PageLayout(data: ViewInput): JSX.Element {
         <a href="#main" className="screen-reader-only">
           skip to content
         </a>
-        {Header({ links, currentUrl, bottomEl: false })}
+        {Header({ menu, currentUrl, bottomEl: false })}
         <main id="main">
           <Section>
             <h1>{title}</h1>
