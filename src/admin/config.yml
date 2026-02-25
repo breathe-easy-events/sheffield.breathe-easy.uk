@@ -21,6 +21,8 @@ collections:
       - label: "Links"
         name: "links"
         file: "src/_data/links.json"
+        editor:
+          preview: false
         fields:
           - label: "Links"
             name: "links"
