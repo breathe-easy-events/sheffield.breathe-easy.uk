@@ -1,6 +1,7 @@
 ---
 title: Events
 menu: true
+menuName: Events
 layout: PageLayout.11ty.tsx
 ---
 A test of some body text
