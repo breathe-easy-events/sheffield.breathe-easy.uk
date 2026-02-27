@@ -9,7 +9,7 @@ public_folder: "/static/img"
 publish_mode: editorial_workflow
 collections:
   - label: "Unique Pages"
-    name: "unique Pages"
+    name: "unique-Pages"
     files:
       - label: "Home"
         name: "home"
@@ -32,7 +32,7 @@ collections:
               - { label: "Text", name: "text", widget: "string" }
               - { label: "URL", name: "url", widget: "string" }
   - label: "Generic Pages"
-    name: "generic pages"
+    name: "generic-pages"
     folder: "src/pages"
     create: true
     fields:
