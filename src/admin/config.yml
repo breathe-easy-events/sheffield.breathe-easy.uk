@@ -9,12 +9,11 @@ public_folder: "/static/img"
 publish_mode: editorial_workflow
 collections:
   - label: "Unique Pages"
-    name: "unique-Pages"
+    name: "unique-pages"
     files:
       - label: "Home"
         name: "home"
-        file: "src/home.md"
-        create: false
+        file: "src/index.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
