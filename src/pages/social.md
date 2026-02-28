@@ -41,7 +41,7 @@ The screening will begin at 6.30pm.
 
 - **Requested**: we ask that you tell us beforehand if you have a condition (eg COPD, hayfever) that causes symptoms of coughing or sneezing.
 
-:::[show] Access and Safety Information
+::: [show] Access and Safety Information
 
 **Physical access**: Indoor areas are accessible using a wheelchair. Outdoor terrace via stairs. Full details on [Gut Level website](https://gutlevel.co.uk/venue-accessibility).
 
