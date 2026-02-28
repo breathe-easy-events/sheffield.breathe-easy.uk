@@ -73,7 +73,7 @@ The screening will begin at 6.30pm.
 
 ### Who are you?
 
-Breathe Easy is brought to you by Chloe and Jade, two Covid/infection-cautious Sheffield locals with backgrounds in organising, activism and cultural events. We have no funding for Breathe Easy and are arranging our events on a voluntary and not-for-profit basis.
+Breathe Easy is brought to you by Chloe and Jade, two Covid/infection-conscious Sheffield locals with backgrounds in organising, activism and cultural events. We have no funding for Breathe Easy Sheffield and are arranging our events on a voluntary and not-for-profit basis.
 
 ### Can I follow you online?
 
@@ -89,7 +89,7 @@ Breathe Easy Sheffield aims to improve access to social and cultural events by p
 
 Safety from airborne infectious disease at a public event is on a spectrum of more to less safe. Everyone has different needs to feel safe _enough_. Breathe Easy wants to explore a range of different ways to make events safer and reduce transmission risk that other venues and organisers can replicate. This means we will decide on different measures for each event and some events will include more or less safety measures. Our decisions are based on our understanding of a measure’s risk impact, what we can afford and manage, and replicability to other venues.
 
-### Can you guarantee that I won’t catch covid or another illness at your event?
+### Can you guarantee that I won’t catch Covid or another illness at your event?
 
 No. We will use measures evidenced to reduce the transmission of airborne infections, but we cannot eliminate risk. We will communicate the measures we have taken so you can make an informed decision but neither we nor the venue can take responsibility if you catch an illness at our event.
 
