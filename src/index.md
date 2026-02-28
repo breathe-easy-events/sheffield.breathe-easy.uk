@@ -2,23 +2,24 @@
 layout: IndexLayout.11ty.tsx
 title: Breathe Easy Sheffield
 ---
+
 Breathe Easy Sheffield works to make social spaces safer and more inclusive.
 
 We promote measures that reduce the risk of airborne illness transmission at indoor events. Nobody should have to choose between socialising and their health.
 
-Want to find out more? [Follow us on Instagram](<>) or [join our mailing list](<>)
+Want to find out more? [Follow us on Instagram](https://www.instagram.com/breatheeasysheffield/) or [join our mailing list](https://gmail.us17.list-manage.com/subscribe?u=5befd4a851cd5a433e63b6f8a&id=d368619d99)
 
 ![A group of masked people in a bar pose for a photo, with bunting and a disco ball above](/static/img/img-20241218-wa0005-1-.jpg "Breathe Easy Sheffield social")
 
 ## Making events safer for everyone
 
-Breathe Easy Sheffield promotes simple, relatively low-cost safety measures that dramatically reduce the risk of catching Covid and other airborne illnesses (flu, RSV) at indoor events. Organisers and venues can clean indoor air without compromising the event experience through measures such as air purification and ventilation - so why wouldn't you, eh? 
+Breathe Easy Sheffield promotes simple, relatively low-cost safety measures that dramatically reduce the risk of catching Covid and other airborne illnesses (flu, RSV) at indoor events. Organisers and venues can clean indoor air without compromising the event experience through measures such as air purification and ventilation - so why wouldn't you, eh?
 
 We promote clean air measures that increase access by people who are clinically vulnerable. But being able to gather without getting sick, temporarily or permanently, benefits everyone.
 
 ### Cleaner air in shared spaces
 
-Breathe Easy offers [Covid safety guidance](<>) to organisers looking to make their events more accessible and [lends free air purifiers](<>) and [](<>)clean air equipment.
+Breathe Easy offers [Covid safety guidance](https://sheffield.breathe-easy.uk/how-to-guide-for-covid-safer-events/) to organisers looking to make their events more accessible and [lends free air purifiers](https://sheffield.breathe-easy.uk/lending-library/) and clean air equipment.
 
 In its first year in 2025, the Breathe Easy Sheffield clean air guidance and lending service supported 50 events across Sheffield and brought cleaner indoor air to over 2,000 people.
 
@@ -30,7 +31,7 @@ Breathe Easy Sheffield hosts monthly Covid-safer socials (see [our Instagram](ht
 
 In 2025, we made history by hosting the UK’s first Covid-safer gig. We run online film streams, games socials, and creative sessions, with regular hybrid and online events for people who want to take part from home.
 
-We deliver talks and workshops as well as 1:1 advice sessions to groups across Sheffield who want to make their community gatherings safer and reduce the spread of infectious airborne illnesses. 
+We deliver talks and workshops as well as 1:1 advice sessions to groups across Sheffield who want to make their community gatherings safer and reduce the spread of infectious airborne illnesses.
 
 ## About us
 
@@ -42,4 +43,4 @@ We created Breathe Easy Sheffield to reduce exclusion and improve access to indo
 
 ![Two tables of masked people are being instructed in lino cutting techniques](/static/img/pxl_20250915_185613150.jpg "Masked Lino Cutting Workshop")
 
-[](http://eepurl.com/iQfyS2)*Last updated: January 2026*
+_Last updated: January 2026_
