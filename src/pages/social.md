@@ -69,7 +69,7 @@ The screening will begin at 6.30pm.
 
 :::
 
-## FAQ
+::: [show] FAQ
 
 ### Who are you?
 
@@ -104,3 +104,5 @@ It can be hurtful or frustrating when an “accessible” event is inaccessible 
 ### How can I get in touch?
 
 Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
+
+::: 
