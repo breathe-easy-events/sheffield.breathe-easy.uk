@@ -5,7 +5,7 @@ layout: PageLayout.11ty.tsx
 discription: Breathe Easy Sheffield Covid-safer meet-ups and socials, held monthly.
 socialImageAlt: Information about our upcoming Covid-safer social at Gut Level
 ---
-## March: Film screening and social
+## March: film screening and social
 
 **Monday 16th March 2026, 6-9pm. Gut Level**
 
