@@ -1,30 +1,27 @@
 ---
-title: Social
+title: Socials
 menu: true
 layout: PageLayout.11ty.tsx
+discription: Breathe Easy Sheffield Covid-safer meet-ups and socials, held monthly.
 socialImageAlt: Information about our upcoming Covid-safer social at Gut Level
 ---
-## March: Film Screening and Social
+## March: Film screening and social
 
-**Monday 16th March 6-9pm. Gut Level**
+**Monday 16th March 2026, 6-9pm. Gut Level**
 
-Join us for a Covid-safer screening of Cluedo inspired slapstick comedy, Clue (1985).
-
-![Film poster for the movie Clue. A dark gothic style house at night with the lights on and people in shadows at the window. T](/static/img/covid-conscious-film-screening-and-social.png)
+Join us for a Covid-safer social and screening of Cluedo-inspired slapstick comedy, *Clue* (1985).
 
 It’s not just a game anymore! Six dinner guests invited to a mysterious mansion one dark and stormy night find their host, Mr Boddy, dead. The witty butler (Tim Curry) must uncover the culprit before they are all taken down one by one. Cult classic, Clue, is a fast-talking, dry-humoured, black comedy featuring your favourite suspects from Miss Scarlett to Professor Plum.
 
-This screening has been kindly produced by Breathe Easy supporter and attendee Kit, who will act as projectionist on the evening. It was made possible by Cinema For All’s Launch programme with the support of the BFI, awarding funds from the National Lottery.
-
-Masks required indoors. 
-
 ### Event Details
 
-As usual, our Covid-safer social will be hosted at Sheffield’s fantastic DIY community event space and collective, [Gut Level](https://gutlevel.co.uk/) (18+ age restriction). We have exclusive use of the space. A very good value (cashless) bar is **currently offering non-alcoholic drinks only** including pop, mocktails, hot tea and coffee. If you want to drink alcohol you can BYOB. There is also a luxurious separate rest space that has a room-sized king+ bed (up a flight of stairs).
+As usual, our Covid-safer social will be hosted at Sheffield’s fantastic DIY community event space and collective, [Gut Level](https://gutlevel.co.uk/) (18+ age restriction). We have exclusive use of the space. A very good value (cashless) bar is **currently offering non-alcoholic drinks only** including pop, mocktails, tea and coffee. If you want to drink alcohol you can BYOB. There is also a luxurious separate rest space that has a room-sized king+ bed (up a flight of stairs).
 
 The film is 94 minutes, rated PG and will be shown with captions. There will be an interval and time to socialise before and after the screening. 
 
 The screening will begin at 6.30pm.
+
+> This screening has been kindly produced by Breathe Easy supporter and attendee Kit, who will act as projectionist on the evening. It was made possible by Cinema For All’s Launch programme with the support of the BFI, awarding funds from the National Lottery.
 
 ### Safety Requirements
 
@@ -35,7 +32,7 @@ The screening will begin at 6.30pm.
 * **Requested**: we ask that if you have one, you bring a mask with a [sip-valve](https://thefacemaskstore.co.uk/sip-airtight-drinking-valve/) installed (to drink while remaining masked indoors).
 * **Requested**: we ask that you tell us beforehand if you have a condition (eg COPD, hayfever) that causes symptoms of coughing or sneezing.
 
-::: [show] Access and Safety Information
+::: [show] Access and safety information
 
 **Physical access**: Indoor areas are accessible using a wheelchair. Outdoor terrace via stairs. Full details on [Gut Level website](https://gutlevel.co.uk/venue-accessibility).
 
@@ -62,9 +59,11 @@ The screening will begin at 6.30pm.
 **Reasonable accommodation**: we will always consider requests for accommodations if you have a disability or chronic illness. Please contact us.
 
 
+
+
 :::
 
-::: [show] FAQ
+::: [show] FAQs
 
 **Who are you?**
 
@@ -100,9 +99,14 @@ It can be hurtful or frustrating when an “accessible” event is inaccessible 
 
 Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
 
+
+
 :::
+
 ## Register
+
 To book, take the following steps:
+
 1. Pay Gut Level annual membership (in advance): Gut Level kindly let us organise in their space for free, but it is a members-only club. Sign up for £2 [on their website](https://gutlevel.co.uk/membership).
 2. Pay event fee (in advance): Tickets are **£3.50 per person**. Payable in advance via BACS (bank transfer): details available on registering. Please note: your booking is not confirmed until you have paid.
 3. [Register here](https://forms.gle/ojdWTW1brjMvna8t6) 
@@ -110,4 +114,3 @@ To book, take the following steps:
 If you want to come but can’t afford a ticket, please get in touch.
 
 If you can't attend because you have Covid or a chronic illness, contact us for a refund.
-
