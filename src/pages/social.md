@@ -13,17 +13,19 @@ socialImageAlt: Information about our upcoming Covid-safer social at Gut Level
 
 This month, join us for a Covid-safer social and film screening of Cluedo-inspired slapstick comedy, *Clue* (1985).
 
-It’s not just a game anymore! Six dinner guests invited to a mysterious mansion one dark and stormy night find their host, Mr Boddy, dead. The witty butler (Tim Curry) must uncover the culprit before they are all taken down one by one. Cult classic, Clue, is a fast-talking, dry-humoured, black comedy featuring your favourite suspects from Miss Scarlett to Professor Plum.
+It’s not just a game anymore! Six dinner guests invited to a mysterious mansion one dark and stormy night find their host, Mr Boddy, dead. The witty butler (Tim Curry) must uncover the culprit before they are all taken down one by one. Cult classic, *Clue*, is a fast-talking, dry-humoured, black comedy featuring your favourite suspects from Miss Scarlett to Professor Plum.
 
 ### Event Details
 
-As usual, our Covid-safer social will be hosted at Sheffield’s fantastic DIY community event space and collective, [Gut Level](https://gutlevel.co.uk/) (18+ age restriction). We have exclusive use of the space. A very good value (cashless) bar is **currently offering non-alcoholic drinks only** including pop, mocktails, tea and coffee. If you want to drink alcohol you can BYOB. There is also a luxurious separate rest space that has a room-sized king+ bed (up a flight of stairs).
-
-The film is 94 minutes, rated PG and will be shown with captions. There will be an interval and time to socialise before and after the screening. 
+As usual, our Covid-safer social will be hosted at Sheffield’s fantastic DIY community event space and collective, [Gut Level](https://gutlevel.co.uk/) (18+ age restriction). We have exclusive use of the space. 
 
 The screening will begin at 6.30pm.
 
-> This screening has been kindly produced by Breathe Easy supporter and attendee Kit, who will act as projectionist on the evening. It was made possible by Cinema For All’s Launch programme with the support of the BFI, awarding funds from the National Lottery.
+The film is 94 minutes, rated PG and will be shown with captions. There will be an interval and time to socialise before and after the screening. 
+
+A very good value (cashless) bar is currently offering **non-alcoholic drinks only** including pop, mocktails, tea and coffee. If you want to drink alcohol you can BYOB. There is also a luxurious separate rest space that has a room-sized king+ bed (up a flight of stairs).
+
+*This screening has been kindly produced by Breathe Easy supporter and attendee Kit, who will act as projectionist on the evening. It was made possible by Cinema For All’s Launch programme with the support of the BFI, awarding funds from the National Lottery*.
 
 ### Safety Requirements
 
@@ -59,6 +61,7 @@ The screening will begin at 6.30pm.
 **Social inclusion**: all respectful folks welcome. No misogyny, transphobia, racism, homophobia or ableism - or any other bigotry.
 
 **Reasonable accommodation**: we will always consider requests for accommodations if you have a disability or chronic illness. Please contact us.
+
 
 
 
@@ -105,6 +108,7 @@ Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
 
 
 
+
 :::
 
 ## Register
@@ -112,9 +116,9 @@ Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
 To book, take the following steps:
 
 1. Pay Gut Level annual membership (in advance): Gut Level kindly let us organise in their space for free, but it is a members-only club. Sign up for £2 [on their website](https://gutlevel.co.uk/membership).
-2. Pay event fee (in advance): Tickets are **£3.50 per person**. Payable in advance via BACS (bank transfer): details available on registering. Please note: your booking is not confirmed until you have paid.
+2. Pay event fee: tickets are **£3.50 per person**. Payable in advance via BACS (bank transfer): details available on registering. Please note: your booking is not confirmed until you have paid.
 3. [Register here](https://forms.gle/ojdWTW1brjMvna8t6) 
 
-If you want to come but can’t afford a ticket, please get in touch.
-
-If you can't attend because you have Covid or a chronic illness, contact us for a refund.
+> If you want to come but can’t afford a ticket, please get in touch.
+>
+> If you can't attend because you have Covid or a chronic illness, contact us for a refund.
