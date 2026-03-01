@@ -14,7 +14,7 @@ socialImageAlt: ""
 
 This month, join us for a Covid-safer social and film screening of Cluedo-inspired slapstick comedy, *Clue* (1985).
 
-It’s not just a game anymore! Six dinner guests invited to a mysterious mansion one dark and stormy night find their host, Mr Boddy, dead. The witty butler (Tim Curry) must uncover the culprit before they are all taken down one by one. Cult classic, *Clue*, is a fast-talking, dry-humoured, black comedy featuring your favourite suspects from Miss Scarlett to Professor Plum.
+It’s not just a game anymore! Six dinner guests invited to a mysterious mansion one dark and stormy night find their host, Mr Boddy, dead. The witty butler (Tim Curry) must uncover the culprit before they are all taken down one by one. A cult classic, *Clue* is a fast-talking, dry-humoured, black comedy featuring your favourite suspects from Miss Scarlett to Professor Plum.
 
 ### Event Details
 
