@@ -6,7 +6,7 @@ discription: Covid-safer meet-ups in Sheffield.
 socialImage: /static/img/pxl_20250217_193154863.jpg
 socialImageAlt: ""
 ---
-## Social and *Clue* film screening
+## Social and *Clue* film screening 🔍
 
 **Monday 16th March 2026, 6-9pm. Gut Level**
 
@@ -68,6 +68,7 @@ A very good value (cashless) bar is currently offering **non-alcoholic drinks on
 
 
 
+
 :::
 
 ::: [show] FAQs
@@ -105,6 +106,7 @@ It can be hurtful or frustrating when an “accessible” event is inaccessible 
 **How can I get in touch?**
 
 Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
+
 
 
 
