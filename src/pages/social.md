@@ -2,7 +2,7 @@
 title: Socials
 menu: true
 layout: PageLayout.11ty.tsx
-discription: Breathe Easy Sheffield Covid-safer meet-ups and socials, held monthly.
+discription: Covid-safer meet-ups in Sheffield.
 socialImage: /static/img/pxl_20250217_193154863.jpg
 socialImageAlt: ""
 ---
