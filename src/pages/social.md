@@ -3,7 +3,8 @@ title: Socials
 menu: true
 layout: PageLayout.11ty.tsx
 discription: Breathe Easy Sheffield Covid-safer meet-ups and socials, held monthly.
-socialImageAlt: Information about our upcoming Covid-safer social at Gut Level
+socialImage: /static/img/pxl_20250217_193154863.jpg
+socialImageAlt: ""
 ---
 ## Social and *Clue* film screening
 
