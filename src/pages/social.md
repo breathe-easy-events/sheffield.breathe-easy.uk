@@ -5,11 +5,13 @@ layout: PageLayout.11ty.tsx
 discription: Breathe Easy Sheffield Covid-safer meet-ups and socials, held monthly.
 socialImageAlt: Information about our upcoming Covid-safer social at Gut Level
 ---
-## March: film screening and social
+## Social and *Clue* film screening
 
 **Monday 16th March 2026, 6-9pm. Gut Level**
 
-Join us for a Covid-safer social and screening of Cluedo-inspired slapstick comedy, *Clue* (1985).
+![](/static/img/clue-image-1-paramount.jpg "Clue")
+
+This month, join us for a Covid-safer social and film screening of Cluedo-inspired slapstick comedy, *Clue* (1985).
 
 It’s not just a game anymore! Six dinner guests invited to a mysterious mansion one dark and stormy night find their host, Mr Boddy, dead. The witty butler (Tim Curry) must uncover the culprit before they are all taken down one by one. Cult classic, Clue, is a fast-talking, dry-humoured, black comedy featuring your favourite suspects from Miss Scarlett to Professor Plum.
 
@@ -61,6 +63,7 @@ The screening will begin at 6.30pm.
 
 
 
+
 :::
 
 ::: [show] FAQs
@@ -98,6 +101,7 @@ It can be hurtful or frustrating when an “accessible” event is inaccessible 
 **How can I get in touch?**
 
 Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
+
 
 
 
