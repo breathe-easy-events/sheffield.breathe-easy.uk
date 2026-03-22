@@ -39,7 +39,7 @@ The theme for the zine is “community care” and the Breathe Easy community is
 
 If you need additional time to finish your piece, you will have until the end of May.
 
-Your tutor will be Sarah, a Covid-conscious printmaker. Sarah edits the beautiful [Heath and Mud](https://linktr.ee/calcs.prints)[magazine](https://linktr.ee/calcs.prints), which celebrates the landscape and folklore of the Peak District through art and creativity. Heath and Mud champions inclusivity and raises money for Peak District charities.
+Your tutor will be Sarah, a Covid-conscious printmaker. Sarah edits the beautiful [_Heath and Mud_ magazine](https://linktr.ee/calcs.prints), which celebrates the landscape and folklore of the Peak District through art and creativity. Heath and Mud champions inclusivity and raises money for Peak District charities.
 
 Sarah will collate submissions for printing and finished zines will be available to purchase.
 
