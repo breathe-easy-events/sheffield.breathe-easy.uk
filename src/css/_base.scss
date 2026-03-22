@@ -73,6 +73,8 @@ blockquote {
   padding: var(--space-s);
   border-inline-start: 4px var(--color-fg) solid;
 }
+
+// TODO: check if all inline elements need bumping a font size like a
 blockquote > a,
 blockquote > * {
   font-size: var(--step-2);
