@@ -15,7 +15,7 @@ socialImageAlt: ""
 
 Now Rescheduled! Enjoy a creative session and make something beautiful for Breathe Easy’s _first ever_ zine. This session was due to take place in February, but due to illness we had to cancel. so you have another opportunity to book!
 
-If you have already paid for the zine making class your spot will be saved and you don't need to pay twice, just \*\*chloe what are we saying here\*\*
+If you have already paid for the zine making class your spot will be saved and you don't need to pay twice.
 
 Our Covid-safer zine-making workshop will be in a small-group setting, led by fantastic Sheffield-based printmaker Sarah Calcutt of [_Heath and Mud_ magazine](https://linktr.ee/calcs.prints). After running some smash-hit lino-printing sessions for Breathe Easy, Sarah is returning to facilitate a creative space with writing prompts, lino tools, collage and a range of art materials.
 
