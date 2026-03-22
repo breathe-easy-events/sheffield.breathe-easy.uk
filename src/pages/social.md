@@ -9,7 +9,7 @@ socialImageAlt: ""
 
 ## Zine-making workshop + social
 
-**Monday 16th March 2026, 6-9pm. Gut Level**
+**Monday 20th April 2026, 6-9pm. Gut Level**
 
 ![Two tables of masked people are being instructed in lino cutting techniques](/static/img/pxl_20250915_185613150.jpg "Masked Lino Cutting Workshop")
 
