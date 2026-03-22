@@ -15,7 +15,7 @@ socialImageAlt: ""
 
 Now Rescheduled! Enjoy a creative session and make something beautiful for Breathe Easy’s _first ever_ zine. This session was due to take place in February, but due to illness we had to cancel. so you have another opportunity to book!
 
-If you have already paid for the zine making class your spot will be saved and you don't need to pay twice.
+If you have already paid for the zine making class your spot will be saved and you don't need to pay twice - just register and pay the normal social fee!
 
 Our Covid-safer zine-making workshop will be in a small-group setting, led by fantastic Sheffield-based printmaker Sarah Calcutt of [_Heath and Mud_ magazine](https://linktr.ee/calcs.prints). After running some smash-hit lino-printing sessions for Breathe Easy, Sarah is returning to facilitate a creative space with writing prompts, lino tools, collage and a range of art materials.
 
@@ -126,7 +126,6 @@ To book, take the following steps:
 
 1. Pay Gut Level annual membership (in advance): Gut Level kindly let us organise in their space for free, but it is a members-only club. Sign up for £2 [on their website](https://gutlevel.co.uk/membership).
 2. Pay event fee (in advance): The creative workshop is £7.00 per person and social-only tickets are £3.50 per person. Payable in advance via BACS (bank transfer): details available on registering. Please note: your booking is not confirmed until you have paid.
-   If you POSTPONED your zine making ticket from February please only transfer us £3.50 for the social part of the April event (which helps cover our bar fees). If you postponed your ticket we have saved your spot in the class.
 3. [Register here](https://forms.gle/B2tLTvAjrQ2wXAVB6)
 
 > If you want to come but can’t afford a ticket, please get in touch.
