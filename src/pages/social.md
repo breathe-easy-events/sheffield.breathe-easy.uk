@@ -11,7 +11,7 @@ socialImageAlt: ""
 
 **Monday 16th March 2026, 6-9pm. Gut Level**
 
-![A group of masked people sitting around two tables, being instructed in linocutting techniques](/static/img/pxl_20250915_185613150-1-.jpg "Masked Workshop")
+![Two tables of masked people are being instructed in lino cutting techniques](/static/img/pxl_20250915_185613150.jpg "Masked Lino Cutting Workshop")
 
 Now Rescheduled! Enjoy a creative session and make something beautiful for Breathe Easy’s _first ever_ zine. This session was due to take place in February, but due to illness we had to cancel. so you have another opportunity to book!
 
