@@ -127,7 +127,7 @@ To book, take the following steps:
 1. Pay Gut Level annual membership (in advance): Gut Level kindly let us organise in their space for free, but it is a members-only club. Sign up for £2 [on their website](https://gutlevel.co.uk/membership).
 2. Pay event fee (in advance): The creative workshop is £7.00 per person and social-only tickets are £3.50 per person. Payable in advance via BACS (bank transfer): details available on registering. Please note: your booking is not confirmed until you have paid.
    If you POSTPONED your zine making ticket from February please only transfer us £3.50 for the social part of the April event (which helps cover our bar fees). If you postponed your ticket we have saved your spot in the class.
-3. [Register here]((https://forms.gle/B2tLTvAjrQ2wXAVB6)
+3. [Register here](https://forms.gle/B2tLTvAjrQ2wXAVB6)
 
 > If you want to come but can’t afford a ticket, please get in touch.
 >
