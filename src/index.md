@@ -2,8 +2,7 @@
 layout: IndexLayout.11ty.tsx
 title: Breathe Easy Sheffield
 ---
-
-Breathe Easy Sheffield works to make social spaces safer and more inclusive.
+Breathe Easy Sheffield works to make social spaces safer and more inclusive
 
 We promote measures that reduce the risk of airborne illness transmission at indoor events. Nobody should have to choose between socialising and their health.
 
@@ -43,4 +42,4 @@ We created Breathe Easy Sheffield to reduce exclusion and improve access to indo
 
 ![Two tables of masked people are being instructed in lino cutting techniques](/static/img/pxl_20250915_185613150.jpg "Masked Lino Cutting Workshop")
 
-_Last updated: January 2026_
+*Last updated: January 2026*
