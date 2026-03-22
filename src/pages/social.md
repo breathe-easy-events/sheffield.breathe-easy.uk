@@ -6,18 +6,17 @@ discription: Covid-safer meet-ups in Sheffield.
 socialImage: /static/img/pxl_20250217_193154863.jpg
 socialImageAlt: ""
 ---
-
 ## Zine-making workshop + social
 
 **Monday 20th April 2026, 6-9pm. Gut Level**
 
 ![Two tables of masked people are being instructed in lino cutting techniques](/static/img/pxl_20250915_185613150.jpg "Masked Lino Cutting Workshop")
 
-Now Rescheduled! Enjoy a creative session and make something beautiful for Breathe Easy’s _first ever_ zine. This session was due to take place in February, but due to illness we had to cancel, so you have another opportunity to book!
+Now Rescheduled! Enjoy a creative session and make something beautiful for Breathe Easy’s *first ever* zine. This session was due to take place in February, but due to illness we had to cancel, so you have another opportunity to book!
 
-If you have already paid for the zine making class your spot will be saved and you don't need to pay twice - just register and pay the normal social fee!
+If you have already paid for the zine making class your spot will be saved and you don't need to pay twice - just register and pay the normal social fee.
 
-Our Covid-safer zine-making workshop will be in a small-group setting, led by fantastic Sheffield-based printmaker Sarah Calcutt of [_Heath and Mud_ magazine](https://linktr.ee/calcs.prints). After running some smash-hit lino-printing sessions for Breathe Easy, Sarah is returning to facilitate a creative space with writing prompts, lino tools, collage and a range of art materials.
+Our Covid-safer zine-making workshop will be in a small-group setting, led by fantastic Sheffield-based printmaker Sarah Calcutt of [*Heath and Mud* magazine](https://linktr.ee/calcs.prints). After running some smash-hit lino-printing sessions for Breathe Easy, Sarah is returning to facilitate a creative space with writing prompts, lino tools, collage and a range of art materials.
 
 We know we’ve got a zine loving community - but social-only tickets are also available if you just want to enjoy a drink and a chat.
 
@@ -29,17 +28,17 @@ As usual, our Covid-safer social will be hosted at Sheffield’s fantastic DIY c
 
 The theme for the zine is “community care” and the Breathe Easy community is invited to make something creative on this theme. Arrive with ideas already in mind, or come to get inspired!
 
-- Open to all levels: beginners to seasoned creatives.
-- Equipment and materials provided for writing, lino, doodling, and collage.
-- You are welcome to bring your own creative materials.
-- Guided instruction plus one-to-one advice available.
-- Have a go at any or all of the lino-printing process according to your interest and ability.
-- Ink can spill! Wear something you don’t mind getting stained.
-- Lino cutting involves sharp tools! Follow our safety advice.
+* Open to all levels: beginners to seasoned creatives.
+* Equipment and materials provided for writing, lino, doodling, and collage.
+* You are welcome to bring your own creative materials.
+* Guided instruction plus one-to-one advice available.
+* Have a go at any or all of the lino-printing process according to your interest and ability.
+* Ink can spill! Wear something you don’t mind getting stained.
+* Lino cutting involves sharp tools! Follow our safety advice.
 
 If you need additional time to finish your piece, you will have until the end of May.
 
-Your tutor will be Sarah, a Covid-conscious printmaker. Sarah edits the beautiful [_Heath and Mud_ magazine](https://linktr.ee/calcs.prints), which celebrates the landscape and folklore of the Peak District through art and creativity. Heath and Mud champions inclusivity and raises money for Peak District charities.
+Your tutor will be Sarah, a Covid-conscious printmaker. Sarah edits the beautiful [*Heath and Mud* magazine](https://linktr.ee/calcs.prints), which celebrates the landscape and folklore of the Peak District through art and creativity. Heath and Mud champions inclusivity and raises money for Peak District charities.
 
 Sarah will collate submissions for printing and finished zines will be available to purchase.
 
@@ -47,12 +46,12 @@ Sarah will collate submissions for printing and finished zines will be available
 
 ### Safety Requirements
 
-- **Required**: you must bring a **mask** to wear during the event while indoors. Drinks can be enjoyed outdoors on the terrace upstairs, or via a mask with a [sip valve](https://thefacemaskstore.co.uk/sip-airtight-drinking-valve/)
-- **Required**: you must do a **lateral flow test** (for Covid-19) before the event
-- **Required**: you must tell us beforehand if you have Covid or are unwell (eg a new cough, sneezing, vomiting). Please do not come!
-- **Requested**: we ask that you wear a high-quality (ffp2/ffp3) non-vented mask.
-- **Requested**: we ask that if you have one, you bring a mask with a [sip-valve](https://thefacemaskstore.co.uk/sip-airtight-drinking-valve/) installed (to drink while remaining masked indoors).
-- **Requested**: we ask that you tell us beforehand if you have a condition (eg COPD, hayfever) that causes symptoms of coughing or sneezing.
+* **Required**: you must bring a **mask** to wear during the event while indoors. Drinks can be enjoyed outdoors on the terrace upstairs, or via a mask with a [sip valve](https://thefacemaskstore.co.uk/sip-airtight-drinking-valve/)
+* **Required**: you must do a **lateral flow test** (for Covid-19) before the event
+* **Required**: you must tell us beforehand if you have Covid or are unwell (eg a new cough, sneezing, vomiting). Please do not come!
+* **Requested**: we ask that you wear a high-quality (ffp2/ffp3) non-vented mask.
+* **Requested**: we ask that if you have one, you bring a mask with a [sip-valve](https://thefacemaskstore.co.uk/sip-airtight-drinking-valve/) installed (to drink while remaining masked indoors).
+* **Requested**: we ask that you tell us beforehand if you have a condition (eg COPD, hayfever) that causes symptoms of coughing or sneezing.
 
 ::: [show] Access and safety information
 
@@ -79,6 +78,7 @@ Sarah will collate submissions for printing and finished zines will be available
 **Social inclusion**: all respectful folks welcome. No misogyny, transphobia, racism, homophobia or ableism - or any other bigotry.
 
 **Reasonable accommodation**: we will always consider requests for accommodations if you have a disability or chronic illness. Please contact us.
+
 
 :::
 
@@ -117,6 +117,7 @@ It can be hurtful or frustrating when an “accessible” event is inaccessible 
 **How can I get in touch?**
 
 Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
+
 
 :::
 
