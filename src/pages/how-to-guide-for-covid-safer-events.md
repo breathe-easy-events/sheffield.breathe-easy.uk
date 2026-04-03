@@ -550,7 +550,7 @@ Like hand washing, [cleaning surfaces](https://whn.global/guidelines/cleaning-an
 
 ## ⭐ Case studies and examples
 
-Watershed, Bristol - [masked and socially distanced cinema screenings](https://www.watershed.co.uk/visit/access)
+Watershed, Bristol - [masked and socially distanced cinema screenings](https://www.watershed.co.uk/visit/access#msd)
 
 Site Gallery, Sheffield - [masked visiting hour](https://www.sitegallery.org/plan-your-visit/)
 
