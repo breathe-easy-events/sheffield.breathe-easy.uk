@@ -2,12 +2,11 @@
 layout: IndexLayout.11ty.tsx
 title: Breathe Easy Sheffield
 ---
-
 Breathe Easy Sheffield works to make social spaces safer and more inclusive.
 
 We promote measures that reduce the risk of airborne illness transmission at indoor events. Nobody should have to choose between socialising and their health.
 
-Want to find out more? [Follow us on Instagram](https://www.instagram.com/breatheeasysheffield/) or [join our mailing list](https://gmail.us17.list-manage.com/subscribe?u=5befd4a851cd5a433e63b6f8a&id=d368619d99)
+Want to find out more? [Follow us on Instagram](https://www.instagram.com/breatheeasysheffield/) or [join our mailing list](https://preview.mailerlite.io/forms/2258871/184356332676056857/share)
 
 ![A group of masked people in a bar pose for a photo, with bunting and a disco ball above](/static/img/img-20241218-wa0005-1-.jpg "Breathe Easy Sheffield social")
 
@@ -27,7 +26,7 @@ In its first year in 2025, the Breathe Easy Sheffield clean air guidance and len
 
 ### Community and connection
 
-Breathe Easy Sheffield hosts monthly Covid-safer socials (see [our Instagram](https://www.instagram.com/breatheeasysheffield/) and [mailing list](https://gmail.us17.list-manage.com/subscribe?u=5befd4a851cd5a433e63b6f8a&id=d368619d99) for details), and weekly online calls.
+Breathe Easy Sheffield hosts monthly Covid-safer socials (see [our Instagram](https://www.instagram.com/breatheeasysheffield/) and [mailing list](https://preview.mailerlite.io/forms/2258871/184356332676056857/share) for details), and weekly online calls.
 
 In 2025, we made history by hosting the UK’s first Covid-safer gig. We run online film streams, games socials, and creative sessions, with regular hybrid and online events for people who want to take part from home.
 
@@ -43,4 +42,4 @@ We created Breathe Easy Sheffield to reduce exclusion and improve access to indo
 
 ![Two tables of masked people are being instructed in lino cutting techniques](/static/img/pxl_20250915_185613150.jpg "Masked Lino Cutting Workshop")
 
-_Last updated: January 2026_
+*Last updated: April 2026*
