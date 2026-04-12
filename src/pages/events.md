@@ -9,7 +9,7 @@ socialImageAlt: A photograph of an air purifier behind rows of chairs in front
   of a stage, the lighting is blue and purple with string lighting across the
   ceiling.
 ---
-Discover where Breathe Easy Sheffield purifiers will be in action across the city. We want to highlights upcoming events that will be using our HEPA filters, helping you make informed choices about the spaces you attend.
+Discover where Breathe Easy Sheffield purifiers will be in action across the city. We want to highlight upcoming events that will be using our HEPA filters, helping you make informed choices about the spaces you attend.
 
 Please note that, unless explicitly stated, these events are not organised by Breathe Easy Sheffield - we simply provide information about where our purifiers are being used. We advise you to check the organisers own events page (which we will link where possible) for more details about their Covid mitigations and general accessibility.
 
@@ -17,11 +17,13 @@ Check back regularly as new events are added.
 
 ## Recurring Events
 
-### Breathe Easy Sheffield 
+### Breathe Easy Sheffield
+#### Covid-safer social ·  Gut Level
 We host a [monthly Covid-safer](https://sheffield.breathe-easy.uk/social/) social at Gut Level, with enhanced mitigations against airborne infection. In April, this will take place on Monday 20th 6-9pm, find details and sign up [here](https://sheffield.breathe-easy.uk/social/). From May onwards, socials will be held on the second Tuesday of each month.
 
 
 ### Right to Roam Sheffield 
+#### Organising meetings 
 Right to Roam Sheffield will be borrowing our purifiers for their fortnightly meetings. For more info about how to get involved please contact them directly [via instgram](https://www.instagram.com/right2roamsheffield/) or [join their mailing list](https://righttoroam.us1.list-manage.com/subscribe?u=3d712593ddadd398349fba716&id=7011dea19c). 
 
 ## April
