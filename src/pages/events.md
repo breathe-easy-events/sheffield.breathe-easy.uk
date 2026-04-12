@@ -27,8 +27,19 @@ Right to Roam Sheffield will be borrowing our purifiers for their fortnightly me
 ## April
 
 ### Sheffield Anti-Raids
-#### April 13th, 20th, 27th at Sharrow Community Forum
-A series of talks aiming to deep dive into borders and our hostile environment. More details on their social media: [instagram](https://www.instagram.com/antiraidssheffield/) and [facebook](https://www.facebook.com/sheffantiraids/). 
+#### April 13, 20 & 27 · Sharrow Community Forum
+A series of talks exploring borders and the UK’s hostile environment. See their social media for details: [Instagram](https://www.instagram.com/antiraidssheffield/) and [Facebook](https://www.facebook.com/sheffantiraids/).
 
-## Abbeydale Live
-### April 18th + 19th at Cole's Corner. wo full days of music, food, and community vibes! More details [here](https://www.facebook.com/ColesCornerSheffield)
+### Abbeydale Live
+#### April 18 & 19 · Cole’s Corner
+Two full days of music, food, and community. More details [here](https://www.facebook.com/ColesCornerSheffield).
+
+## May
+
+### Andro and Eve
+#### May 8 · A Reyt Queer Extravaganza · Forge Warehouse 
+A Reyt Queer Extravaganza featuring drag, dance, pageantry, and music.
+
+## Sheffield Fibromyalgia and ME Group
+### May 12 · SFMEG Indoor Picnic · The Circle
+An indoor picnic for ME awareness day. More details [here](https://www.sheffieldmegroup.co.uk/) 
