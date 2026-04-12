@@ -40,10 +40,10 @@ Two full days of music, food, and community. More details [here](https://www.fac
 #### May 8 · A Reyt Queer Extravaganza · Forge Warehouse 
 [A Reyt Queer Extravaganza](https://androandeve.com/event/reyt-queer-extravaganza/) featuring drag, dance, pageantry, and music.
 
-## Sheffield Fibromyalgia and ME Group
-### May 12 · SFMEG Indoor Picnic · The Circle
+### Sheffield Fibromyalgia and ME Group
+#### May 12 · SFMEG Indoor Picnic · The Circle
 An indoor picnic for ME awareness day. More details [here](https://www.sheffieldmegroup.co.uk/) 
 
-## Sheffield Fibromyalgia and ME Group
-### May 21 · SFMEG AGM · The Circle
+### Sheffield Fibromyalgia and ME Group
+#### May 21 · SFMEG AGM · The Circle
 Annual General Meeting of the [Sheffield Fibromyalgia and ME Group](https://www.sheffieldmegroup.co.uk/) 
