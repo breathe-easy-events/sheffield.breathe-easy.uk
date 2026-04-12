@@ -18,7 +18,7 @@ Check back regularly as new events are added.
 ## Recurring Events
 
 ### Breathe Easy Sheffield 
-We host a [monthly Covid-safer](https://sheffield.breathe-easy.uk/social/) social at Gut Level, with enhanced mitigations against airborne infection. In April, this will take place on Monday 20th from 6–9pm, find details and sign up [here](https://sheffield.breathe-easy.uk/social/). From May onwards, socials will be held on the second Tuesday of each month.
+We host a [monthly Covid-safer](https://sheffield.breathe-easy.uk/social/) social at Gut Level, with enhanced mitigations against airborne infection. In April, this will take place on Monday 20th 6-9pm, find details and sign up [here](https://sheffield.breathe-easy.uk/social/). From May onwards, socials will be held on the second Tuesday of each month.
 
 
 ### Right to Roam Sheffield 
