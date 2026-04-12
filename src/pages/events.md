@@ -22,6 +22,13 @@ We host a [monthly Covid-safer](https://sheffield.breathe-easy.uk/social/) socia
 
 
 ### Right to Roam Sheffield 
-Right to Roam Sheffield will be borrowing our purifiers for their fortnightly meetings. For more info about how to get involved please [contact them directly](https://www.instagram.com/right2roamsheffield/) or [join their mailing list](https://righttoroam.us1.list-manage.com/subscribe?u=3d712593ddadd398349fba716&id=7011dea19c). 
+Right to Roam Sheffield will be borrowing our purifiers for their fortnightly meetings. For more info about how to get involved please contact them directly [via instgram](https://www.instagram.com/right2roamsheffield/) or [join their mailing list](https://righttoroam.us1.list-manage.com/subscribe?u=3d712593ddadd398349fba716&id=7011dea19c). 
 
 ## April
+
+### Sheffield Anti-Raids
+#### April 13th, 20th, 27th at Sharrow Community Forum
+A series of talks aiming to deep dive into borders and our hostile environment. More details on their social media: [instagram](https://www.instagram.com/antiraidssheffield/) and [facebook](https://www.facebook.com/sheffantiraids/). 
+
+## Abbeydale Live
+### April 18th + 19th at Cole's Corner. wo full days of music, food, and community vibes! More details [here](https://www.facebook.com/ColesCornerSheffield)
