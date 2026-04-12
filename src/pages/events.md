@@ -15,3 +15,13 @@ Please note that, unless explicitly stated, these events are not organised by Br
 
 Check back regularly as new events are added.
 
+## Recurring Events
+
+### Breathe Easy Sheffield 
+We host a [monthly Covid-safer](https://sheffield.breathe-easy.uk/social/) social at Gut Level, with enhanced mitigations against airborne infection. In April, this will take place on Monday 20th from 6–9pm, find details and sign up [here](https://sheffield.breathe-easy.uk/social/). From May onwards, socials will be held on the second Tuesday of each month.
+
+
+### Right to Roam Sheffield 
+Right to Roam Sheffield will be borrowing our purifiers for their fortnightly meetings. For more info about how to get involved please [contact them directly](https://www.instagram.com/right2roamsheffield/) or [join their mailing list](https://righttoroam.us1.list-manage.com/subscribe?u=3d712593ddadd398349fba716&id=7011dea19c). 
+
+## April
