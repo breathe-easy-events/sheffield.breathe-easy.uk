@@ -8,9 +8,7 @@ socialImageAlt: ""
 ---
 ![Groups of masked people sat at tables in Gut Level](/static/img/pxl_20250217_193154863.jpg)
 
-## \
-\
-Event Details
+## Event Details
 
 **Tuesday 12th May 2026, 6-9pm. Gut Level**
 
@@ -52,6 +50,7 @@ As usual, our Covid-safer social will be hosted at Sheffield’s fantastic DIY c
 **Reasonable accommodation**: we will always consider requests for accommodations if you have a disability or chronic illness. Please contact us.
 
 
+
 :::
 
 ::: [show] FAQs
@@ -89,6 +88,7 @@ It can be hurtful or frustrating when an “accessible” event is inaccessible 
 **How can I get in touch?**
 
 Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
+
 
 
 :::
