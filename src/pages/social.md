@@ -12,7 +12,9 @@ socialImageAlt: ""
 
 **Tuesday 12th May 2026, 6-9pm. Gut Level**
 
-As usual, our Covid-safer social will be hosted at Sheffield’s fantastic DIY community event space and collective, [Gut Level](https://gutlevel.co.uk/) (18+ age restriction). We have exclusive use of the space. A very good value (cashless) bar is currently offering non-alcoholic drinks only including pop, mocktails, hot tea and coffee. If you want to drink alcohol you can BYOB. There is also a luxurious separate rest space that has a room-sized king+ bed (up a flight of stairs).
+As usual, our Covid-safer social will be hosted at Sheffield’s fantastic DIY community event space and collective, [Gut Level](https://gutlevel.co.uk/) (18+ age restriction). We have exclusive use of the space. A very good value (cashless) bar offers hot and cold drinks including pop, beer, cocktails and mocktails, as well as tea and coffee. There is also a luxurious separate rest space that has a room-sized king+ bed (up a flight of stairs).
+
+**Please note that our social events are now being held on the second Tuesday of each month**
 
 ### Safety Requirements
 
