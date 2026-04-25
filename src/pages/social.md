@@ -6,43 +6,15 @@ discription: Covid-safer meet-ups in Sheffield.
 socialImage: /static/img/pxl_20250217_193154863.jpg
 socialImageAlt: ""
 ---
-## Zine-making workshop + social
+![Groups of masked people sat at tables in Gut Level](/static/img/pxl_20250217_193154863.jpg)
 
-**Monday 20th April 2026, 6-9pm. Gut Level**
+## \
+\
+Event Details
 
-![Two tables of masked people are being instructed in lino cutting techniques](/static/img/pxl_20250915_185613150.jpg "Masked Lino Cutting Workshop")
-
-Now Rescheduled! Enjoy a creative session and make something beautiful for Breathe Easy’s *first ever* zine. This session was due to take place in February, but due to illness we had to cancel, so you have another opportunity to book!
-
-If you have already paid for the zine making class your spot will be saved and you don't need to pay twice - just register and pay the normal social fee.
-
-Our Covid-safer zine-making workshop will be in a small-group setting, led by fantastic Sheffield-based printmaker Sarah Calcutt of [*Heath and Mud* magazine](https://linktr.ee/calcs.prints). After running some smash-hit lino-printing sessions for Breathe Easy, Sarah is returning to facilitate a creative space with writing prompts, lino tools, collage and a range of art materials.
-
-We know we’ve got a zine loving community - but social-only tickets are also available if you just want to enjoy a drink and a chat.
-
-## Event Details
+**Tuesday 12th May 2026, 6-9pm. Gut Level**
 
 As usual, our Covid-safer social will be hosted at Sheffield’s fantastic DIY community event space and collective, [Gut Level](https://gutlevel.co.uk/) (18+ age restriction). We have exclusive use of the space. A very good value (cashless) bar is currently offering non-alcoholic drinks only including pop, mocktails, hot tea and coffee. If you want to drink alcohol you can BYOB. There is also a luxurious separate rest space that has a room-sized king+ bed (up a flight of stairs).
-
-### Community care zine-making
-
-The theme for the zine is “community care” and the Breathe Easy community is invited to make something creative on this theme. Arrive with ideas already in mind, or come to get inspired!
-
-* Open to all levels: beginners to seasoned creatives.
-* Equipment and materials provided for writing, lino, doodling, and collage.
-* You are welcome to bring your own creative materials.
-* Guided instruction plus one-to-one advice available.
-* Have a go at any or all of the lino-printing process according to your interest and ability.
-* Ink can spill! Wear something you don’t mind getting stained.
-* Lino cutting involves sharp tools! Follow our safety advice.
-
-If you need additional time to finish your piece, you will have until the end of May.
-
-Your tutor will be Sarah, a Covid-conscious printmaker. Sarah edits the beautiful [*Heath and Mud* magazine](https://linktr.ee/calcs.prints), which celebrates the landscape and folklore of the Peak District through art and creativity. Heath and Mud champions inclusivity and raises money for Peak District charities.
-
-Sarah will collate submissions for printing and finished zines will be available to purchase.
-
-> If you can’t come to this session (eg you are housebound due to chronic illness) but would like to submit something for the zine, email it to [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
 
 ### Safety Requirements
 
@@ -126,7 +98,7 @@ Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
 To book, take the following steps:
 
 1. Pay Gut Level annual membership (in advance): Gut Level kindly let us organise in their space for free, but it is a members-only club. Sign up for £2 [on their website](https://gutlevel.co.uk/membership).
-2. Pay event fee (in advance): The creative workshop is £7.00 per person and social-only tickets are £3.50 per person. Payable in advance via BACS (bank transfer): details available on registering. Please note: your booking is not confirmed until you have paid.
+2. Pay event fee (in advance): social tickets are £3.50 per person. Payable in advance via BACS (bank transfer): details available on registering. Please note: your booking is not confirmed until you have paid.
 3. [Register here](https://forms.gle/B2tLTvAjrQ2wXAVB6)
 
 > If you want to come but can’t afford a ticket, please get in touch.
