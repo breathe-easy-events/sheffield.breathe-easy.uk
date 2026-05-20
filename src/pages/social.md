@@ -9,7 +9,7 @@ socialImageAlt: ""
 
 ## Event Details
 
-Breathe Easy Sheffield is celebrating two whole years of community! Join us for a classic game of pin the mask on the donkey, cake, excellent company and drinks to cheer us all on for at least another two years.
+Breathe Easy Sheffield is celebrating two whole years of community! Join us for an evening of cake, drinks, excellent company, and a classic game of Pin the Mask on the Donkey as we celebrate everything we’ve built together.
 
 ![A group of masked people in party hats sitting around a table with lots of decorations surrounding them](/static/img/pxl_20250616_181100086-1-.jpg "Birthday party")
 
