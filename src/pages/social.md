@@ -12,7 +12,7 @@ Breathe Easy Sheffield is turning 2 🥳 Join us for an evening of cake, drinks
 
 ![A group of masked people in party hats sitting around a table with lots of decorations surrounding them](/static/img/pxl_20250616_181100086-2.jpg "Birthday party")
 
-**Tuesday 9th May 2026, 6-9pm. Gut Level**
+**Tuesday 9th June 2026, 6-9pm. Gut Level**
 
 Our Covid-safer social will be hosted at Sheffield’s fantastic DIY community event space and collective, [Gut Level](https://gutlevel.co.uk/) (18+ age restriction). We have exclusive use of the space. A very good value (cashless) bar offers hot and cold drinks including pop, beer, cocktails and mocktails, as well as tea and coffee. There is also a luxurious separate rest space that has a room-sized king+ bed (up a flight of stairs).
 
@@ -52,6 +52,7 @@ Our Covid-safer social will be hosted at Sheffield’s fantastic DIY community e
 
 **Reasonable accommodation**: we will always consider requests for accommodations if you have a disability or chronic illness. Please contact us.
 
+
 :::
 
 ::: [show] FAQs
@@ -89,6 +90,7 @@ It can be hurtful or frustrating when an “accessible” event is inaccessible 
 **How can I get in touch?**
 
 Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
+
 
 
 
