@@ -6,9 +6,9 @@ discription: Covid-safer meet-ups in Sheffield.
 socialImage: /static/img/pxl_20250217_193154863.jpg
 socialImageAlt: ""
 ---
-## Event Details
+## Breathe Easy Birthday Party
 
-Breathe Easy Sheffield is two whole years old! Join us for an evening of cake, drinks, excellent company, and games as we celebrate the community we’ve built together.
+Breathe Easy Sheffield is turning 2 🥳 Join us for an evening of cake, drinks, excellent company, and games as we celebrate the community we’ve built together.
 
 ![A group of masked people in party hats sitting around a table with lots of decorations surrounding them](/static/img/pxl_20250616_181100086-1-.jpg "Birthday party")
 
