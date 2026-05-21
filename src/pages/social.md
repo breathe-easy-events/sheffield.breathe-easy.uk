@@ -10,7 +10,7 @@ socialImageAlt: ""
 
 Breathe Easy Sheffield is turning 2 🥳 Join us for an evening of cake, drinks, excellent company, and games as we celebrate the community we’ve built together.
 
-![A group of masked people in party hats sitting around a table with lots of decorations surrounding them](/static/img/pxl_20250616_181100086-1-.jpg "Birthday party")
+![A group of masked people in party hats sitting around a table with lots of decorations surrounding them](/static/img/pxl_20250616_181100086-2.jpg "Birthday party")
 
 **Tuesday 9th May 2026, 6-9pm. Gut Level**
 
@@ -51,6 +51,7 @@ Our Covid-safer social will be hosted at Sheffield’s fantastic DIY community e
 **Social inclusion**: all respectful folks welcome. No misogyny, transphobia, racism, homophobia or ableism - or any other bigotry.
 
 **Reasonable accommodation**: we will always consider requests for accommodations if you have a disability or chronic illness. Please contact us.
+
 :::
 
 ::: [show] FAQs
@@ -88,6 +89,7 @@ It can be hurtful or frustrating when an “accessible” event is inaccessible 
 **How can I get in touch?**
 
 Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
+
 
 
 
