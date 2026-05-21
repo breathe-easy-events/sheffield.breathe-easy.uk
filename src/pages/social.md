@@ -16,7 +16,7 @@ Breathe Easy Sheffield is turning 2 🥳 Join us for an evening of cake, drinks
 
 Our Covid-safer social will be hosted at Sheffield’s fantastic DIY community event space and collective, [Gut Level](https://gutlevel.co.uk/) (18+ age restriction). We have exclusive use of the space. A very good value (cashless) bar offers hot and cold drinks including pop, beer, cocktails and mocktails, as well as tea and coffee. There is also a luxurious separate rest space that has a room-sized king+ bed (up a flight of stairs).
 
-**Social events are now being held on the second Tuesday of each month.**
+*Note: social events are now on the second Tuesday of each month.*
 
 ### Safety Requirements
 
@@ -51,6 +51,7 @@ Our Covid-safer social will be hosted at Sheffield’s fantastic DIY community e
 **Social inclusion**: all respectful folks welcome. No misogyny, transphobia, racism, homophobia or ableism - or any other bigotry.
 
 **Reasonable accommodation**: we will always consider requests for accommodations if you have a disability or chronic illness. Please contact us.
+
 
 
 :::
@@ -90,6 +91,7 @@ It can be hurtful or frustrating when an “accessible” event is inaccessible 
 **How can I get in touch?**
 
 Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
+
 
 
 
