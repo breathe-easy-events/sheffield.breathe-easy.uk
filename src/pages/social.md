@@ -6,17 +6,17 @@ discription: Covid-safer meet-ups in Sheffield.
 socialImage: /static/img/pxl_20250217_193154863.jpg
 socialImageAlt: ""
 ---
-![Groups of masked people sat at tables in Gut Level](/static/img/pxl_20250217_193154863.jpg)
+## Breathe Easy Birthday Party
 
-## Event Details
+Breathe Easy Sheffield is turning 2 🥳 Join us for an evening of cake, drinks, excellent company, and games as we celebrate the community we’ve built together.
 
-**Tuesday 12th May 2026, 6-9pm. Gut Level**
+![A group of masked people in party hats sitting around a table with lots of decorations surrounding them](/static/img/pxl_20250616_181100086-1-.jpg "Birthday party")
+
+**Tuesday 9th May 2026, 6-9pm. Gut Level**
 
 Our Covid-safer social will be hosted at Sheffield’s fantastic DIY community event space and collective, [Gut Level](https://gutlevel.co.uk/) (18+ age restriction). We have exclusive use of the space. A very good value (cashless) bar offers hot and cold drinks including pop, beer, cocktails and mocktails, as well as tea and coffee. There is also a luxurious separate rest space that has a room-sized king+ bed (up a flight of stairs).
 
-May 12th is World ME day. We'd love it if you could wear something blue to the social, and if it's affordable add a bit extra when paying for your ticket - Breathe Easy Sheffield will make a donation to [OMF](https://www.omf.ngo/), who undertake research and are looking into effective treatments for ME.
-
-**Please note that our social events are now being held on the second Tuesday of each month.**
+**Social events are now being held on the second Tuesday of each month.**
 
 ### Safety Requirements
 
@@ -28,7 +28,6 @@ May 12th is World ME day. We'd love it if you could wear something blue to the s
 * **Requested**: we ask that you tell us beforehand if you have a condition (eg COPD, hayfever) that causes symptoms of coughing or sneezing.
 
 ::: [show] Access and safety information
-
 **Physical access**: Indoor areas are accessible using a wheelchair. Outdoor terrace via stairs. Full details on [Gut Level website](https://gutlevel.co.uk/venue-accessibility).
 
 **Testing**: lateral flow test required beforehand for attendees and staff.
@@ -41,7 +40,7 @@ May 12th is World ME day. We'd love it if you could wear something blue to the s
 
 **Masks**: One bar staff member masked. Attendees must wear masks when indoors. Some high-quality (ffp2) masks available. Masks not required in outdoors areas.
 
-**Eating and drinking**: Drinks can be consumed on the outdoor terrace upstairs, or using a mask with a sip valve in the downstairs area. Masks required at all times while indoors.
+**Eating and drinking**: Drinks or food can be consumed on the outdoor terrace upstairs, or using a mask with a sip valve in the downstairs area. Masks required at all times while indoors.
 
 **Capacity**: max 30% (30 attendees + 4 organisers in 100-capacity venue + 30-capacity outdoor terrace).
 
@@ -52,9 +51,6 @@ May 12th is World ME day. We'd love it if you could wear something blue to the s
 **Social inclusion**: all respectful folks welcome. No misogyny, transphobia, racism, homophobia or ableism - or any other bigotry.
 
 **Reasonable accommodation**: we will always consider requests for accommodations if you have a disability or chronic illness. Please contact us.
-
-
-
 :::
 
 ::: [show] FAQs
@@ -95,6 +91,8 @@ Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
 
 
 
+
+
 :::
 
 ## Register
@@ -103,7 +101,7 @@ To book, take the following steps:
 
 1. Pay Gut Level annual membership (in advance): Gut Level kindly let us organise in their space for free, but it is a members-only club. Sign up for £2 [on their website](https://gutlevel.co.uk/membership).
 2. Pay event fee (in advance): social tickets are £3.50 per person. Payable in advance via BACS (bank transfer): details available on registering. Please note: your booking is not confirmed until you have paid.
-3. [Register here](https://forms.gle/EZ2oZmy2FHzXiBaP6)
+3. [Register here](https://forms.gle/zeZfkwA6hQmTyu4B9)
 
 > If you want to come but can’t afford a ticket, please get in touch.
 >
