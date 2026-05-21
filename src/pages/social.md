@@ -6,10 +6,9 @@ discription: Covid-safer meet-ups in Sheffield.
 socialImage: /static/img/pxl_20250217_193154863.jpg
 socialImageAlt: ""
 ---
-
 ## Event Details
 
-Breathe Easy Sheffield is celebrating two whole years of community! Join us for an evening of cake, drinks, excellent company, and a classic game of Pin the Mask on the Donkey as we celebrate everything we’ve built together.
+Breathe Easy Sheffield is two whole years old! Join us for an evening of cake, drinks, excellent company, and games as we celebrate the community we’ve built together.
 
 ![A group of masked people in party hats sitting around a table with lots of decorations surrounding them](/static/img/pxl_20250616_181100086-1-.jpg "Birthday party")
 
@@ -17,7 +16,7 @@ Breathe Easy Sheffield is celebrating two whole years of community! Join us for 
 
 Our Covid-safer social will be hosted at Sheffield’s fantastic DIY community event space and collective, [Gut Level](https://gutlevel.co.uk/) (18+ age restriction). We have exclusive use of the space. A very good value (cashless) bar offers hot and cold drinks including pop, beer, cocktails and mocktails, as well as tea and coffee. There is also a luxurious separate rest space that has a room-sized king+ bed (up a flight of stairs).
 
-**Please note that our social events are now being held on the second Tuesday of each month.**
+**Social events are now being held on the second Tuesday of each month.**
 
 ### Safety Requirements
 
@@ -29,7 +28,6 @@ Our Covid-safer social will be hosted at Sheffield’s fantastic DIY community e
 * **Requested**: we ask that you tell us beforehand if you have a condition (eg COPD, hayfever) that causes symptoms of coughing or sneezing.
 
 ::: [show] Access and safety information
-
 **Physical access**: Indoor areas are accessible using a wheelchair. Outdoor terrace via stairs. Full details on [Gut Level website](https://gutlevel.co.uk/venue-accessibility).
 
 **Testing**: lateral flow test required beforehand for attendees and staff.
@@ -42,7 +40,7 @@ Our Covid-safer social will be hosted at Sheffield’s fantastic DIY community e
 
 **Masks**: One bar staff member masked. Attendees must wear masks when indoors. Some high-quality (ffp2) masks available. Masks not required in outdoors areas.
 
-**Eating and drinking**: Drinks can be consumed on the outdoor terrace upstairs, or using a mask with a sip valve in the downstairs area. Masks required at all times while indoors.
+**Eating and drinking**: Drinks or food can be consumed on the outdoor terrace upstairs, or using a mask with a sip valve in the downstairs area. Masks required at all times while indoors.
 
 **Capacity**: max 30% (30 attendees + 4 organisers in 100-capacity venue + 30-capacity outdoor terrace).
 
@@ -53,10 +51,6 @@ Our Covid-safer social will be hosted at Sheffield’s fantastic DIY community e
 **Social inclusion**: all respectful folks welcome. No misogyny, transphobia, racism, homophobia or ableism - or any other bigotry.
 
 **Reasonable accommodation**: we will always consider requests for accommodations if you have a disability or chronic illness. Please contact us.
-
-
-
-
 :::
 
 ::: [show] FAQs
@@ -94,6 +88,7 @@ It can be hurtful or frustrating when an “accessible” event is inaccessible 
 **How can I get in touch?**
 
 Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
+
 
 
 
