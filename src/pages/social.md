@@ -10,7 +10,7 @@ socialImageAlt: ""
 
 Come and celebrate the summer with us at our July social. There's a cool inside space, a fully covered outdoor terrace, and a sunny rooftop patio, so grab a mask and a drink and we'll see you there!
 
-![A group of masked people in party hats sitting around a table with lots of decorations surrounding them](/static/img/pxl_20250616_181100086-2.jpg "Birthday party")
+![]()
 
 **Tuesday 9th June 2026, 6-9pm. Gut Level**
 
@@ -54,6 +54,7 @@ Our Covid-safer social will be hosted at Sheffield’s fantastic DIY community e
 
 
 
+
 :::
 
 ::: [show] FAQs
@@ -91,6 +92,7 @@ It can be hurtful or frustrating when an “accessible” event is inaccessible 
 **How can I get in touch?**
 
 Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
+
 
 
 
