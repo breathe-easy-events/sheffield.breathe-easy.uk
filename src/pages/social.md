@@ -8,7 +8,7 @@ socialImageAlt: ""
 ---
 ## Breathe Easy Summer Social
 
-Come and celebrate the summer with us at our July Covid-safer social. There's a cool inside space, a fully covered outdoor terrace, and a sunny rooftop patio, so grab a mask and a drink and we'll see you there!
+Come and celebrate the summer with us at our Covid-safer social. There's a cool inside space, a fully covered outdoor terrace, and a sunny rooftop patio, so grab a mask and a drink and we'll see you there!
 
 ![]()
 
