@@ -10,9 +10,9 @@ socialImageAlt: ""
 
 Come and celebrate the summer with us at our July social. There's a cool inside space, a fully covered outdoor terrace, and a sunny rooftop patio, so grab a mask and a drink and we'll see you there!
 
-![A group of masked people in party hats sitting around a table with lots of decorations surrounding them](/static/img/summer-be.jpg "Birthday party")
+![A group of people outside sitting around a table, most people are wearing masks and there are flowers in the background in nice pots](/static/img/summer-be.jpg "Summer social")
 
-**Tuesday 9th June 2026, 6-9pm. Gut Level**
+**Tuesday 14th July 2026, 6-9pm. Gut Level**
 
 Our Covid-safer social will be hosted at Sheffield’s fantastic DIY community event space and collective, [Gut Level](https://gutlevel.co.uk/) (18+ age restriction). We have exclusive use of the space. A very good value (cashless) bar offers hot and cold drinks including pop, beer, cocktails and mocktails, as well as tea and coffee. There is also a luxurious separate rest space that has a room-sized king+ bed (up a flight of stairs).
 
@@ -55,6 +55,7 @@ Our Covid-safer social will be hosted at Sheffield’s fantastic DIY community e
 
 
 
+
 :::
 
 ::: [show] FAQs
@@ -92,6 +93,7 @@ It can be hurtful or frustrating when an “accessible” event is inaccessible 
 **How can I get in touch?**
 
 Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
+
 
 
 
