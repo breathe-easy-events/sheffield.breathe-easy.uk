@@ -36,6 +36,7 @@ If you don’t have much time, check out: [🤯 Where to start if you’re overw
 
 
 
+
 :::
 
 These days Covid is mostly talked about in the past tense. Covid-19 safety measures are no longer common, so you need to explain why you are putting them back in place to avoid confusion.
@@ -51,6 +52,7 @@ Ask people at your event how your Covid measures impacted them. Seek feedback in
 ::: [fyi]
 
 🛎️ Don’t have much time? Check out [🤯 Where to start if you’re overwhelmed](#where-to-start-if-youre-overwhelmed)
+
 
 
 
@@ -136,19 +138,19 @@ Air purification uses air filters to remove particles such as allergens, exhaust
 
 - - -
 
-### 6. CO2 monitoring 📈
+### 6. Ventilation (CO2) monitoring 📈
 
 CO2 monitors tell you how ventilated your event space is. Humans breathe out carbon dioxide (CO2), so the level of CO2 in a space can tell you how much of the air has been breathed out by other people and is a useful proxy measure for the risk of infection with airborne illnesses. As a general rule, a higher level of CO2 means a higher risk. When you let in fresh air to your event space, CO2 levels and infection risk will reduce.
 
-💚 Robust: There is a CO2 monitor in a central location and event organisers take action to improve ventilation if CO2 levels go too high.
+💚 Robust: There is a ventilation monitor in a central location and event organisers take action to improve ventilation if CO2 levels go too high.
 
-🟠 Minimum: There is a CO2 monitor in place for information only.
+🟠 Minimum: There is a ventilation monitor in place for information only.
 
-💔 Absent: No CO2 monitoring.
+💔 Absent: No ventilation monitoring.
 
-👣 **Step-by-step guide:** [CO2 monitoring: how can I put this measure in place?](#6-co2-monitoring-1)
+👣 **Step-by-step guide:** [ventilation monitoring: how can I put this measure in place?](#6-co2-monitoring-1)
 
-🧪 **The Science:** [CO2 monitoring: why is this measure helpful?](#6-co2-monitoring-the-science-why-is-this-measure-helpful)
+🧪 **The Science:** [ventilation monitoring: why is this measure helpful?](#6-co2-monitoring-the-science-why-is-this-measure-helpful)
 
 - - -
 
@@ -189,6 +191,7 @@ We don’t include vaccination on our list of suggested safety measures because 
 ::: [fyi]
 
 🛎️ Remember: it’s better to use _any_ safety measures than none at all.
+
 
 
 
@@ -337,7 +340,7 @@ Use your common sense to plan adequate ventilation for the size of your space an
 
 #### Check your ventilation. 
 
-You can use [a CO2 monitor](#6-co2-monitoring-1) to check how well ventilated your space is. You might be surprised that your space is better naturally/mechanically ventilated than you think!
+You can use [a ventilation monitor](#6-co2-monitoring-1) to check how well ventilated your space is. You might be surprised that your space is better naturally/mechanically ventilated than you think!
 
 [Back to ventilation](#4-ventilation)
 
@@ -361,6 +364,7 @@ Any good quality purifier is better than nothing! However, the size of your even
 
 
 
+
 :::
 
 You can buy a good quality High Efficiency Particulate Air (HEPA) purifier for ~£200 upwards. These [clean air calculators](https://smartairfilters.com/uk/en/learn/calculators/) help you calculate Air Changes Per Hour of an air purifier and compare cost effectiveness of up to three air purifiers sold by Smart Air (we use [Smart Air SA600 filters at our events](https://smartairfilters.com/uk/en/product/sa600-air-purifier-5-speed-version/)). Purifiers have filters that should be replaced occasionally for continued effectiveness, so have a look at the expected filter lifespan and factor this into your budget.
@@ -377,7 +381,7 @@ Purifiers with additional technologies such as ionization or plasma wave are [la
 
 [Back to air purification](#5-air-purification)
 
-### 6. CO2 monitoring 📈
+### 6. Ventilation monitoring 📈
 
 How can I put this measure in place??
 
@@ -398,6 +402,7 @@ Make a simple plan for your CO2 monitoring. To maintain safer levels of ventilat
 ::: [fyi]
 
 🛎️ You can borrow a Breathe Easy CO2 monitor for free - [request a CO2 monitor now](https://forms.gle/tVTKe8x7DoKGNcXVA).
+
 
 
 
@@ -450,6 +455,7 @@ Some people at your event may be Deaf or hard of hearing and may use lip reading
 ::: [fyi]
 
 🛎️ Can’t afford masks? Order some for free from [Sheffield Mask Bloc](https://linksta.cc/@sheffieldmaskbloc?ref=mediaactivist.com)
+
 
 
 
@@ -527,14 +533,14 @@ This is a live evidence list. We will seek to keep it updated with robust recent
 
 [Back to air purification](#5-air-purification)
 
-#### 6. CO2 monitoring: The Science: Why is this measure helpful?
+#### 6. Ventilation monitoring: The Science: Why is this measure helpful?
 
 * Expert consensus: [Mandating indoor air quality for public buildings](https://www.science.org/doi/10.1126/science.adl0677) (paywall) [PDF of article](https://drive.google.com/file/d/16l_IH47cQtC7fFuafvHca7ORNVGITxx8/view) or [news article](https://www.leeds.ac.uk/news-science/news/article/5544/mandating-indoor-air-quality-for-public-buildings)
 * Study: [Ambient carbon dioxide concentration correlates with SARS-CoV-2 aerostability and infection risk](https://www.nature.com/articles/s41467-024-47777-5) or [article on the study](https://www.bristol.ac.uk/news/2024/april/carbon-dioxide-aerosol-study.html)
 * Study: [A post-occupancy study of ventilation effectiveness from high-resolution CO2 monitoring at live theatre events to mitigate airborne transmission of SARS-CoV-2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9339161/#sec5)
 * Guide: [Unite Covid-19 Guide on Ventilation and CO2 monitoring](https://www.unitetheunion.org/media/4065/2021-09-08-covid19guideventilationetco2monitoring2.pdf)
 
-[Back to CO2 monitoring](#6-co2-monitoring)
+[Back to ventilation monitoring](#6-co2-monitoring)
 
 #### 7. Wearing masks: The Science: Why is this measure helpful?
 
