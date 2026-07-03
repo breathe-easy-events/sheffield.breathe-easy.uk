@@ -35,6 +35,7 @@ If you don’t have much time, check out: [🤯 Where to start if you’re overw
 🛎️ Communicate your Covid safety measures in advance to everyone who will be in your event space, so they know what to do and expect.
 
 
+
 :::
 
 These days Covid is mostly talked about in the past tense. Covid-19 safety measures are no longer common, so you need to explain why you are putting them back in place to avoid confusion.
@@ -50,6 +51,7 @@ Ask people at your event how your Covid measures impacted them. Seek feedback in
 ::: [fyi]
 
 🛎️ Don’t have much time? Check out [🤯 Where to start if you’re overwhelmed](#where-to-start-if-youre-overwhelmed)
+
 
 
 :::
@@ -136,7 +138,7 @@ Air purification uses air filters to remove particles such as allergens, exhaust
 
 ### 6. CO2 monitoring 📈
 
-CO2 monitors tell you how ventilated your event space is. Humans breathe out carbon dioxide (CO2), so the level of CO2 in a space tells you how much of the air has been breathed out by other people and is a useful proxy measure for the risk of infection with airborne illnesses. As a general rule, a higher level of CO2 means a higher risk. When you let in fresh air to your event space, CO2 levels and infection risk will reduce.
+CO2 monitors tell you how ventilated your event space is. Humans breathe out carbon dioxide (CO2), so the level of CO2 in a space can tell you how much of the air has been breathed out by other people and is a useful proxy measure for the risk of infection with airborne illnesses. As a general rule, a higher level of CO2 means a higher risk. When you let in fresh air to your event space, CO2 levels and infection risk will reduce.
 
 💚 Robust: There is a CO2 monitor in a central location and event organisers take action to improve ventilation if CO2 levels go too high.
 
@@ -187,6 +189,7 @@ We don’t include vaccination on our list of suggested safety measures because 
 ::: [fyi]
 
 🛎️ Remember: it’s better to use _any_ safety measures than none at all.
+
 
 
 :::
@@ -357,6 +360,7 @@ Any good quality purifier is better than nothing! However, the size of your even
 🛎️ Borrow Breathe Easy purifiers for free - [fill out our purifier request form](https://forms.gle/tVTKe8x7DoKGNcXVA).
 
 
+
 :::
 
 You can buy a good quality High Efficiency Particulate Air (HEPA) purifier for ~£200 upwards. These [clean air calculators](https://smartairfilters.com/uk/en/learn/calculators/) help you calculate Air Changes Per Hour of an air purifier and compare cost effectiveness of up to three air purifiers sold by Smart Air (we use [Smart Air SA600 filters at our events](https://smartairfilters.com/uk/en/product/sa600-air-purifier-5-speed-version/)). Purifiers have filters that should be replaced occasionally for continued effectiveness, so have a look at the expected filter lifespan and factor this into your budget.
@@ -394,6 +398,7 @@ Make a simple plan for your CO2 monitoring. To maintain safer levels of ventilat
 ::: [fyi]
 
 🛎️ You can borrow a Breathe Easy CO2 monitor for free - [request a CO2 monitor now](https://forms.gle/tVTKe8x7DoKGNcXVA).
+
 
 
 :::
@@ -445,6 +450,7 @@ Some people at your event may be Deaf or hard of hearing and may use lip reading
 ::: [fyi]
 
 🛎️ Can’t afford masks? Order some for free from [Sheffield Mask Bloc](https://linksta.cc/@sheffieldmaskbloc?ref=mediaactivist.com)
+
 
 
 :::
