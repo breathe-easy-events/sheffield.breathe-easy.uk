@@ -8,11 +8,11 @@ socialImageAlt: ""
 ---
 ## Breathe Easy Summer Social
 
-Come and celebrate the summer with us at our July social. There's a cool inside space, a fully covered outdoor terrace, and a sunny rooftop patio, so grab a mask and a drink and we'll see you there!
+Gut Level is closed for a couple of weeks in August so there is no social this month, we'll be back in September. Details about the social are below but registration will not be open until the end of August / start of September.
 
 ![A group of people outside sitting around a table, most people are wearing masks and there are flowers in the background in nice pots](/static/img/summer-be.jpg "Summer social")
 
-**Tuesday 14th July 2026, 6-9pm. Gut Level**
+**Tuesday 8th September 2026, 6-9pm. Gut Level**
 
 Our Covid-safer social will be hosted at Sheffield’s fantastic DIY community event space and collective, [Gut Level](https://gutlevel.co.uk/) (18+ age restriction). We have exclusive use of the space. A very good value (cashless) bar offers hot and cold drinks including pop, beer, cocktails and mocktails, as well as tea and coffee. There is also a luxurious separate rest space that has a room-sized king+ bed (up a flight of stairs).
 
@@ -51,6 +51,7 @@ Our Covid-safer social will be hosted at Sheffield’s fantastic DIY community e
 **Social inclusion**: all respectful folks welcome. No misogyny, transphobia, racism, homophobia or ableism - or any other bigotry.
 
 **Reasonable accommodation**: we will always consider requests for accommodations if you have a disability or chronic illness. Please contact us.
+
 
 
 
@@ -103,6 +104,7 @@ Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
 
 
 
+
 :::
 
 ## Register
@@ -111,7 +113,7 @@ To book, take the following steps:
 
 1. Pay Gut Level annual membership (in advance): Gut Level kindly let us organise in their space for free, but it is a members-only club. Sign up for £2 [on their website](https://gutlevel.co.uk/membership).
 2. Pay event fee (in advance): social tickets are £3.50 per person. Payable in advance via BACS (bank transfer): details available on registering. Please note: your booking is not confirmed until you have paid.
-3. [Register here](https://forms.gle/ZN25i7vyRREmpmn4A)
+3. **Registration will open at the end of august**
 
 > If you want to come but can’t afford a ticket, please get in touch.
 >
