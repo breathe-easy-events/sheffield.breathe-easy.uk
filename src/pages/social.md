@@ -8,8 +8,6 @@ socialImageAlt: ""
 ---
 ## Breathe Easy September Social + Clothes Swap
 
-
-
 ![A group of people outside sitting around a table, most people are wearing masks and there are flowers in the background in nice pots](/static/img/summer-be.jpg "Summer social")
 
 **Tuesday 8th September 2026, 6-9pm. Gut Level**
@@ -23,6 +21,9 @@ We invite you to bring your pre-loved clothes and take home something new!
 * We cannot store unswapped items - be ready to take home any unswapped items 
 * Swap open to all - if you don’t have anything to bring, you can still choose an item to take home
 * Trust-based swapping - we won’t be counting, but please be conscientious and take considerately
+* We'll set up on arrival and start the swapping at ~6.30/7.00pm
+
+Come for the clothes, stay for the socialising - or choose not to take part. Swapping is totally optional and social spaces will be open for hanging out separate to the swap.
 
 Our Covid-safer social will be hosted at Sheffield’s fantastic DIY community event space and collective, [Gut Level](https://gutlevel.co.uk/) (18+ age restriction). We have exclusive use of the space. A very good value (cashless) bar offers hot and cold drinks including pop, beer, cocktails and mocktails, as well as tea and coffee. There is also a luxurious separate rest space that has a room-sized king+ bed (up a flight of stairs).
 
@@ -61,6 +62,7 @@ Our Covid-safer social will be hosted at Sheffield’s fantastic DIY community e
 **Social inclusion**: all respectful folks welcome. No misogyny, transphobia, racism, homophobia or ableism - or any other bigotry.
 
 **Reasonable accommodation**: we will always consider requests for accommodations if you have a disability or chronic illness. Please contact us.
+
 
 
 
@@ -117,6 +119,7 @@ Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
 
 
 
+
 :::
 
 ## Register
@@ -125,7 +128,7 @@ To book, take the following steps:
 
 1. Pay Gut Level annual membership (in advance): Gut Level kindly let us organise in their space for free, but it is a members-only club. Sign up for £2 [on their website](https://gutlevel.co.uk/membership).
 2. Pay event fee (in advance): social tickets are £4.00 per person. Payable in advance via BACS (bank transfer): details available on registering. Please note: your booking is not confirmed until you have paid.
-3. Register here: 
+3. Register here: <https://forms.gle/7reojCFP8h1UePMt6>
 
 > If you want to come but can’t afford a ticket, please get in touch.
 >
