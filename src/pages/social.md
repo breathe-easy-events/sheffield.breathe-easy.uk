@@ -6,17 +6,27 @@ discription: Covid-safer meet-ups in Sheffield.
 socialImage: /static/img/pxl_20250217_193154863.jpg
 socialImageAlt: ""
 ---
-## Breathe Easy Summer Social
+## Breathe Easy September Social + Clothes Swap
 
-Gut Level is closed for a couple of weeks in August so there is no social this month, we'll be back in September. Details about the social are below but registration will not be open until the end of August / start of September.
+
 
 ![A group of people outside sitting around a table, most people are wearing masks and there are flowers in the background in nice pots](/static/img/summer-be.jpg "Summer social")
 
 **Tuesday 8th September 2026, 6-9pm. Gut Level**
 
+Alongside our regular social, we’ll be hosting an all-gender / gender neutral clothes swap. 
+
+We invite you to bring your pre-loved clothes and take home something new!
+
+* Bring clothes to swap that are clean and undamaged
+* Clothes will be broadly sorted into S, M, L sizes
+* We cannot store unswapped items - be ready to take home any unswapped items 
+* Swap open to all - if you don’t have anything to bring, you can still choose an item to take home
+* Trust-based swapping - we won’t be counting, but please be conscientious and take considerately
+
 Our Covid-safer social will be hosted at Sheffield’s fantastic DIY community event space and collective, [Gut Level](https://gutlevel.co.uk/) (18+ age restriction). We have exclusive use of the space. A very good value (cashless) bar offers hot and cold drinks including pop, beer, cocktails and mocktails, as well as tea and coffee. There is also a luxurious separate rest space that has a room-sized king+ bed (up a flight of stairs).
 
-*Note: social events are now on the second Tuesday of each month.*
+*Note: socials are now on the second Tuesday of each month.*
 
 ### Safety Requirements
 
@@ -51,6 +61,7 @@ Our Covid-safer social will be hosted at Sheffield’s fantastic DIY community e
 **Social inclusion**: all respectful folks welcome. No misogyny, transphobia, racism, homophobia or ableism - or any other bigotry.
 
 **Reasonable accommodation**: we will always consider requests for accommodations if you have a disability or chronic illness. Please contact us.
+
 
 
 
@@ -105,6 +116,7 @@ Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
 
 
 
+
 :::
 
 ## Register
@@ -112,8 +124,8 @@ Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
 To book, take the following steps:
 
 1. Pay Gut Level annual membership (in advance): Gut Level kindly let us organise in their space for free, but it is a members-only club. Sign up for £2 [on their website](https://gutlevel.co.uk/membership).
-2. Pay event fee (in advance): social tickets are £3.50 per person. Payable in advance via BACS (bank transfer): details available on registering. Please note: your booking is not confirmed until you have paid.
-3. **Registration will open at the end of august**
+2. Pay event fee (in advance): social tickets are £4.00 per person. Payable in advance via BACS (bank transfer): details available on registering. Please note: your booking is not confirmed until you have paid.
+3. Register here: 
 
 > If you want to come but can’t afford a ticket, please get in touch.
 >
