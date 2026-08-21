@@ -8,7 +8,7 @@ socialImageAlt: ""
 ---
 ## Breathe Easy September Social + Clothes Swap
 
-![A group of people outside sitting around a table, most people are wearing masks and there are flowers in the background in nice pots](/static/img/summer-be.jpg "Summer social")
+![A group of people outside sitting around a table, most people are wearing masks and there are flowers in the background in nice pots](/static/img/pxl_20250217_193154863.jpg "Summer social")
 
 **Tuesday 8th September 2026, 6-9pm. Gut Level**
 
