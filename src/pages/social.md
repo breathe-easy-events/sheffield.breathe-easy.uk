@@ -8,24 +8,15 @@ socialImageAlt: ""
 ---
 ## Breathe Easy Social + Clothes Swap
 
-![A group of people outside sitting around a table, most people are wearing masks and there are flowers in the background in nice pots](/static/img/pxl_20250915_193038562.jpg "Summer social")
+![A person in a mask holding a lino cut of a spider](/static/img/pxl_20250915_193038562.jpg "Halloween social")
 
-**Tuesday 8th September 2026, 6-9pm. Gut Level**
+**Tuesday 13th October 2026, 6-9pm. Gut Level**
 
-Alongside our regular social this September, we’ll be hosting an all-gender / gender neutral clothes swap. 
+It's spooky season! So our October meet-up will have a light Halloween theme. 🎃
 
-We invite you to bring your pre-loved clothes and take home something new!
+Join us for a drink, a chat, and a short Halloween quiz! Dress up encouraged (optional) - and you will also get to enjoy our ghoulish music playlist 🦇
 
-* Bring clothes to swap that are clean and undamaged
-* Clothes will be broadly sorted into S, M, L sizes
-* We cannot store unswapped items - be ready to take home any unswapped items 
-* Swap open to all - if you don’t have anything to bring, you can still choose an item to take home
-* Trust-based swapping - we won’t be counting, but please be conscientious and take considerately
-* We'll set up on arrival and start the swapping at ~6.30/7.00pm
-
-Come for the clothes, stay for the socialising - or choose not to take part. Swapping is totally optional and social spaces will be open for hanging out separate to the swap.
-
-Our Covid-safer social will be hosted at Sheffield’s fantastic DIY community event space and collective, [Gut Level](https://gutlevel.co.uk/) (18+ age restriction). We have exclusive use of the space. A very good value (cashless) bar offers hot and cold drinks including pop, beer, cocktails and mocktails, as well as tea and coffee. There is also a luxurious separate rest space that has a room-sized king+ bed (up a flight of stairs).
+As usual, our Covid-safer social will be hosted at Sheffield’s fantastic DIY community event space and collective, [Gut Level](https://gutlevel.co.uk/) (18+ age restriction). We have exclusive use of the space. A very good value (cashless) bar offers hot and cold drinks including pop, beer, cocktails and mocktails, as well as tea and coffee. There is also a luxurious separate rest space that has a room-sized king+ bed (up a flight of stairs).
 
 *Note: socials are now on the second Tuesday of each month.*
 
