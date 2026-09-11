@@ -8,7 +8,7 @@ socialImageAlt: ""
 ---
 ## Breathe Easy Social + Clothes Swap
 
-![A group of people outside sitting around a table, most people are wearing masks and there are flowers in the background in nice pots](/static/img/pxl_20250217_193154863.jpg "Summer social")
+![A group of people outside sitting around a table, most people are wearing masks and there are flowers in the background in nice pots](/static/img/pxl_20250915_193038562.webp "Summer social")
 
 **Tuesday 8th September 2026, 6-9pm. Gut Level**
 
@@ -71,6 +71,7 @@ Our Covid-safer social will be hosted at Sheffield’s fantastic DIY community e
 
 
 
+
 :::
 
 ::: [show] FAQs
@@ -108,6 +109,7 @@ It can be hurtful or frustrating when an “accessible” event is inaccessible 
 **How can I get in touch?**
 
 Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
+
 
 
 
