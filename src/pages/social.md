@@ -6,7 +6,7 @@ discription: Covid-safer meet-ups in Sheffield.
 socialImage: /static/img/pxl_20250217_193154863.jpg
 socialImageAlt: ""
 ---
-## Breathe Easy Social + Clothes Swap
+## Breathe Easy October '26 Halloween social
 
 ![A person in a mask holding a lino cut of a spider](/static/img/pxl_20250915_193038562.jpg "Halloween social")
 
@@ -64,6 +64,7 @@ As usual, our Covid-safer social will be hosted at Sheffield’s fantastic DIY c
 
 
 
+
 :::
 
 ::: [show] FAQs
@@ -101,6 +102,7 @@ It can be hurtful or frustrating when an “accessible” event is inaccessible 
 **How can I get in touch?**
 
 Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
+
 
 
 
