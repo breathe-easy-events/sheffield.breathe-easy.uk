@@ -125,7 +125,7 @@ To book, take the following steps:
 
 1. Pay Gut Level annual membership (in advance): Gut Level kindly let us organise in their space for free, but it is a members-only club. Sign up for £2 [on their website](https://gutlevel.co.uk/membership).
 2. Pay event fee (in advance): social tickets are £4.00 per person. Payable in advance via BACS (bank transfer): details available on registering. Please note: your booking is not confirmed until you have paid.
-3. Register here: <https://forms.gle/7reojCFP8h1UePMt6>
+3. Register here: <https://forms.gle/NA5H9p6Li9KkmXBRA>
 
 > If you want to come but can’t afford a ticket, please get in touch.
 >
