@@ -8,7 +8,7 @@ socialImageAlt: ""
 ---
 ## Breathe Easy Halloween social
 
-![A person in a mask holding a lino cut of a spider](/static/img/pxl_20250915_193038562.jpg "Halloween social")
+![](/static/img/lino.jpg)
 
 **Tuesday 13th October 2026, 6-9pm. Gut Level**
 
@@ -66,6 +66,7 @@ As usual, our Covid-safer social will be hosted at Sheffield’s fantastic DIY c
 
 
 
+
 :::
 
 ::: [show] FAQs
@@ -103,6 +104,7 @@ It can be hurtful or frustrating when an “accessible” event is inaccessible 
 **How can I get in touch?**
 
 Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
+
 
 
 
