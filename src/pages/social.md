@@ -6,19 +6,43 @@ discription: Covid-safer meet-ups in Sheffield.
 socialImage: /static/img/pxl_20250217_193154863.jpg
 socialImageAlt: ""
 ---
-## Breathe Easy Halloween social
+## Breathe Easy Festive Card-Printing + Social
 
 ![](/static/img/lino.jpg)
 
-**Tuesday 13th October 2026, 6-9pm. Gut Level**
+**Tuesday 10th November 2026, 6-9pm. Gut Level**
 
-It's spooky season! So our October meet-up will have a light Halloween theme. 🎃
+Our ever-popular lino-printing workshop is back with a seasonal twist! Led by fantastic Sheffield-based printmaker Sarah Calcutt of [*Heath and Mud* magazine](https://linktr.ee/calcs.prints).
 
-Join us for a drink, a chat, and a short Halloween quiz! Dress up encouraged (optional) - and you will also get to enjoy our ghoulish music playlist 🦇
+Social-only tickets are also available if you just want to enjoy a drink and a chat.
 
-As usual, our Covid-safer social will be hosted at Sheffield’s fantastic DIY community event space and collective, [Gut Level](https://gutlevel.co.uk/) (18+ age restriction). We have exclusive use of the space. A very good value (cashless) bar offers hot and cold drinks including pop, beer, cocktails and mocktails, as well as tea and coffee. There is also a luxurious separate rest space that has a room-sized king+ bed (up a flight of stairs).
+As usual, our Covid-safer meet-up will be hosted at Sheffield’s fantastic DIY community event space and collective, [Gut Level](https://gutlevel.co.uk/) (18+ age restriction). We have exclusive use of the space. A very good value (cashless) bar offers hot and cold drinks including pop, beer, cocktails and mocktails, as well as tea and coffee. There is also a luxurious separate rest space that has a room-sized king+ bed (up a flight of stairs).
 
-*Note: socials are now on the second Tuesday of each month.*
+### Lino-printing and card crafts
+
+* Open to beginners and seasoned lino-cutters.
+* All equipment and printing materials provided.
+* Guided instruction plus one-to-one advice.
+* Have a go at any or all of the process according to your interest and ability! You can:
+
+  * draw something yourself to carve and print
+  * bring a design with you (eg from the internet) to carve and print
+  * carve and print one of the provided images and patterns
+  * avoid using the carving tools and print one of the pre-carved designs
+  * make a card *without* lino-printing - craft bits and pieces provided
+* Ink can spill - wear something you don’t mind getting stained.
+* Lino cutting involves sharp tools! Follow our safety advice.
+* Your designs may still be wet at the end - bring a way to get them home safe!
+
+Your tutorwill beSarah who is a Covid-conscious printmaker. Sarah edits the beautiful [Heath and Mud ](https://linktr.ee/calcs.prints)[magazine](https://linktr.ee/calcs.prints), which celebrates the landscape and folklore of the Peak District through art and creativity. *Heath and Mud* champions inclusivity and raises money for Peak District charities. You will have the chance to buy a copy of H&M at the event (they make great stocking-fillers!)
+
+### Social-only tickets
+
+Lino-printing and crafts not your thing? Our social will be running as usual for drinks and chats.
+
+The social will happen around the workshop, so you can mix in the downstairs space. We ask that you keep the chat volume in the downstairs area to a quiet-ish level so that the workshop instructor can be heard.
+
+*Note: socials are always on the second Tuesday of each month.*
 
 ### Safety Requirements
 
@@ -53,6 +77,8 @@ As usual, our Covid-safer social will be hosted at Sheffield’s fantastic DIY c
 **Social inclusion**: all respectful folks welcome. No misogyny, transphobia, racism, homophobia or ableism - or any other bigotry.
 
 **Reasonable accommodation**: we will always consider requests for accommodations if you have a disability or chronic illness. Please contact us.
+
+
 
 
 
@@ -123,6 +149,8 @@ Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
 
 
 
+
+
 :::
 
 ## Register
@@ -130,7 +158,7 @@ Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
 To book, take the following steps:
 
 1. Pay Gut Level annual membership (in advance): Gut Level kindly let us organise in their space for free, but it is a members-only club. Sign up for £2 [on their website](https://gutlevel.co.uk/membership).
-2. Pay event fee (in advance): social tickets are £4.00 per person. Payable in advance via BACS (bank transfer): details available on registering. Please note: your booking is not confirmed until you have paid.
+2. Pay event fee (in advance): Lino printing tickets are £8.00 per person, social-only tickets are £4.00 per person. Payable in advance via BACS (bank transfer): details available on registering. Please note: your booking is not confirmed until you have paid.
 3. Register here: <https://forms.gle/NA5H9p6Li9KkmXBRA>
 
 > If you want to come but can’t afford a ticket, please get in touch.
