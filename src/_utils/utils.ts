@@ -15,7 +15,15 @@ export namespace TS {
 
 export namespace HappyDom {
   export const dom = (content: string) => {
-    const window = new Window();
+    const window = new Window({
+      settings: {
+        disableJavaScriptEvaluation: true,
+        disableJavaScriptFileLoading: true,
+        disableCSSFileLoading: true,
+        disableIframePageLoading: true,
+        disableComputedStyleRendering: true,
+      },
+    });
     const document = window.document;
     document.body.innerHTML = content;
     return document;

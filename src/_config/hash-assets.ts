@@ -1,8 +1,9 @@
 import { Window } from "happy-dom";
 import * as fs from "fs";
-import { getHashedName } from "asset-hash";
 import * as url from "url";
 import { HappyDom } from "../_utils/utils";
+import { createHash } from "node:crypto";
+import * as path from "node:path";
 const __dirname = url.fileURLToPath(new URL(".", import.meta.url));
 
 const memoize = (func) => {
@@ -19,8 +20,16 @@ const memoize = (func) => {
   };
 };
 
-const getHash = async (filePath) =>
-  await getHashedName(filePath).catch((err) => console.log(err));
+const getHash = async (filePath: string) => {
+  try {
+    const buf = await fs.promises.readFile(filePath);
+    const hash = createHash("md5").update(buf).digest("hex").slice(0, 8);
+    const { name, ext } = path.parse(filePath);
+    return `${name}.${hash}${ext}`;
+  } catch (err) {
+    console.log(err);
+  }
+};
 
 export const hashAssets = (eleventyConfig: any, pluginOptions = {}) => {
   const SELECTOR = pluginOptions.selector || "[data-asset-hash]";
