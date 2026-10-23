@@ -34,7 +34,7 @@ As usual, our Covid-safer meet-up will be hosted at Sheffield’s fantastic DIY 
 * Lino cutting involves sharp tools! Follow our safety advice.
 * Your designs may still be wet at the end - bring a way to get them home safe!
 
-Your tutorwill beSarah who is a Covid-conscious printmaker. Sarah edits the beautiful [Heath and Mud ](https://linktr.ee/calcs.prints)[magazine](https://linktr.ee/calcs.prints), which celebrates the landscape and folklore of the Peak District through art and creativity. *Heath and Mud* champions inclusivity and raises money for Peak District charities. You will have the chance to buy a copy of H&M at the event (they make great stocking-fillers!)
+Your tutor will be Sarah who is a Covid-conscious printmaker. Sarah edits the beautiful [Heath and Mud ](https://linktr.ee/calcs.prints)[magazine](https://linktr.ee/calcs.prints), which celebrates the landscape and folklore of the Peak District through art and creativity. *Heath and Mud* champions inclusivity and raises money for Peak District charities. You will have the chance to buy a copy of H&M at the event (they make great stocking-fillers!)
 
 ### Social-only tickets
 
@@ -77,6 +77,8 @@ The social will happen around the workshop, so you can mix in the downstairs spa
 **Social inclusion**: all respectful folks welcome. No misogyny, transphobia, racism, homophobia or ableism - or any other bigotry.
 
 **Reasonable accommodation**: we will always consider requests for accommodations if you have a disability or chronic illness. Please contact us.
+
+
 
 
 
@@ -151,6 +153,8 @@ Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
 
 
 
+
+
 :::
 
 ## Register
@@ -159,7 +163,7 @@ To book, take the following steps:
 
 1. Pay Gut Level annual membership (in advance): Gut Level kindly let us organise in their space for free, but it is a members-only club. Sign up for £2 [on their website](https://gutlevel.co.uk/membership).
 2. Pay event fee (in advance): Lino printing tickets are £8.00 per person, social-only tickets are £4.00 per person. Payable in advance via BACS (bank transfer): details available on registering. Please note: your booking is not confirmed until you have paid.
-3. Register here: [https://forms.gle/8xbFaudgRNRWrJ7SA](https://forms.gle/NA5H9p6Li9KkmXBRA)
+3. Register here: <https://forms.gle/pebhst7vdxBj11WN7>
 
 > If you want to come but can’t afford a ticket, get in touch.
 >
