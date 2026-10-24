@@ -12,7 +12,9 @@ socialImageAlt: ""
 
 **Tuesday 10th November 2026, 6-9pm. Gut Level**
 
-Our ever-popular lino-printing workshop is back with a seasonal twist! Led by fantastic Sheffield-based printmaker Sarah Calcutt of [*Heath and Mud* magazine](https://linktr.ee/calcs.prints).
+Make and take home some festive lino-print cards ready for sending at Christmas!
+
+Our ever-popular lino-printing workshop is back with a seasonal twist. Led by fantastic Sheffield-based printmaker Sarah Calcutt of [*Heath and Mud* magazine](https://linktr.ee/calcs.prints).
 
 Social-only tickets are also available if you just want to enjoy a drink and a chat.
 
@@ -95,6 +97,7 @@ The social will happen around the workshop, so you can mix in the downstairs spa
 
 
 
+
 :::
 
 ::: [show] FAQs
@@ -132,6 +135,7 @@ It can be hurtful or frustrating when an “accessible” event is inaccessible 
 **How can I get in touch?**
 
 Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
+
 
 
 
