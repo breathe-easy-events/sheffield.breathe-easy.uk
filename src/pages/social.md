@@ -14,13 +14,13 @@ socialImageAlt: ""
 
 ‘Tis the season to get together.
 
-We know festivities can be challenging for infection-cautious folks. So we are going Full On Christmas for our Covid-conscious December social: join us at Gut Level for a little festive party!
+Now an annual tradition, we are going Full On Christmas for our Covid-conscious December social. Join us at Gut Level for a little festive party!
 
-Join the Breathe Easy Christmas do:
+Come to the Breathe Easy Christmas do:
 
 * Secret Santa: Bring a gift (£5 max) if possible - not required if you can’t afford.
 * Sparkles: feel free to dress up in your festive glitz or best Christmas jumper.
-* Cheesy tunes: enjoy a co-created playlist of your seasonal favourites.
+* Cheesey tunes: enjoy a co-created playlist of your seasonal favourites.
 * Sugar rush: plant-based mince pies will be available on the terrace.
 * Festive fun: we’ll run a short creative party game to play in teams.
 
@@ -65,6 +65,7 @@ As usual, our Covid-safer meet-up will be hosted at Sheffield’s fantastic DIY 
 **Reasonable accommodation**: we will always consider requests for accommodations if you have a disability or chronic illness. Please contact us.
 
 
+
 :::
 
 ::: [show] FAQs
@@ -102,6 +103,7 @@ It can be hurtful or frustrating when an “accessible” event is inaccessible 
 **How can I get in touch?**
 
 Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
+
 
 
 
