@@ -8,9 +8,9 @@ socialImageAlt: ""
 ---
 ## Breathe Easy Christmas Party
 
-![Four women with masks on wearing silly christmas fancy dress outfits](/static/img/pxl_20241216_191126415.jpg)
-
 **Tuesday 8th December 2026, 6-9pm. Gut Level**
+
+![](/static/img/pxl_20241216_191126415.jpg)
 
 ‘Tis the season to get together.
 
@@ -24,11 +24,7 @@ Join the Breathe Easy Christmas do:
 * Sugar rush: plant-based mince pies will be available on the terrace.
 * Festive fun: we’ll run a short creative party game to play in teams.
 
-
-
 As usual, our Covid-safer meet-up will be hosted at Sheffield’s fantastic DIY community event space and collective, [Gut Level](https://gutlevel.co.uk/) (18+ age restriction). We have exclusive use of the space. A very good value (cashless) bar offers hot and cold drinks including pop, beer, cocktails and mocktails, as well as tea and coffee. There is also a luxurious separate rest space that has a room-sized king+ bed (up a flight of stairs).
-
-
 
 *Note: socials are always on the second Tuesday of each month.*
 
@@ -87,6 +83,7 @@ As usual, our Covid-safer meet-up will be hosted at Sheffield’s fantastic DIY 
 
 
 
+
 :::
 
 ::: [show] FAQs
@@ -124,6 +121,7 @@ It can be hurtful or frustrating when an “accessible” event is inaccessible 
 **How can I get in touch?**
 
 Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
+
 
 
 
