@@ -14,7 +14,7 @@ socialImageAlt: ""
 
 ‘Tis the season to get together.
 
-We know festivities can be challenging for infection-cautious folks. So we are going Full On Christmas for our covid-conscious December social: join us at Gut Level for a little festive party!
+We know festivities can be challenging for infection-cautious folks. So we are going Full On Christmas for our Covid-conscious December social: join us at Gut Level for a little festive party!
 
 Join the Breathe Easy Christmas do:
 
@@ -60,7 +60,7 @@ As usual, our Covid-safer meet-up will be hosted at Sheffield’s fantastic DIY 
 
 **Social distancing**: highly possible.
 
-**Carer tickers** If you need a carer or PA so that it is possible for you to attend the carer ticket is free. Your carer will need to agree to the same safety precautions as other attendees, including mask wearing, testing, and non-attendance if they are unwell. 
+**Carer tickers**: If you need a carer or PA so that it is possible for you to attend the carer ticket is free. Your carer will need to agree to the same safety precautions as other attendees, including mask wearing, testing, and non-attendance if they are unwell. 
 
 **Parking**: Arundel Gate is the closest car park. There is limited Blue Badge parking on Norfolk St, outside the Methodist Church. See [Gut Level website](https://gutlevel.co.uk/venue-accessibility) or more options via [parkopedia](https://www.parkopedia.com/).
 
