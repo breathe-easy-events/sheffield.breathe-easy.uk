@@ -56,35 +56,13 @@ As usual, our Covid-safer meet-up will be hosted at Sheffield’s fantastic DIY 
 
 **Social distancing**: highly possible.
 
-**Carer tickers**: If you need a carer or PA so that it is possible for you to attend, the carer ticket is free. Your carer will need to agree to the same safety precautions as other attendees, including mask wearing, testing, and non-attendance if they are unwell. 
+**Carer tickets**: If you need a carer or PA so that it is possible for you to attend, the carer ticket is free. Your carer will need to agree to the same safety precautions as other attendees, including mask wearing, testing, and non-attendance if they are unwell. 
 
 **Parking**: Arundel Gate is the closest car park. There is limited Blue Badge parking on Norfolk St, outside the Methodist Church. See [Gut Level website](https://gutlevel.co.uk/venue-accessibility) or more options via [parkopedia](https://www.parkopedia.com/).
 
 **Social inclusion**: all respectful folks welcome. No misogyny, transphobia, racism, homophobia or ableism - or any other bigotry.
 
 **Reasonable accommodation**: we will always consider requests for accommodations if you have a disability or chronic illness. Please contact us.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 :::
 
 ::: [show] FAQs
@@ -122,6 +100,7 @@ It can be hurtful or frustrating when an “accessible” event is inaccessible 
 **How can I get in touch?**
 
 Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
+
 
 
 
