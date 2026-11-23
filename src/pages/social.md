@@ -10,7 +10,7 @@ socialImageAlt: ""
 
 **Tuesday 8th December 2026, 6-9pm. Gut Level**
 
-![](/static/img/pxl_20241216_191126415.jpg)
+![tis the season - 4 women wearing masks and xmas fancy dress](/static/img/xmas-masks.png)
 
 ‘Tis the season to get together.
 
@@ -84,6 +84,7 @@ As usual, our Covid-safer meet-up will be hosted at Sheffield’s fantastic DIY 
 
 
 
+
 :::
 
 ::: [show] FAQs
@@ -121,6 +122,7 @@ It can be hurtful or frustrating when an “accessible” event is inaccessible 
 **How can I get in touch?**
 
 Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
+
 
 
 
