@@ -60,7 +60,7 @@ As usual, our Covid-safer meet-up will be hosted at Sheffield’s fantastic DIY 
 
 **Social distancing**: highly possible.
 
-**Carer tickers**: If you need a carer or PA so that it is possible for you to attend the carer ticket is free. Your carer will need to agree to the same safety precautions as other attendees, including mask wearing, testing, and non-attendance if they are unwell. 
+**Carer tickers**: If you need a carer or PA so that it is possible for you to attend, the carer ticket is free. Your carer will need to agree to the same safety precautions as other attendees, including mask wearing, testing, and non-attendance if they are unwell. 
 
 **Parking**: Arundel Gate is the closest car park. There is limited Blue Badge parking on Norfolk St, outside the Methodist Church. See [Gut Level website](https://gutlevel.co.uk/venue-accessibility) or more options via [parkopedia](https://www.parkopedia.com/).
 
@@ -156,7 +156,7 @@ Email us at [breathe.easy.sheff@gmail.com](mailto:breathe.easy.sheff@gmail.com)
 To book, take the following steps:
 
 1. Pay Gut Level annual membership (in advance): Gut Level kindly let us organise in their space for free, but it is a members-only club. Sign up for £2 [on their website](https://gutlevel.co.uk/membership).
-2. Pay event fee (in advance): Lino printing tickets are £8.00 per person, social-only tickets are £4.00 per person. Payable in advance via BACS (bank transfer): details available on registering. Please note: your booking is not confirmed until you have paid.
+2. Pay event fee (in advance): Christmas Party tickets are ??? Payable in advance via BACS (bank transfer): details available on registering. Please note: your booking is not confirmed until you have paid.
 3. Register here: <https://forms.gle/pebhst7vdxBj11WN7>
 
 > If you want to come but can’t afford a ticket, get in touch.
